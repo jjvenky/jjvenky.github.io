@@ -4,45 +4,55 @@ title: Pubs
 permalink: /pubs/
 ---
 
-21.	Venkiteswaran JJ, Schiff SL, Taylor WD. 2015. Linking aquatic metabolism, gas exchange, and hypoxia to impacts along the 300-km Grand River, Canada. Freshwater Science 34(4): 1216-1232, doi: 10.1086/683241.
+22.	Schiff SL, Tsjui JM, Wu L, Venkiteswaran JJ, Molot LA, Elgood RJ, Paterson MJ, Neufeld JD. 2016. Millions of Boreal Shield Lakes can be used to Probe the Evolution of Archaean Ocean Life. Nature Geoscience NGS-2016-04-00787-T. Preprint on bioRxiv 054478, <http://dx.doi.org/10.1101/054478>
 
-20.	Snider DM, Venkiteswaran JJ, Schiff SL, Spoelstra J. 2015. From the Ground Up: Nitrous Oxide Sources are Constrained by Stable Isotope Values. PLoS ONE 10(3): e0118954, doi: 10.1371/journal.pone.0118954.
+21.	Venkiteswaran JJ, Schiff SL, Taylor WD. 2015. Linking aquatic metabolism, gas exchange, and hypoxia to impacts along the 300-km Grand River, Canada. Freshwater Science 34(4): 1216-1232, <http://dx.doi.org/10.1086/683241>.
 
-19.	Venkiteswaran JJ, Schiff SL, Wallin MB. 2014. Large Carbon Dioxide Fluxes From Headwater Boreal and Sub-Boreal Streams. PLoS ONE 9(7): e101756, doi: 10.1371/journal.pone.0101756.
+20.	Snider DM, Venkiteswaran JJ, Schiff SL, Spoelstra J. 2015. From the Ground Up: Nitrous Oxide Sources are Constrained by Stable Isotope Values. PLoS ONE 10(3): e0118954, <http://dx.doi.org/10.1371/journal.pone.0118954>.
 
-18.	Venkiteswaran JJ, Rosamond MS, Schiff SL. 2014. Non-linear response of riverine N2O fluxes to oxygen and temperature. Environmental Science and Technology 48(3): 1566–1573, doi: 10.1021/es500069j.
+19.	Venkiteswaran JJ, Schiff SL, Wallin MB. 2014. Large Carbon Dioxide Fluxes From Headwater Boreal and Sub-Boreal Streams. PLoS ONE 9(7): e101756, <http://dx.doi.org/10.1371/journal.pone.0101756>.
 
-17.	Thuss SJ, Venkiteswaran JJ, Schiff SL. 2014. Modelling dissolved N2O isotopes in surface waters: Implications for N2O production pathways and atmospheric emissions. PLoS ONE 9(3): e90641, doi: 10.1371/journal.pone.0090641.
+18.	Venkiteswaran JJ, Rosamond MS, Schiff SL. 2014. Non-linear response of riverine N2O fluxes to oxygen and temperature. Environmental Science and Technology 48(3): 1566–1573, <http://dx.doi.org/10.1021/es500069j>.
 
-16.	Molot LA, Watson SB, Creed IF, Trick CG, McCabe SK, Verschoor MJ, Sorichetti RJ, Powe C, Venkiteswaran JJ, Schiff SL. 2014. A novel model for cyanobacteria bloom formation: The critical role of anoxia and ferrous iron. Freshwater Biology 59(6): 1323–1340, doi: 10.1111/fwb.12334.
+17.	Thuss SJ, Venkiteswaran JJ, Schiff SL. 2014. Modelling dissolved N2O isotopes in surface waters: Implications for N2O production pathways and atmospheric emissions. PLoS ONE 9(3): e90641, <http://dx.doi.org/10.1371/journal.pone.0090641>.
 
-15.	Chen G, Venkiteswaran JJ, Schiff SL, Taylor WD. 2014. Inverse modeling of dissolved O2 and δ18O-DO to estimate aquatic metabolism, reaeration and respiration isotopic fractionation: effects of variable light regimes and input uncertainties. Aquatic Sciences 76(3): 313–329, doi: 10.1007/s00027-014-0337-8.
+16.	Molot LA, Watson SB, Creed IF, Trick CG, McCabe SK, Verschoor MJ, Sorichetti RJ, Powe C, Venkiteswaran JJ, Schiff SL. 2014. A novel model for cyanobacteria bloom formation: The critical role of anoxia and ferrous iron. Freshwater Biology 59(6): 1323–1340, <http://dx.doi.org/10.1111/fwb.12334>.
 
-14.	Venkiteswaran JJ, Schiff SL, St.Louis VL, Matthews CJD, Boudreau NM, Joyce EM, Beaty KG, Bodaly RA. 2013. Processes affecting greenhouse gas production in experimental boreal reservoirs. Global Biogeochemical Cycles 27(7): 567–577, doi: 10.1002/gbc.20046.
+15.	Chen G, Venkiteswaran JJ, Schiff SL, Taylor WD. 2014. Inverse modeling of dissolved O2 and δ18O-DO to estimate aquatic metabolism, reaeration and respiration isotopic fractionation: effects of variable light regimes and input uncertainties. Aquatic Sciences 76(3): 313–329, <http://dx.doi.org/10.1007/s00027-014-0337-8>.
 
-13.	Snider DM, Venkiteswaran JJ, Schiff SL, Spoelstra J. 2013. A new mechanistic model of δ18O-N2O formation by denitrification. Geochimica et Cosmochimica Acta 112(1): 102–115, doi:10.1016/j.gca.2013.03.003.
+14.	Venkiteswaran JJ, Schiff SL, St.Louis VL, Matthews CJD, Boudreau NM, Joyce EM, Beaty KG, Bodaly RA. 2013. Processes affecting greenhouse gas production in experimental boreal reservoirs. Global Biogeochemical Cycles 27(7): 567–577, <http://dx.doi.org/10.1002/gbc.20046>.
 
-12.	Snider DM, Venkiteswaran JJ, Schiff SL, Spoelstra J. 2012. Deciphering the oxygen isotope composition of nitrous oxide produced by nitrification. Global Change Biology 18(1): 356–370, doi:10.1111/j.1365-2486.2011.02547.x.
+13.	Snider DM, Venkiteswaran JJ, Schiff SL, Spoelstra J. 2013. A new mechanistic model of δ18O-N2O formation by denitrification. Geochimica et Cosmochimica Acta 112(1): 102–115, <http://dx.doi.org/10.1016/j.gca.2013.03.003>.
 
-11.	Baulch HM, Dillon PJ, Maranger R, Venkiteswaran JJ, Wilson HF, Schiff SL. 2011. Night and day: Short-term variation in nitrogen chemistry and N2O emissions and the implications of daytime sampling. Freshwater Biology 57(3): 509–525, doi:10.1111/j.1365-2427.2011.02720.x.
+12.	Snider DM, Venkiteswaran JJ, Schiff SL, Spoelstra J. 2012. Deciphering the oxygen isotope composition of nitrous oxide produced by nitrification. Global Change Biology 18(1): 356–370, <http://dx.doi.org/10.1111/j.1365-2486.2011.02547.x>.
 
-10.	Snider DM, Spoelstra J, Schiff, SL, Venkiteswaran JJ. 2010. Stable oxygen isotope ratios of nitrate produced from nitrification: 18O-labelled water incubations of agricultural and temperate forest soils. Environmental Science and Technology 44(14): 5358–5364, doi:10.1021/es1002567.
+11.	Baulch HM, Dillon PJ, Maranger R, Venkiteswaran JJ, Wilson HF, Schiff SL. 2011. Night and day: Short-term variation in nitrogen chemistry and N2O emissions and the implications of daytime sampling. Freshwater Biology 57(3): 509–525, <http://dx.doi.org/10.1111/j.1365-2427.2011.02720.x>.
 
-9.	Wassenaar LI, Venkiteswaran JJ, Koehler G, Schiff SL. 2010. Riverine aquatic community metabolism response to point-source sewage inputs quantified using diel δ18O values of dissolved oxygen. Canadian Journal of Fisheries and Aquatic Sciences 67(7): 1232–1246, doi:10.1139/F10-057.
+10.	Snider DM, Spoelstra J, Schiff, SL, Venkiteswaran JJ. 2010. Stable oxygen isotope ratios of nitrate produced from nitrification: 18O-labelled water incubations of agricultural and temperate forest soils. Environmental Science and Technology 44(14): 5358–5364, <http://dx.doi.org/10.1021/es1002567>.
 
-8.	Baulch HM, Venkiteswaran JJ, Dillon PJ, Maranger R. 2010. Revisiting the application of open-channel estimates of denitrification. Limnology and  Oceanography Methods 8: 202–215, doi:10.4319/lom.2010.8.202..
+9.	Wassenaar LI, Venkiteswaran JJ, Koehler G, Schiff SL. 2010. Riverine aquatic community metabolism response to point-source sewage inputs quantified using diel δ18O values of dissolved oxygen. Canadian Journal of Fisheries and Aquatic Sciences 67(7): 1232–1246, <http://dx.doi.org/10.1139/F10-057>.
 
-7.	Venkiteswaran JJ, Schiff SL, Wassenaar LI. 2008. Aquatic metabolism and ecosystem health assessment using dissolved O2 stable isotope diel curves. Ecological Applications 18(4): 965–982, doi:10.1890/07-0491.1 (Received the R. H. Peters Award from the Society of Canadian Limnologists in 2009. The Peters Award recognizes the best student lead-authored paper, within the previous two years, dealing with a topic related to the aquatic sciences.)
+8.	Baulch HM, Venkiteswaran JJ, Dillon PJ, Maranger R. 2010. Revisiting the application of open-channel estimates of denitrification. Limnology and  Oceanography Methods 8: 202–215, <http://dx.doi.org/10.4319/lom.2010.8.202.>.
 
-6.	Venkiteswaran JJ, Wassenaar LI, Schiff SL. 2007. Dynamics of dissolved oxygen isotopic ratios: a transient model to quantify primary production, community respiration, and air–water exchange in aquatic ecosystems. Oecologia 153(2): 385–398, doi:10.1007/s00442-007-0744-9 (Received the R. H. Peters Award from the Society of Canadian Limnologists in 2009. The Peters Award recognizes the best student lead-authored paper, within the previous two years, dealing with a topic related to the aquatic sciences.)
+7.	Venkiteswaran JJ, Schiff SL, Wassenaar LI. 2008. Aquatic metabolism and ecosystem health assessment using dissolved O2 stable isotope diel curves. Ecological Applications 18(4): 965–982, <http://dx.doi.org/10.1890/07-0491.1>.
 
-5.	Venkiteswaran JJ, Schiff SL. 2005. Methane oxidation: isotopic enrichment factors in freshwater boreal reservoirs. Applied Geochemistry 20(4): 683–690, doi:10.1016/j.apgeochem.2004.11.007.
+6.	Venkiteswaran JJ, Wassenaar LI, Schiff SL. 2007. Dynamics of dissolved oxygen isotopic ratios: a transient model to quantify primary production, community respiration, and air–water exchange in aquatic ecosystems. Oecologia 153(2): 385–398, <http://dx.doi.org/10.1007/s00442-007-0744-9>.
 
-4.	Hendzel LL, Matthews CJD, Venkiteswaran JJ, St.Louis VL, Burton D, Joyce EM, Bodaly RA. 2005. Nitrous Oxide Fluxes in Three Experimental Boreal Forest Reservoirs. Environmental Science and Technology 39(12): 4353–4360, doi:10.1021/es049443j.
+5.	Venkiteswaran JJ, Schiff SL. 2005. Methane oxidation: isotopic enrichment factors in freshwater boreal reservoirs. Applied Geochemistry 20(4): 683–690, <http://dx.doi.org/10.1016/j.apgeochem.2004.11.007>.
 
-3.	Matthews CJD, Joyce EM, St.Louis VL, Schiff SL, Venkiteswaran JJ, Hall BD, Bodaly RA, Beaty KG. 2005. Carbon Dioxide and Methane Production in Small Reservoirs Flooding Upland Boreal Forest. Ecosystems 8: 267–285. doi:10.1007/s10021-005-0005-x.
+4.	Hendzel LL, Matthews CJD, Venkiteswaran JJ, St.Louis VL, Burton D, Joyce EM, Bodaly RA. 2005. Nitrous Oxide Fluxes in Three Experimental Boreal Forest Reservoirs. Environmental Science and Technology 39(12): 4353–4360, <http://dx.doi.org/10.1021/es049443j>.
 
-2.	Bodaly RA, Beaty KG, Hendzel LH, Majewski AR, Paterson MJ, Rolfhus KR, Penn AF, St.Louis VL, Hall BD, Matthews CJD, Cherewyk K, Mailman M, Hurley JP, Schiff SL, Venkiteswaran JJ. 2005. Response to Jackson ‘Mercury and the FLUDEX Project.’ Environmental Science and Technology 39(9): 185A–186A, doi:10.1021/es053256j (Authors ordered by alphabetical affiliation.)
+3.	Matthews CJD, Joyce EM, St.Louis VL, Schiff SL, Venkiteswaran JJ, Hall BD, Bodaly RA, Beaty KG. 2005. Carbon Dioxide and Methane Production in Small Reservoirs Flooding Upland Boreal Forest. Ecosystems 8: 267–285. <http://dx.doi.org/10.1007/s10021-005-0005-x>.
 
-1.	Bodaly RA, Beaty KG, Hendzel LH, Majewski AR, Paterson MJ, Rolfhus KR, Penn AF, St.Louis VL, Hall BD, Matthews CJD, Cherewyk KA, Mailman M, Hurley JP, Schiff SL, Venkiteswaran JJ. 2004. The use of experimental reservoirs to explore the mercury and greenhouse gas impacts of hydro-electric developments: The FLUDEX experiment. Environmental Science and Technology 38(18): 337A–352A, doi:10.1021/es040614u (Authors ordered by alphabetical affiliation.).
+2.	Bodaly RA, Beaty KG, Hendzel LH, Majewski AR, Paterson MJ, Rolfhus KR, Penn AF, St.Louis VL, Hall BD, Matthews CJD, Cherewyk K, Mailman M, Hurley JP, Schiff SL, Venkiteswaran JJ. 2005. Response to Jackson ‘Mercury and the FLUDEX Project.’ Environmental Science and Technology 39(9): 185A–186A, <http://dx.doi.org/10.1021/es053256j>
+
+1.	Bodaly RA, Beaty KG, Hendzel LH, Majewski AR, Paterson MJ, Rolfhus KR, Penn AF, St.Louis VL, Hall BD, Matthews CJD, Cherewyk KA, Mailman M, Hurley JP, Schiff SL, Venkiteswaran JJ. 2004. The use of experimental reservoirs to explore the mercury and greenhouse gas impacts of hydro-electric developments: The FLUDEX experiment. Environmental Science and Technology 38(18): 337A–352A, <http://dx.doi.org/10.1021/es040614u>.
+
+{: reversed="reversed"}
+
+[Google Scholar](http://is.gd/)
+
+[orcid](https://orcid.org/0000-0002-6574-7071)
+
+[publons](https://publons.com/a/419333/)
 
