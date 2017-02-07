@@ -19,3 +19,5 @@ github_username:  jjvenky
 markdown: kramdown
 gems:
    - jemoji
+   - minima
+theme: minima
