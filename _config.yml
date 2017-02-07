@@ -11,7 +11,7 @@ title: Jason Venkiteswaran
 description: > # this means to ignore newlines until "baseurl:"
   :-) 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jjvenky.github.io/" # the base hostname & protocol for your site
+url: "https://jjvenky.github.io" # the base hostname & protocol for your site
 twitter_username: jjvenky
 github_username:  jjvenky
 
@@ -19,4 +19,4 @@ github_username:  jjvenky
 markdown: kramdown
 gems:
    - jemoji
-theme: jekyll-theme-minima
+theme: minima
