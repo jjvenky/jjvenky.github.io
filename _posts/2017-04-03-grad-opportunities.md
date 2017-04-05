@@ -27,20 +27,20 @@ A series of field campaigns at the ELA, laboratory experiments and modelling exe
 Contact:
 --------
 
-Prof. Jason Venkiteswaran
-Department of Geography and Environmental Studies
-Wilfrid Laurier University
-Waterloo, ON N2L 3C5
+Prof. Jason Venkiteswaran, 
+Department of Geography and Environmental Studies, 
+Wilfrid Laurier University, 
+Waterloo, ON N2L 3C5, 
 jvenkiteswaran at wlu dot ca
 
-Prof. Lewis Molot
-Faculty of Environmental Studies
-York University
-Toronto, ON M3J 1P3
+Prof. Lewis Molot, 
+Faculty of Environmental Studies, 
+York University, 
+Toronto, ON M3J 1P3, 
 lmolot at yorku dot ca
 
-Prof. Sherry Schiff
-Department of Earth and Environmental Sciences
-University of Waterloo
-Waterloo, ON N2L 3G1
+Prof. Sherry Schiff, 
+Department of Earth and Environmental Sciences, 
+University of Waterloo, 
+Waterloo, ON N2L 3G1, 
 sschiff at uwaterloo dot ca
