@@ -24,3 +24,23 @@ Opportunities:
 
 A series of field campaigns at the ELA, laboratory experiments and modelling exercises will evaluate the Fe cycling in boreal lakes and the use of natural stable Fe isotopes. Carefully selected samples from other lakes and reservoirs across Canada, collected by collaborating scientists, will also be analyzed to evaluate the potential for widespread application of this promising novel technique. Potential graduate student research projects will be *(1)* examine how nitrogen (N) and phosphorus (P) concentrations affect Fe fractionation in algal cultures (MSc) and *(2)* determine the seasonality of Fe, C and N stable isotope values in several lakes (PhD) concurrent with seasonal algal succession. *(3)* The postdoctoral fellow will apply comprehensive biogeochemical lake and sediment models to coupled cycling of C, N, P, Fe, S and O2 using historical and current ELA data.
 
+Contact:
+--------
+
+Prof. Jason Venkiteswaran
+Department of Geography and Environmental Studies
+Wilfrid Laurier University
+Waterloo, ON N2L 3C5
+jvenkiteswaran at wlu dot ca
+
+Prof. Lewis Molot
+Faculty of Environmental Studies
+York University
+Toronto, ON M3J 1P3
+lmolot at yorku dot ca
+
+Prof. Sherry Schiff
+Department of Earth and Environmental Sciences
+University of Waterloo
+Waterloo, ON N2L 3G1
+sschiff at uwaterloo dot ca
