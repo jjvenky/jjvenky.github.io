@@ -6,7 +6,7 @@ permalink: /pubs/
 
 24.	Venkiteswaran JJ, Schiff SL, Paterson MJ, Flinn NAP, Shao H, Elgood RJ. 2017. Changing nitrogen deposition with low δ15N−NH4+ and δ15N−NO3− values at the Experimental Lakes Area, northwestern Ontario, Canada. FACETS 2: 249–266. <https://doi.org/10.1139/facets-2016-0060>
 
-23.	Verschoor M, Powe C, McQuay E, Schiff SL, Venkiteswaran JJ, Li J, Molot LA. Internal iron loading and warm temperatures are pre-conditions for cyanobacterial dominance in embayments along Georgian Bay, Great Lakes. Canadian Journal of Fisheries and Aquatic Sciences <https://doi.org/10.1139/cjfas-2016-0377>
+23.	Verschoor M, Powe C, McQuay E, Schiff SL, Venkiteswaran JJ, Li J, Molot LA. 2017. Internal iron loading and warm temperatures are pre-conditions for cyanobacterial dominance in embayments along Georgian Bay, Great Lakes. Canadian Journal of Fisheries and Aquatic Sciences <https://doi.org/10.1139/cjfas-2016-0377>
 
 22.	Schiff SL, Tsjui JM, Wu L, Venkiteswaran JJ, Molot LA, Elgood RJ, Paterson MJ, Neufeld JD. 2017. Millions of Boreal Shield Lakes can be used to Probe the Evolution of Archaean Ocean Life. Scientific Reports SREP-16-48108. Preprint on bioRxiv 054478, <https://doi.org/10.1101/054478>
 
