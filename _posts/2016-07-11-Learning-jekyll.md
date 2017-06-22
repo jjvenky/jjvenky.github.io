@@ -2,7 +2,9 @@
 layout: post
 title:  "No time like the present"
 date:   2016-07-11 20:45:00 -0400
-categories: jekyll 
+categories: articles 
+tags: [jekyll]
+share: true
 ---
 No time like the present to learn how to deply jekyll and github pages.
 

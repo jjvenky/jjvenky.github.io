@@ -2,7 +2,9 @@
 layout: post
 title:  "Graduate Student Opportunities in Aquatic Ecology and Biogeochemistry"
 date:   2017-04-03 21:00:00 -0400
-categories: grad research
+categories: articles
+tags: [grad research cyano]
+share: true
 ---
 
 Graduate Student Opportunities in Aquatic Ecology and Biogeochemistry

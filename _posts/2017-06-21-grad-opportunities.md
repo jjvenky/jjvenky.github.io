@@ -3,6 +3,8 @@ layout: post
 title:  "Graduate Student Opportunities in Bloom Ecology and Biogeochemistry"
 date:   2017-06-21 21:00:00 -0400
 categories: grad research
+tags: [grad research cyano formbloom]
+share: true
 ---
 
 Graduate Student Opportunities in Bloom Ecology and Biogeochemistry
