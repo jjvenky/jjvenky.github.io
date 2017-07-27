@@ -7,7 +7,7 @@ permalink: /pubs/
 
 {: reversed="reversed"}
 
-26.	Campeau A, Giesler R, Löfgren S, Mörth C-R, Schiff SL, Venkiteswaran JJ, Bishop K. Multiple sources and sinks of dissolved inorganic carbon across Swedish streams, refocusing the lens of stable C isotopes. Scientific Reports SREP-17-18324-T. 36 pp. Accepted.
+26.	Campeau A, Wallin MB, Giesler R, Löfgren S, Mörth C-R, Schiff SL, Venkiteswaran JJ, Bishop K. Multiple sources and sinks of dissolved inorganic carbon across Swedish streams, refocusing the lens of stable C isotopes. Scientific Reports SREP-17-18324-T. 36 pp. Accepted.
 
 25.	Orihel D, Baulch HM, Casson NJ, Parsons CT, Seckar D, Venkiteswaran JJ. Internal phosphorus loading in Canadian freshwaters: A critical review and data analysis. Canadian Journal of Fisheries and Aquatic Sciences cjfas-2016-0500. 111 pp. Accepted.
 
