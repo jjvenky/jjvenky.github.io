@@ -6,11 +6,16 @@ permalink: /pubs/
 ---
 
 {: reversed="reversed"}
+
+26.	Campeau A, Giesler R, Löfgren S, Mörth C-R, Schiff SL, Venkiteswaran JJ, Bishop K. Multiple sources and sinks of dissolved inorganic carbon across Swedish streams, refocusing the lens of stable C isotopes. Scientific Reports SREP-17-18324-T. 36 pp. Accepted.
+
+25.	Orihel D, Baulch HM, Casson NJ, Parsons CT, Seckar D, Venkiteswaran JJ. Internal phosphorus loading in Canadian freshwaters: A critical review and data analysis. Canadian Journal of Fisheries and Aquatic Sciences cjfas-2016-0500. 111 pp. Accepted.
+
 24.	Venkiteswaran JJ, Schiff SL, Paterson MJ, Flinn NAP, Shao H, Elgood RJ. 2017. Changing nitrogen deposition with low δ<sup>15</sup>N−NH<sub>4</sub><sup>+</sup> and δ<sup>15</sup>N−NO<sub>3</sub><sup>−</sup> values at the Experimental Lakes Area, northwestern Ontario, Canada. FACETS 2: 249–266. <https://doi.org/10.1139/facets-2016-0060>
 
 23.	Verschoor M, Powe C, McQuay E, Schiff SL, Venkiteswaran JJ, Li J, Molot LA. Internal iron loading and warm temperatures are pre-conditions for cyanobacterial dominance in embayments along Georgian Bay, Great Lakes. Canadian Journal of Fisheries and Aquatic Sciences <https://doi.org/10.1139/cjfas-2016-0377>
 
-22.	Schiff SL, Tsjui JM, Wu L, Venkiteswaran JJ, Molot LA, Elgood RJ, Paterson MJ, Neufeld JD. 2017. Millions of Boreal Shield Lakes can be used to Probe the Evolution of Archaean Ocean Life. Scientific Reports SREP-16-48108. Preprint on bioRxiv 054478, <https://doi.org/10.1101/054478>
+22.	Schiff SL, Tsjui JM, Wu L, Venkiteswaran JJ, Molot LA, Elgood RJ, Paterson MJ, Neufeld JD. 2017. Millions of Boreal Shield Lakes can be used to Probe the Evolution of Archaean Ocean Life. Scientific Reports 7: 46708, <https://doi.org/10.1038/srep46708>
 
 21.	Venkiteswaran JJ, Schiff SL, Taylor WD. 2015. Linking aquatic metabolism, gas exchange, and hypoxia to impacts along the 300-km Grand River, Canada. Freshwater Science 34(4): 1216-1232, <https://doi.org/10.1086/683241>.
 
@@ -57,6 +62,4 @@ permalink: /pubs/
 [Google Scholar](https://scholar.google.ca/citations?user=4FQ_rQsAAAAJ)
 
 [orcid](https://orcid.org/0000-0002-6574-7071)
-
-[publons](https://publons.com/a/419333/)
 
