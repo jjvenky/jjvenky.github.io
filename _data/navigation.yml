@@ -12,11 +12,11 @@
 #- title: Posts
 #  url: /posts/
 
-- title: Pubs
-  url: /pubs
-
 - title: People
   url: /people
+
+- title: Pubs
+  url: /pubs
 
 #- title: Search
 #  url: /search/
