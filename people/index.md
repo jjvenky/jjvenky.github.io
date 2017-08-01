@@ -21,9 +21,11 @@ graf
 
 graf
 
-<h3> PS, MSc student </h3>
+<h3> Puru Shah, MSc student </h3>
 
-graf
+<img src="../images/puru_shah-photo.jpg" class="bio-photo">
+
+Puru has just finished his undergrad from University of Waterloo in Biochemistry. Through the co-op program, he has worked at Environment and Climate Change Canada researching harmful algal blooms. His thesis work will be looking at algal and cyanobacterial cultures and how they interact with and take up iron to hopefully better understand the role of iron in harmful algal bloom formation.
 
 <h3> JA, MSc student </h3>
 
