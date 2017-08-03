@@ -21,9 +21,11 @@ graf
 
 graf
 
-### RIH, MSc student
+### Rachel Henderson, MSc student
 
-graf
+![](../images/rachel_henderson-photo.jpg){: class="bio-photo"}
+
+Rachel completed her BSc in Environmental Science at the University of Waterloo. She is currently studying the role of particulate organic matter in iron uptake and fractionation by cyanobacteria at the Experimental Lakes Area, and how this may differ between eutrophic and oligotrophic lakes. She is interested in the applications of geochemistry to solving environmental problems, and how science can better inform public policy.
 
 ### Puru Shah, MSc student
 
