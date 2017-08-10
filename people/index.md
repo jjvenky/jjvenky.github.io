@@ -11,7 +11,7 @@ permalink: /people/
 
 ![](../images/bio-photo.jpg){: class="bio-photo"} 
 
-My research is currently focused on the biogeochemical cycling of nutrients and related elements, and human and climate related disruptions of these cycles. For more than a decade,  I have conducted whole-ecosystem research at the world-renowned <a href="https://www.wlu.ca/academics/faculties/faculty-of-arts/faculty-profiles/jason-venkiteswaran/index.html#https://www.iisd.org/ela/">Experimental Lakes Area</a> studying reservoir creation, ecosystem metabolism and eutrophication. To study the fate of biogeochemical elements, I often use stable isotope measurements with process-based ecological models. I am a co-founder of the <a href="https://saveela.org">Coalition to Save ELA</a>.
+My research is currently focused on the biogeochemical cycling of nutrients and related elements, and human and climate related disruptions of these cycles. For more than a decade,  I have conducted whole-ecosystem research at the world-renowned [Experimental Lakes Area](https://www.iisd.org/ela/) studying reservoir creation, ecosystem metabolism and eutrophication. To study the fate of biogeochemical elements, I often use stable isotope measurements with process-based ecological models. I am a co-founder of the [Coalition to Save ELA](https://saveela.org).
 
 ### Megan Larsen, Postdoctoral fellow
 
@@ -19,7 +19,9 @@ graf
 
 ### Jared Wolfe, Research associate
 
-graf
+![](../images/jared_wolfe-photo.jpg){: class="bio-photo"}
+
+Jared completed his MSc at the University of Regina studying the impacts of Oil Sands industrial development on historical algal communities in northern Saskatchewan. He is currently investigating harmful algal bloom formation and decline in the [Experimental Lakes Area](https://www.iisd.org/ela/) as part of the [FORMBLOOM](http://gwf.usask.ca/science/pillar-3-projects.php#ForecastingToolsandMitigationOptionsforDiverseBloomAffectedLakes) (Forecasting Tools and Mitigation Options for Diverse Bloom-Affected Lakes) project. His interests are in studying relationships between ecosystem components, particularly the relationship between humans and the environment.
 
 ### Rachel Henderson, MSc student
 
@@ -47,7 +49,7 @@ BB assessed the patterns of land cover diversity at the Experimental Lakes Area.
 
 ![](../images/tyler_prentice-photo.jpg){: class="bio-photo"} 
 
-TP quantified the impacts of freeze-thaw cycles on nutrient release by riparian vegetation. This was a contribution to the multi-university <a href="https://biogeochem.github.io/lugnuts/">luguts</a>, linked undergraduate research in nutrients.
+TP quantified the impacts of freeze-thaw cycles on nutrient release by riparian vegetation. This was a contribution to the multi-university [lugnuts](https://biogeochem.github.io/lugnuts/), linked undergraduate research in nutrients.
 
 
 # Friends
