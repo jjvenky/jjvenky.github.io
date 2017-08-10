@@ -19,6 +19,8 @@ graf
 
 ### Jared Wolfe, Research associate
 
+![](../images/jared_wolfe-photo.jpg){: class="bio-photo"}
+
 Jared completed his MSc at the University of Regina studying the impacts of Oil Sands industrial development on historical algal communities in northern Saskatchewan. He is currently investigating harmful algal bloom formation and decline in the [Experimental Lakes Area](https://www.iisd.org/ela/) as part of the [FORMBLOOM](http://gwf.usask.ca/science/pillar-3-projects.php#ForecastingToolsandMitigationOptionsforDiverseBloomAffectedLakes) (Forecasting Tools and Mitigation Options for Diverse Bloom-Affected Lakes) project. His interests are in studying relationships between ecosystem components, particularly the relationship between humans and the environment.
 
 ### Rachel Henderson, MSc student
