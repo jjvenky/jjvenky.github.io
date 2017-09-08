@@ -7,15 +7,15 @@ permalink: /pubs/
 
 {: reversed="reversed"}
 
-26.	Campeau A, Wallin MB, Giesler R, Löfgren S, Mörth C-R, Schiff SL, Venkiteswaran JJ, Bishop K. Multiple sources and sinks of dissolved inorganic carbon across Swedish streams, refocusing the lens of stable C isotopes. Scientific Reports SREP-17-18324-T. 36 pp. Accepted.
+26.	Campeau A, Wallin MB, Giesler R, Löfgren S, Mörth C-R, Schiff SL, Venkiteswaran JJ, Bishop K. 2017. Multiple sources and sinks of dissolved inorganic carbon across Swedish streams, refocusing the lens of stable C isotopes. Scientific Reports 7: 9158, <https://doi.org/10.1038/s41598-017-09049-9>.
 
-25.	Orihel D, Baulch HM, Casson NJ, Parsons CT, Seckar D, Venkiteswaran JJ. Internal phosphorus loading in Canadian freshwaters: A critical review and data analysis. Canadian Journal of Fisheries and Aquatic Sciences. <https://doi.org/cjfas-2016-0500>
+25.	Orihel D, Baulch HM, Casson NJ, Parsons CT, Seckar D, Venkiteswaran JJ. Internal phosphorus loading in Canadian freshwaters: A critical review and data analysis. 2017. Canadian Journal of Fisheries and Aquatic Sciences. <https://doi.org/cjfas-2016-0500>.
 
-24.	Venkiteswaran JJ, Schiff SL, Paterson MJ, Flinn NAP, Shao H, Elgood RJ. 2017. Changing nitrogen deposition with low δ<sup>15</sup>N−NH<sub>4</sub><sup>+</sup> and δ<sup>15</sup>N−NO<sub>3</sub><sup>−</sup> values at the Experimental Lakes Area, northwestern Ontario, Canada. FACETS 2: 249–266. <https://doi.org/10.1139/facets-2016-0060>
+24.	Venkiteswaran JJ, Schiff SL, Paterson MJ, Flinn NAP, Shao H, Elgood RJ. 2017. Changing nitrogen deposition with low δ<sup>15</sup>N−NH<sub>4</sub><sup>+</sup> and δ<sup>15</sup>N−NO<sub>3</sub><sup>−</sup> values at the Experimental Lakes Area, northwestern Ontario, Canada. FACETS 2: 249–266. <https://doi.org/10.1139/facets-2016-0060>.
 
-23.	Verschoor M, Powe C, McQuay E, Schiff SL, Venkiteswaran JJ, Li J, Molot LA. Internal iron loading and warm temperatures are pre-conditions for cyanobacterial dominance in embayments along Georgian Bay, Great Lakes. Canadian Journal of Fisheries and Aquatic Sciences <https://doi.org/10.1139/cjfas-2016-0377>
+23.	Verschoor M, Powe C, McQuay E, Schiff SL, Venkiteswaran JJ, Li J, Molot LA. Internal iron loading and warm temperatures are pre-conditions for cyanobacterial dominance in embayments along Georgian Bay, Great Lakes. Canadian Journal of Fisheries and Aquatic Sciences 74(9): 1439-1453, <https://doi.org/10.1139/cjfas-2016-0377>.
 
-22.	Schiff SL, Tsjui JM, Wu L, Venkiteswaran JJ, Molot LA, Elgood RJ, Paterson MJ, Neufeld JD. 2017. Millions of Boreal Shield Lakes can be used to Probe the Evolution of Archaean Ocean Life. Scientific Reports 7: 46708, <https://doi.org/10.1038/srep46708>
+22.	Schiff SL, Tsjui JM, Wu L, Venkiteswaran JJ, Molot LA, Elgood RJ, Paterson MJ, Neufeld JD. 2017. Millions of Boreal Shield Lakes can be used to Probe the Evolution of Archaean Ocean Life. Scientific Reports 7: 46708, <https://doi.org/10.1038/srep46708>.
 
 21.	Venkiteswaran JJ, Schiff SL, Taylor WD. 2015. Linking aquatic metabolism, gas exchange, and hypoxia to impacts along the 300-km Grand River, Canada. Freshwater Science 34(4): 1216-1232, <https://doi.org/10.1086/683241>.
 
