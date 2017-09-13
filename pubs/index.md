@@ -9,7 +9,7 @@ permalink: /pubs/
 
 26.	Campeau A, Wallin MB, Giesler R, Löfgren S, Mörth C-R, Schiff SL, Venkiteswaran JJ, Bishop K. Multiple sources and sinks of dissolved inorganic carbon across Swedish streams, refocusing the lens of stable C isotopes. Scientific Reports SREP-17-18324-T. 36 pp. Accepted.
 
-25.	Orihel D, Baulch HM, Casson NJ, Parsons CT, Seckar D, Venkiteswaran JJ. Internal phosphorus loading in Canadian freshwaters: A critical review and data analysis. Canadian Journal of Fisheries and Aquatic Sciences cjfas-2016-0500. 111 pp. Accepted.
+25.	Orihel D, Baulch HM, Casson NJ, Parsons CT, Seckar D, Venkiteswaran JJ. Internal phosphorus loading in Canadian freshwaters: A critical review and data analysis. Canadian Journal of Fisheries and Aquatic Sciences. <https://doi.org/cjfas-2016-0500>
 
 24.	Venkiteswaran JJ, Schiff SL, Paterson MJ, Flinn NAP, Shao H, Elgood RJ. 2017. Changing nitrogen deposition with low δ<sup>15</sup>N−NH<sub>4</sub><sup>+</sup> and δ<sup>15</sup>N−NO<sub>3</sub><sup>−</sup> values at the Experimental Lakes Area, northwestern Ontario, Canada. FACETS 2: 249–266. <https://doi.org/10.1139/facets-2016-0060>
 
