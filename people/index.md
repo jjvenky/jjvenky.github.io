@@ -42,7 +42,11 @@ Rachel completed her BSc in Environmental Science at the University of Waterloo.
 Puru has just finished his undergrad from University of Waterloo in Biochemistry. Through the co-op program, he has worked at Environment and Climate Change Canada researching harmful algal blooms. His thesis work will be looking at algal and cyanobacterial cultures and how they interact with and take up iron to hopefully better understand the role of iron in harmful algal bloom formation.
 
 
-### JA, MSc student
+### Jordyn Atkins, MSc student
+
+![](../images/jordyn_atkins-photo.jpg){: class="bio-photo"}
+
+Jordyn completed her Honours BSc in Earth and Environmental Sciences with a GIS minor at McMaster University. Her MSc research will focus on understanding the relationship between catchment land cover characteristics, dissolved organic carbon, and disinfection by-products. GIS will be used to create a model to predict which waters will produce less disinfection by-products and therefore are better suited to drinking water.
 
 
 # Former Members
