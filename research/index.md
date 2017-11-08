@@ -3,12 +3,13 @@ layout: page
 title: Research
 excerpt: 
 modified: 2017-11-07
+permalink: /research/
 image:
   feature: L305_feature.jpg
 #  credit: Jason Venkiteswaran
 ---
 
-# FORMBLOOM: FORecasting tools and Mitigation options for diverse BLOOM-affected lakes
+# FORMBLOOM: FORecasting tools and Mitigation options for diverse BLOOM-affected lakes (2017-2020)
 
 Freshwater lakes and reservoirs across Canada provide numerous services for local communities ranging from drinking water to recreation. Unfortunately, these same ecosystems are susceptible to a changing climate and nutrient loading. Cyanobacteria, a common photosynthetic group of microbes in freshwater lakes, are known to grow in excess (or bloom) when nutrients loads are high. Under these conditions, cyanobacteria may have detrimental effects on human, animal, and ecosystem health. 
 

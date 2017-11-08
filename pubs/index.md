@@ -3,6 +3,10 @@ layout: page
 title: Pubs
 excerpt:
 permalink: /pubs/
+modified: 2017-11-07
+image:
+  feature: cornus_feature.jpg
+#  credit: Jason Venkiteswaran
 ---
 
 {: reversed="reversed"}
