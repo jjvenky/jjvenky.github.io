@@ -41,27 +41,29 @@ Rachel completed her BSc in Environmental Science at the University of Waterloo.
 
 Puru has just finished his undergrad from University of Waterloo in Biochemistry. Through the co-op program, he has worked at Environment and Climate Change Canada researching harmful algal blooms. His thesis work will be looking at algal and cyanobacterial cultures and how they interact with and take up iron to hopefully better understand the role of iron in harmful algal bloom formation.
 
-
 ### Jordyn Atkins, MSc student
 
 ![](../images/jordyn_atkins-photo.jpg){: class="bio-photo"}
 
 Jordyn completed her Honours BSc in Earth and Environmental Sciences with a GIS minor at McMaster University. Her MSc research will focus on understanding the relationship between catchment land cover characteristics, dissolved organic carbon, and disinfection by-products. GIS will be used to create a model to predict which waters will produce less disinfection by-products and therefore are better suited to drinking water.
 
+### Eric McQuay, MSc student
+
+Eric defended his MSc thesis in Earth Sciences in October 2017. His research focussed on the redox preconditions required for cyanobacteria dominance of phytoplankton blooms along the embayments of [Georgian Bay](https://doi.org/10.1139/cjfas-2016-0377).
 
 # Former Members
 
-### BB, BSc student
+### Ben Bell, BSc student
 
-BB assessed the patterns of land cover diversity at the Experimental Lakes Area.
+Ben assessed the patterns of land cover diversity at the [IISD Experimental Lakes Area.](https://www.iisd.org/ela/)
 
 ### Tyler Prentice, BSc student
 
 ![](../images/tyler_prentice-photo.jpg){: class="bio-photo"} 
 
-TP quantified the impacts of freeze-thaw cycles on nutrient release by riparian vegetation. This was a contribution to the multi-university [lugnuts](https://biogeochem.github.io/lugnuts/), linked undergraduate research in nutrients.
+Tyler quantified the impacts of freeze-thaw cycles on nutrient release by riparian vegetation. This was a contribution to the multi-university [lugnuts](https://biogeochem.github.io/lugnuts/), linked undergraduate research in nutrients.
 
 
 # Friends
 
-Friends are our collaborators at a variety of organizations. In some cases they are co-supervisors, committee members, and/or co-applicants on grants. Often they are co-authors on our papers. In all cases, they are the extended group of people I like to work with. <!-- In alphatical order: Helen Baulch, Nora Casson, Scott Higgins, Lewis Molot, Josh Neufeld, Rebecca North, Michael Paterson, Sherry Schiff, and Colin Whitfield. -->
+Friends are our collaborators at a variety of organizations and institutions. In some cases they are co-supervisors, committee members, and/or co-applicants on grants. Often they are co-authors on our papers. In all cases, they are the extended group of people I like to work with. <!-- In alphatical order: Helen Baulch, Nora Casson, Scott Higgins, Lewis Molot, Josh Neufeld, Rebecca North, Michael Paterson, Sherry Schiff, and Colin Whitfield. -->
