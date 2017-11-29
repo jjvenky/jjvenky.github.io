@@ -11,6 +11,8 @@ image:
 
 {: reversed="reversed"}
 
+27.	Higgins SN, Paterson MJ, Hecky RE, Schindler DW, Venkiteswaran JJ, Findlay DL. Biological Nitrogen Fixation Prevents the Response of a Eutrophic Lake to Reduced Loading of Nitrogen: Evidence from a 46-Year Whole-Lake Experiment. Ecosystems. <https://doi.org/10.1007/s10021-017-0204-2>
+
 26.	Campeau A, Wallin MB, Giesler R, Löfgren S, Mörth C-R, Schiff SL, Venkiteswaran JJ, Bishop K. 2017. Multiple sources and sinks of dissolved inorganic carbon across Swedish streams, refocusing the lens of stable C isotopes. Scientific Reports 7: 9158, <https://doi.org/10.1038/s41598-017-09049-9>.
 
 25.	Orihel D, Baulch HM, Casson NJ, Parsons CT, Seckar D, Venkiteswaran JJ. Internal phosphorus loading in Canadian freshwaters: A critical review and data analysis. 2017. Canadian Journal of Fisheries and Aquatic Sciences. <https://doi.org/10.1139/cjfas-2016-0500>.
