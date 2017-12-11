@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MSc and PhD Opportunities: Metal Mobility in the Permafrost and Organic-Carbon-Rich Landscapes of the Northwest Territories"
-date:   2017-12-11 12:00:00 -0500
+date:   2017-12-11 13:00:00 -0500
 categories: grad research
 tags: [grad research samms]
 share: true

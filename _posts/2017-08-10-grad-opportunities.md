@@ -7,9 +7,6 @@ tags: [grad research cyano formbloom]
 share: true
 ---
 
-MSc and PhD Opportunities: Forecasting and Biogeochemistry of Bloom-Affected Lakes
-==================================================================================
-
 ![](/images/formbloom-small.png)
 
 FORMBLOOM (Forecasting Tools and Mitigation Options for Diverse Bloom-Affected Lakes) seeks 2–4 graduate students (MSc and/or PhD) to research the drivers of freshwater cyanobacterial blooms and develop tools for bloom prediction and mitigation.
