@@ -32,6 +32,6 @@ Graduate students will benefit from working with a multi-university and multidis
 
 Students will perform applied lab and field research, and require quantitative abilities, a hearty appetite for boat-based field work, and possess strong verbal and writing skills. Students with experience with sensor-based instrumentation are particularly welcomed.
 
-Applicants should send their areas of research interest in a cover letter, with CV, unofficial transcripts, and contact information of three references as a single PDF file to Prof Jason Venkiteswaran, [jvenkiteswaran@wlu.ca](mailto:jvenkiteswaran@wlu.ca)f.
+Applicants should send their areas of research interest in a cover letter, with CV, unofficial transcripts, and contact information of three references as a single PDF file to Prof Jason Venkiteswaran, [jvenkiteswaran@wlu.ca](mailto:jvenkiteswaran@wlu.ca).
 
 FORMBLOOM is funded by the Global Water Futures program, [gwf.usask.ca](http://gwf.usask.ca/).
