@@ -7,9 +7,6 @@ tags: [grad research samms]
 share: true
 ---
 
-MSc and PhD Opportunities: Metal Mobility in the Permafrost and Organic-Carbon-Rich Landscapes of the Northwest Territories
-==================================================================================
-
 SAMMS (Sub-Arctic Metal Mobility Study) seeks multiple graduate students (MSc and/or PhD) to research the presence and fate of mining related metals in the Northwest Territories, Canada, and to develop predictions of the fate and toxicity of these metals under climate change regimes.
 
 Successful applicants will work in a co-supervised environment. SAMMS is led by Prof. Brent Wolfe and Prof. Jason Venkiteswaran (Wilfrid Laurier University, Waterloo, Canada). See below for the complete research team. 

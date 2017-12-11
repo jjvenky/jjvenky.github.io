@@ -7,9 +7,6 @@ tags: [grad research cyano]
 share: true
 ---
 
-Graduate Student Opportunities in Aquatic Ecology and Biogeochemistry
-============================================================================
-
 *Seeking 1 PhD student for project 2 below*
 -------------------------------------------
 

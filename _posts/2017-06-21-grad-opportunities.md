@@ -7,9 +7,6 @@ tags: [grad research cyano formbloom]
 share: true
 ---
 
-Graduate Student Opportunities in Bloom Ecology and Biogeochemistry
-============================================================================
-
 As part of the Global Water Futures project [FORMBLOOM](http://gwf.usask.ca/science/pillar-3-projects.php#ForecastingToolsandMitigationOptionsforDiverseBloomAffectedLakes): Forecasting Tools and Mitigation Options for Diverse Bloom-Affected Lakes
 -------------------------------
  
