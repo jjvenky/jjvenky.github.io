@@ -8,6 +8,7 @@ share: true
 ---
 
 As part of the Global Water Futures project [FORMBLOOM](http://gwf.usask.ca/science/pillar-3-projects.php#ForecastingToolsandMitigationOptionsforDiverseBloomAffectedLakes): Forecasting Tools and Mitigation Options for Diverse Bloom-Affected Lakes
+
 -------------------------------
  
 We are seeking 2–4 graduate students (MSc and/or PhD) interested in research on the drivers of freshwater cyanobacterial blooms, and options for bloom prediction mitigation. This program links researchers at the University of Saskatchewan, Wilfrid Laurier University, IISD–Experimental Lakes Area, the University of Waterloo, York University and other university networks with industry, government and community partners. 
