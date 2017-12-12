@@ -9,6 +9,8 @@ share: true
 
 SAMMS (Sub-Arctic Metal Mobility Study) seeks multiple graduate students (MSc and/or PhD) to research the presence and fate of mining related metals in the Northwest Territories, Canada, and to develop predictions of the fate and toxicity of these metals under climate change regimes.
 
+**[Download a PDF of the advert](../images/SAMMS_advert_1.pdf)**
+
 Successful applicants will work in a co-supervised environment. SAMMS is led by Prof. Brent Wolfe and Prof. Jason Venkiteswaran (Wilfrid Laurier University, Waterloo, Canada). See below for the complete research team. 
 
 Opportunities to work at multiple universities are available and encouraged.
@@ -34,3 +36,4 @@ Applicants should send their applications including areas of research interest i
 SAMMS is funded by the Global Water Futures program, [gwf.usask.ca](http://gwf.usask.ca/).
 
 *SAMMS Research Team: Prof. Jules Blais, Prof. Raoul Couture, Prof. Michael English, Prof. James McGeer, Prof. Sherry Schiff, Prof. Scott Smith, Prof. Kevin Stevens, Prof. Jason Venkiteswaran, Prof. Colin Whitfield, and Prof. Brent Wolfe.*
+
