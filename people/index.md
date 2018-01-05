@@ -66,4 +66,4 @@ Tyler quantified the impacts of freeze-thaw cycles on nutrient release by ripari
 
 # Friends
 
-Friends are our collaborators at a variety of organizations and institutions. In some cases they are co-supervisors, committee members, and/or co-applicants on grants. Often they are co-authors on our papers. In all cases, they are the extended group of people I like to work with. <!-- In alphatical order: Helen Baulch, Nora Casson, Scott Higgins, Lewis Molot, Josh Neufeld, Rebecca North, Michael Paterson, Sherry Schiff, and Colin Whitfield. -->
+Friends are our collaborators at a variety of organizations and institutions. In some cases they are co-supervisors, committee members, and/or co-applicants on grants. Often they are co-authors on our papers. In all cases, they are the extended group of people I like to work with. The model of a single professor with a lab full of students is antiquated and simply not how environmental and biogeochemical research is done. <!-- In alphatical order: Helen Baulch, Nora Casson, Scott Higgins, Lewis Molot, Josh Neufeld, Rebecca North, Michael Paterson, Sherry Schiff, and Colin Whitfield. -->
