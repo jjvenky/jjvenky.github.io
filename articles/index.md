@@ -3,6 +3,9 @@ layout: page
 title: Articles
 excerpt: "An archive of articles sorted by date."
 search_omit: true
+image:
+  feature: L240_feature.jpg
+#  credit: Jason Venkiteswaran
 ---
 
 <ul class="post-list">
