@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Jason Venkiteswaran
+title:
 locale: en_CA
-description: ...
+description:
 logo: site-logo.png
 search: true
 url: https://jjvenky.github.io
