@@ -1,8 +1,11 @@
 ---
 layout: page
 title: People
-excerpt:
+excerpt: "People in the research group"
 permalink: /people/
+image:
+  feature: L322_feature.jpg
+#  credit: Jason Venkiteswaran
 ---
 
 # Current Members
