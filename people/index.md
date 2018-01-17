@@ -52,7 +52,7 @@ Jordyn completed her Honours BSc in Earth and Environmental Sciences with a GIS 
 
 ### Eric McQuay, MSc student
 
-Eric defended his MSc thesis in Earth Sciences in October 2017. His research focussed on the redox preconditions required for cyanobacteria dominance of phytoplankton blooms along the embayments of [Georgian Bay](https://doi.org/10.1139/cjfas-2016-0377).
+Eric defended his [MSc thesis](http://hdl.handle.net/10012/12867) in Earth Science in October 2017. His research focussed on the redox preconditions required for cyanobacteria dominance of phytoplankton blooms along the embayments of [Georgian Bay](https://doi.org/10.1139/cjfas-2016-0377).
 
 # Former Members
 
