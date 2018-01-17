@@ -7,6 +7,8 @@ tags: [grad research samms]
 share: true
 ---
 
+![](/images/SAMMS_FINAL_horiz.png)
+
 SAMMS (Sub-Arctic Metal Mobility Study) seeks multiple graduate students (MSc and/or PhD) to research the presence and fate of mining related metals in the Northwest Territories, Canada, and to develop predictions of the fate and toxicity of these metals under climate change regimes.
 
 **[Download a PDF of the advert](../images/SAMMS_advert_1.pdf)**
