@@ -26,12 +26,6 @@ Larsen recently completed a one-year postdoctoral position at the University of 
 
 Read more about Larsen's research, professional development for students, and scientific outreach on her [personal webpage](https://meganllarsen.wordpress.com).
 
-### Jared Wolfe, Research associate
-
-![](../images/jared_wolfe-photo.jpg){: class="bio-photo"}
-
-Jared completed his MSc at the University of Regina studying the impacts of Oil Sands industrial development on historical algal communities in northern Saskatchewan. He is currently investigating harmful algal bloom formation and decline in the [Experimental Lakes Area](https://www.iisd.org/ela/) as part of the [FORMBLOOM](http://gwf.usask.ca/science/pillar-3-projects.php#ForecastingToolsandMitigationOptionsforDiverseBloomAffectedLakes) (Forecasting Tools and Mitigation Options for Diverse Bloom-Affected Lakes) project. His interests are in studying relationships between ecosystem components, particularly the relationship between humans and the environment.
-
 ### Rachel Henderson, MSc student
 
 ![](../images/rachel_henderson-photo.jpg){: class="bio-photo"}
@@ -50,11 +44,23 @@ Puru has just finished his undergrad from University of Waterloo in Biochemistry
 
 Jordyn completed her Honours BSc in Earth and Environmental Sciences with a GIS minor at McMaster University. Her MSc research will focus on understanding the relationship between catchment land cover characteristics, dissolved organic carbon, and disinfection by-products. GIS will be used to create a model to predict which waters will produce less disinfection by-products and therefore are better suited to drinking water.
 
+### Mackenzie Schultz
+
+![](../images/mackenzie_schultz-photo.jpg){: class="bio-photo"}
+
+Mackenzie completed her undergraduate degree at Wilfrid Laurier University studying Biology and Geography. She is excited to return for her MSc, as part of SAMMS (Sub Arctic Metal Mobility Study), where she will help characterize both terrestrial and aquatic metal deposition histories, stores, and pathways as a result of the mining industry.
+
+# Former Members
+
+### Jared Wolfe, Research associate
+
+![](../images/jared_wolfe-photo.jpg){: class="bio-photo"}
+
+Jared completed his MSc at the University of Regina studying the impacts of Oil Sands industrial development on historical algal communities in northern Saskatchewan. He is currently investigating harmful algal bloom formation and decline in the [Experimental Lakes Area](https://www.iisd.org/ela/) as part of the [FORMBLOOM](http://gwf.usask.ca/science/pillar-3-projects.php#ForecastingToolsandMitigationOptionsforDiverseBloomAffectedLakes) (Forecasting Tools and Mitigation Options for Diverse Bloom-Affected Lakes) project. His interests are in studying relationships between ecosystem components, particularly the relationship between humans and the environment.
+
 ### Eric McQuay, MSc student
 
 Eric defended his [MSc thesis](http://hdl.handle.net/10012/12867) in Earth Science in October 2017. His research focussed on the redox preconditions required for cyanobacteria dominance of phytoplankton blooms along the embayments of [Georgian Bay](https://doi.org/10.1139/cjfas-2016-0377).
-
-# Former Members
 
 ### Ben Bell, BSc student
 
