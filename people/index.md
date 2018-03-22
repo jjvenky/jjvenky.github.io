@@ -54,7 +54,7 @@ Mackenzie completed her undergraduate degree at Wilfrid Laurier University study
 
 ![](../images/jeremy_leathers-photo.jpg){: class="bio-photo"}
 
-Jeremy completed his Bachelor of Science degree in biology and geography at the University of Winnipeg.  He is looking forward to starting an MSc at Wilfred Laurier University, as a part of SAMMS (Sub Arctic Metal Mobility Study), where he will help to determine the total organic carbon and arsenic stored within soil and peat within catchments affected by mining activities in the Northwest Territories.
+Jeremy completed his Bachelor of Science degree in biology and geography at the University of Winnipeg.  He is looking forward to starting an MSc as a part of SAMMS (Sub Arctic Metal Mobility Study), where he will help to determine the total organic carbon and arsenic stored within soil and peat within catchments affected by mining activities in the Northwest Territories.
 
 # Former Members
 
