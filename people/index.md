@@ -44,13 +44,13 @@ Puru has just finished his undergrad from University of Waterloo in Biochemistry
 
 Jordyn completed her Honours BSc in Earth and Environmental Sciences with a GIS minor at McMaster University. Her MSc research will focus on understanding the relationship between catchment land cover characteristics, dissolved organic carbon, and disinfection by-products. GIS will be used to create a model to predict which waters will produce less disinfection by-products and therefore are better suited to drinking water.
 
-### Mackenzie Schultz
+### Mackenzie Schultz, MSc student
 
 ![](../images/mackenzie_schultz-photo.jpg){: class="bio-photo"}
 
 Mackenzie completed her undergraduate degree at Wilfrid Laurier University studying Biology and Geography. She is excited to return for her MSc, as part of SAMMS (Sub Arctic Metal Mobility Study), where she will help characterize both terrestrial and aquatic metal deposition histories, stores, and pathways as a result of the mining industry.
 
-### Jeremy Leathers
+### Jeremy Leathers, MSc student
 
 ![](../images/jeremy_leathers-photo.jpg){: class="bio-photo"}
 
