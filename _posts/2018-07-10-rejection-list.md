@@ -8,3 +8,11 @@ share: true
 ---
 
 How many journals have rejected my work? Do I make the list alphabetically? Chronologically? Can I remember them all?
+
+* Biogeochemistry
+* Ecosystems
+* Environmental Science and Technology
+* Environmental Science and Technology (desk reject)
+* Geophysical Research Letters
+* Limnology and Oceanography
+* Nature Geoscience (desk reject)
