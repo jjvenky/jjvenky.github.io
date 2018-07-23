@@ -16,3 +16,4 @@ How many journals have rejected my work? Do I make the list alphabetically? Chro
 * Geophysical Research Letters
 * Limnology and Oceanography
 * Nature Geoscience (desk reject)
+* Water Research (desk reject)
