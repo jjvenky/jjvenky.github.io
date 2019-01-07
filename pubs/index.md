@@ -3,13 +3,19 @@ layout: page
 title: Pubs
 excerpt:
 permalink: /pubs/
-modified: 2017-11-07
+modified: 2019-01-07
 image:
   feature: cornus_feature.jpg
 #  credit: Jason Venkiteswaran
 ---
 
 {: reversed="reversed"}
+
+30. Whitfield CJ, Casson NJ, North RL, Venkiteswaran JJ, Ahmed O, Leathers J, Nugent K, Prentice T, Baulch HM. The effect of freeze-thaw cycles on phosphorus release from riparian macrophytes in cold regions. Canadian Water Resources Journal, <https://doi.org/10.1080/07011784.2018.1558115>.
+
+29.	Paterson MJ, Beaty KG, Findlay DL, Findlay WJ, Schiff SL, St.Louis VL, Venkiteswaran JJ. Long-term changes in nutrient dynamics and plankton communities in a new reservoir. Canadian Journal of Fisheries and Aquatic Sciences, <https://doi.org/10.1139/cjfas-2018-0197>.
+
+28.	Casson NJ, Whitfield CJ, Baulch HM, Mills S, North RL, Venkiteswaran JJ. 2018. A model for training undergraduate students in collaborative science. FACETS 3: 818-829, <https://doi.org/10.1139/facets-2017-0112>.
 
 27.	Higgins SN, Paterson MJ, Hecky RE, Schindler DW, Venkiteswaran JJ, Findlay DL. Biological Nitrogen Fixation Prevents the Response of a Eutrophic Lake to Reduced Loading of Nitrogen: Evidence from a 46-Year Whole-Lake Experiment. Ecosystems. <https://doi.org/10.1007/s10021-017-0204-2>
 
