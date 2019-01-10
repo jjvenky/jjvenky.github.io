@@ -13,6 +13,7 @@ How many journals have rejected my work? Do I make the list alphabetically? Chro
 * Ecosystems
 * Environmental Science and Technology
 * Environmental Science and Technology (desk reject)
+* Freshwater Biology
 * Geophysical Research Letters
 * Limnology and Oceanography
 * Nature Geoscience (desk reject)
