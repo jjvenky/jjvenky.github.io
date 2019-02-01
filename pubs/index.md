@@ -9,7 +9,16 @@ image:
 #  credit: Jason Venkiteswaran
 ---
 
+
+## Preprints
+
+2.	Venkiteswaran JJ, Boeckx P, Goody D. Towards a global interpretation of dual nitrate isotopes in surface waters. EarthArXiv, <https://doi.org/10.17605/OSF.IO/CZT8P>.
+
+1.	Venkiteswaran JJ, Schiff Sl, Ingals B. Quantifying the Fate of Wastewater Nitrogen Discharged to a Canadian River. EarthArXiv, <https://doi.org/10.17605/OSF.IO/MQ2GN>.
 {: reversed="reversed"}
+
+
+## Peer-Reviewed
 
 30. Whitfield CJ, Casson NJ, North RL, Venkiteswaran JJ, Ahmed O, Leathers J, Nugent K, Prentice T, Baulch HM. The effect of freeze-thaw cycles on phosphorus release from riparian macrophytes in cold regions. Canadian Water Resources Journal, <https://doi.org/10.1080/07011784.2018.1558115>.
 
@@ -67,9 +76,20 @@ image:
 
 3.	Matthews CJD, Joyce EM, St.Louis VL, Schiff SL, Venkiteswaran JJ, Hall BD, Bodaly RA, Beaty KG. 2005. Carbon Dioxide and Methane Production in Small Reservoirs Flooding Upland Boreal Forest. Ecosystems 8: 267–285. <https://doi.org/10.1007/s10021-005-0005-x>.
 
-2.	Bodaly RA, Beaty KG, Hendzel LH, Majewski AR, Paterson MJ, Rolfhus KR, Penn AF, St.Louis VL, Hall BD, Matthews CJD, Cherewyk K, Mailman M, Hurley JP, Schiff SL, Venkiteswaran JJ. 2005. Response to Jackson ‘Mercury and the FLUDEX Project.’ Environmental Science and Technology 39(9): 185A–186A, <https://doi.org/10.1021/es053256j>
+2.	Bodaly RA, Beaty KG, Hendzel LH, Majewski AR, Paterson MJ, Rolfhus KR, Penn AF, St.Louis VL, Hall BD, Matthews CJD, Cherewyk K, Mailman M, Hurley JP, Schiff SL, Venkiteswaran JJ. 2005. Response to Jackson ‘Mercury and the FLUDEX Project.’ Environmental Science and Technology 39(9): 185A–186A, <https://doi.org/10.1021/es053256j>.
 
 1.	Bodaly RA, Beaty KG, Hendzel LH, Majewski AR, Paterson MJ, Rolfhus KR, Penn AF, St.Louis VL, Hall BD, Matthews CJD, Cherewyk KA, Mailman M, Hurley JP, Schiff SL, Venkiteswaran JJ. 2004. The use of experimental reservoirs to explore the mercury and greenhouse gas impacts of hydro-electric developments: The FLUDEX experiment. Environmental Science and Technology 38(18): 337A–352A, <https://doi.org/10.1021/es040614u>.
+{: reversed="reversed"}
+
+
+## Other
+
+3.	Campbell LM, Venkiteswaran JJ, Bond AL. 2014. Common Mistakes in Stable Isotope Terminology and Phraseology. figshare, <https://doi.org/10.6084/m9.figshare.1150337>.
+
+2.	Orihel D, Swanson H, Venkiteswaran JJ. 2013. Scientists, on saving science – lessons from the campaign to save the Experimental Lakes Area. ASLO Bulletin 22(3): 76–78, <http://www.aslo.org/bulletin/issues/13_v22_i3.pdf>.
+
+1.	Venkiteswaran JJ. 2012. Up Close and Personal: Why we need the Experimental Lake Area. Alternatives Journal. November 38.6, <http://www.alternativesjournal.ca/science-and-solutions/close-and-personal>.
+{: reversed="reversed"}
 
 [Google Scholar](https://scholar.google.ca/citations?user=4FQ_rQsAAAAJ)
 
