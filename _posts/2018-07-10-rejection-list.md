@@ -10,6 +10,7 @@ share: true
 How many journals have rejected my work? Do I make the list alphabetically? Chronologically? Can I remember them all?
 
 * Biogeochemistry
+* Canadian Journal of Fisheries and Aquatic Sciences (desk reject)
 * Ecosystems
 * Environmental Science and Technology
 * Environmental Science and Technology (desk reject)
