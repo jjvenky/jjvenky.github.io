@@ -57,12 +57,6 @@ Mackenzie completed her undergraduate degree at Wilfrid Laurier University study
 Jeremy completed his Bachelor of Science degree in biology and geography at the University of Winnipeg.  He is looking forward to starting an MSc as a part of SAMMS (Sub Arctic Metal Mobility Study), where he will help to determine the total organic carbon and arsenic stored within soil and peat within catchments affected by mining activities in the Northwest Territories.
 
 
-### Amber Cottle, BSc student
-
-![](../images/amber_cottle-photo.jpg){: class="bio-photo"}
-
-Amber is finishing her undergraduate degree at Wilfrid Laurier University studying Biology and Environmental Studies. She is studying the relationship between temperature and rates of ebullition.
-
 # Former Members
 
 ### Jared Wolfe, Research associate
@@ -85,6 +79,11 @@ Ben assessed the patterns of land cover diversity at the [IISD Experimental Lake
 
 Tyler quantified the impacts of freeze-thaw cycles on nutrient release by riparian vegetation. This was a contribution to the multi-university [lugnuts](https://biogeochem.github.io/lugnuts/), linked undergraduate research in nutrients.
 
+### Amber Cottle, BSc student
+
+![](../images/amber_cottle-photo.jpg){: class="bio-photo"}
+
+Amber finished her undergraduate degree at Wilfrid Laurier University studying Biology and Environmental Studies. She studied the relationship between temperature and rates of ebullition.
 
 # Friends
 
