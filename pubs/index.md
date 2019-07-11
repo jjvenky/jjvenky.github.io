@@ -3,7 +3,7 @@ layout: page
 title: Pubs
 excerpt:
 permalink: /pubs/
-modified: 2019-01-07
+modified: 2019-07-11
 image:
   feature: cornus_feature.jpg
 #  credit: Jason Venkiteswaran
@@ -11,6 +11,11 @@ image:
 
 
 ## Preprints
+
+6.	Kehoe MJ, Ingalls BP, Venkiteswaran JJ, Baulch HM. Successful forecasting of harmful cyanobacteria blooms with high frequency lake data. BioRxiv <https://doi.org/10.1101/674325>.
+5.	Salk KR, Venkiteswaran JJ, Couture R-M, Higgins SN, Paterson MJ, Schiff SL. Long-term influence of climate and experimental eutrophication regimes on phytoplankton blooms. BioRxiv <https://doi.org/10.1101/658799>.
+4.	Tsuji JM, Tran N, Schiff SL, Venkiteswaran JJ, Molot LA, Neufeld JD. Genomic potential for photoferrotrophy in a seasonally anoxic Boreal Shield lake. bioRxiv <https://doi.org/10.1101/653014>.
+3.	Larsen ML, Baulch HM, Schiff SL,. Simon DF, Sauvé S, Venkiteswaran JJ. Extreme midsummer rainfall event drives early onset cyanobacterial bloom. bioRxiv <https://doi.org/10.1101/570275>.
 
 2.	Venkiteswaran JJ, Boeckx P, Goody D. Towards a global interpretation of dual nitrate isotopes in surface waters. EarthArXiv, <https://doi.org/10.17605/OSF.IO/CZT8P>.
 
