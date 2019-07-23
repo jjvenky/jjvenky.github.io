@@ -13,8 +13,11 @@ image:
 ## Preprints
 
 4.	Kehoe MJ, Ingalls BP, Venkiteswaran JJ, Baulch HM. Successful forecasting of harmful cyanobacteria blooms with high frequency lake data. BioRxiv <https://doi.org/10.1101/674325>.
+
 3.	Salk KR, Venkiteswaran JJ, Couture R-M, Higgins SN, Paterson MJ, Schiff SL. Long-term influence of climate and experimental eutrophication regimes on phytoplankton blooms. BioRxiv <https://doi.org/10.1101/658799>.
+
 2.	Tsuji JM, Tran N, Schiff SL, Venkiteswaran JJ, Molot LA, Neufeld JD. Genomic potential for photoferrotrophy in a seasonally anoxic Boreal Shield lake. bioRxiv <https://doi.org/10.1101/653014>.
+
 1.	Larsen ML, Baulch HM, Schiff SL,. Simon DF, Sauvé S, Venkiteswaran JJ. Extreme midsummer rainfall event drives early onset cyanobacterial bloom. bioRxiv <https://doi.org/10.1101/570275>.
 
 {: reversed="reversed"}
@@ -24,7 +27,7 @@ image:
 
 32.	Venkiteswaran JJ, Boeckx P, Goody D. Towards a global interpretation of dual nitrate isotopes in surface waters. Journal of Hydrology, preprint at EarthArXiv, <https://doi.org/10.17605/OSF.IO/CZT8P>.
 
-31.	Venkiteswaran JJ, Schiff Sl, Ingals B. Quantifying the Fate of Wastewater Nitrogen Discharged to a Canadian River. FACETS, <https://dx.doi.org/10.1139/facets-2018-0028>, preprint at EarthArXiv, <https://doi.org/10.17605/OSF.IO/MQ2GN>.
+31.	Venkiteswaran JJ, Schiff SL, Ingals BP. Quantifying the Fate of Wastewater Nitrogen Discharged to a Canadian River. FACETS 4 315-335, <https://dx.doi.org/10.1139/facets-2018-0028>, preprint at EarthArXiv, <https://doi.org/10.17605/OSF.IO/MQ2GN>.
 
 30. Whitfield CJ, Casson NJ, North RL, Venkiteswaran JJ, Ahmed O, Leathers J, Nugent K, Prentice T, Baulch HM. 2019. The effect of freeze-thaw cycles on phosphorus release from riparian macrophytes in cold regions. Canadian Water Resources Journal, <https://doi.org/10.1080/07011784.2018.1558115>.
 
