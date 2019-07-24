@@ -26,6 +26,10 @@ Larsen recently completed a one-year postdoctoral position at the University of 
 
 Read more about Larsen's research, professional development for students, and scientific outreach on her [personal webpage](https://meganllarsen.wordpress.com).
 
+### Pieter Aukes, Postdoctoral fellow
+
+Aukes looks at the variability in natural dissolved organic matter (DOM), with the objective of distinguishing indicators of labile DOM. Liquid Chromatography-Organic Carbon Detection (LC-OCD) uses a size-exclusion method to provide a highly detailed analysis of DOM composition. His research classifies a variety of surface and ground water environments, with the aim to observe differences in composition between environments, as well as to identify components which may indicate the overall lability of DOM in the [SAMMS](http://samms.ca) and [Northern Water Futures](https://researchcentres.wlu.ca/northern-water-futures/index.html) projects.
+
 ### Rachel Henderson, MSc student
 
 ![](../images/rachel_henderson-photo.jpg){: class="bio-photo"}
