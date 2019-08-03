@@ -2,6 +2,7 @@
 layout: single
 title: Articles
 excerpt: "An archive of articles sorted by date."
+permalink: /articles/
 search_omit: true
 header:
   overlay_image: assets/images/L240_feature.jpg
