@@ -1,0 +1,13 @@
+# main links
+main:
+- title: "About"
+  url: about/
+- title: Articles
+  url: /articles/
+- title: People
+  url: /people/
+- title: Pubs
+  url: /pubs/
+- title: Research
+  url: /research/
+

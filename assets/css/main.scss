@@ -1,0 +1,11 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'air' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.img-bio { /* Responsive images (ensure images don't scale beyond their parents) */max-width: 250px; /* part 1: Set a maximum relative to the parent*/width: auto\9; /* IE7-8 need help adjusting responsive images*/height: auto; /* part 2: Scale the height according to the width, otherwise you get stretching*/vertical-align: middle;border: 0;-ms-interpolation-mode: bicubic;}
+
