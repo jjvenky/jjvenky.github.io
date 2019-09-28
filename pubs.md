@@ -4,7 +4,7 @@ title: Pubs
 excerpt: "Research publications"
 excerpt:
 permalink: /pubs/
-modified: 2019-07-17
+modified: 2019-09-27
 header:
   overlay_image: assets/images/cornus_feature.jpg
 #  credit: Jason Venkiteswaran
@@ -13,9 +13,9 @@ header:
 
 ## Preprints
 
-4.	Kehoe MJ, Ingalls BP, Venkiteswaran JJ, Baulch HM. Successful forecasting of harmful cyanobacteria blooms with high frequency lake data. BioRxiv <https://doi.org/10.1101/674325>.
+4.	Kehoe MJ, Ingalls BP, Venkiteswaran JJ, Baulch HM. Successful forecasting of harmful cyanobacteria blooms with high frequency lake data. bioRxiv <https://doi.org/10.1101/674325>.
 
-3.	Salk KR, Venkiteswaran JJ, Couture R-M, Higgins SN, Paterson MJ, Schiff SL. Long-term influence of climate and experimental eutrophication regimes on phytoplankton blooms. BioRxiv <https://doi.org/10.1101/658799>.
+3.	Salk KR, Venkiteswaran JJ, Couture R-M, Higgins SN, Paterson MJ, Schiff SL. Long-term influence of climate and experimental eutrophication regimes on phytoplankton blooms. bioRxiv <https://doi.org/10.1101/658799>.
 
 2.	Tsuji JM, Tran N, Schiff SL, Venkiteswaran JJ, Molot LA, Neufeld JD. Genomic potential for photoferrotrophy in a seasonally anoxic Boreal Shield lake. bioRxiv <https://doi.org/10.1101/653014>.
 
@@ -25,17 +25,17 @@ header:
 
 ## Peer-Reviewed
 
-32.	Venkiteswaran JJ, Boeckx P, Goody D. Towards a global interpretation of dual nitrate isotopes in surface waters. Journal of Hydrology, preprint at EarthArXiv, <https://doi.org/10.17605/OSF.IO/CZT8P>.
+32.	Venkiteswaran JJ, Boeckx P, Goody D. 2019. Towards a global interpretation of dual nitrate isotopes in surface waters. Journal of Hydrology X 4: 100037, <https://doi.org/10.1016/j.hydroa.2019.100037>.
 
-31.	Venkiteswaran JJ, Schiff SL, Ingals BP. Quantifying the Fate of Wastewater Nitrogen Discharged to a Canadian River. FACETS 4 315-335, <https://dx.doi.org/10.1139/facets-2018-0028>, preprint at EarthArXiv, <https://doi.org/10.17605/OSF.IO/MQ2GN>.
+31.	Venkiteswaran JJ, Schiff SL, Ingals BP. 2019. Quantifying the Fate of Wastewater Nitrogen Discharged to a Canadian River. FACETS: 4 315-335, <https://dx.doi.org/10.1139/facets-2018-0028>.
 
-30. Whitfield CJ, Casson NJ, North RL, Venkiteswaran JJ, Ahmed O, Leathers J, Nugent K, Prentice T, Baulch HM. 2019. The effect of freeze-thaw cycles on phosphorus release from riparian macrophytes in cold regions. Canadian Water Resources Journal, <https://doi.org/10.1080/07011784.2018.1558115>.
+30. Whitfield CJ, Casson NJ, North RL, Venkiteswaran JJ, Ahmed O, Leathers J, Nugent K, Prentice T, Baulch HM. 2019. The effect of freeze-thaw cycles on phosphorus release from riparian macrophytes in cold regions. Canadian Water Resources Journal 44(2): 160-173, <https://doi.org/10.1080/07011784.2018.1558115>.
 
-29.	Paterson MJ, Beaty KG, Findlay DL, Findlay WJ, Schiff SL, St.Louis VL, Venkiteswaran JJ. Long-term changes in nutrient dynamics and plankton communities in a new reservoir. Canadian Journal of Fisheries and Aquatic Sciences, <https://doi.org/10.1139/cjfas-2018-0197>.
+29.	Paterson MJ, Beaty KG, Findlay DL, Findlay WJ, Schiff SL, St.Louis VL, Venkiteswaran JJ. 2019. Long-term changes in nutrient dynamics and plankton communities in a new reservoir. Canadian Journal of Fisheries and Aquatic Sciences 76(8): 1459-1469, <https://doi.org/10.1139/cjfas-2018-0197>.
 
 28.	Casson NJ, Whitfield CJ, Baulch HM, Mills S, North RL, Venkiteswaran JJ. 2018. A model for training undergraduate students in collaborative science. FACETS 3: 818-829, <https://doi.org/10.1139/facets-2017-0112>.
 
-27.	Higgins SN, Paterson MJ, Hecky RE, Schindler DW, Venkiteswaran JJ, Findlay DL. Biological Nitrogen Fixation Prevents the Response of a Eutrophic Lake to Reduced Loading of Nitrogen: Evidence from a 46-Year Whole-Lake Experiment. Ecosystems. <https://doi.org/10.1007/s10021-017-0204-2>
+27.	Higgins SN, Paterson MJ, Hecky RE, Schindler DW, Venkiteswaran JJ, Findlay DL. 2018. Biological Nitrogen Fixation Prevents the Response of a Eutrophic Lake to Reduced Loading of Nitrogen: Evidence from a 46-Year Whole-Lake Experiment. Ecosystems  21(6): 1088-1100, <https://doi.org/10.1007/s10021-017-0204-2>
 
 26.	Campeau A, Wallin MB, Giesler R, Löfgren S, Mörth C-R, Schiff SL, Venkiteswaran JJ, Bishop K. 2017. Multiple sources and sinks of dissolved inorganic carbon across Swedish streams, refocusing the lens of stable C isotopes. Scientific Reports 7: 9158, <https://doi.org/10.1038/s41598-017-09049-9>.
 
