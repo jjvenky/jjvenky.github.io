@@ -2,7 +2,7 @@
 layout: single
 title: Rules
 excerpt: "How we work"
-modified: 2019-10-24
+modified: 2019-11-07
 permalink: /rules/
 header:
   overlay_image: assets/images/L305_feature.jpg
@@ -21,6 +21,7 @@ There are any number of reasons to establish lab rules incuding safety, philosop
 * Be safe and help others be safe by thinking about what types of training are needed.
 * Publish in [Open Access](http://www.carl-abrc.ca/advancing-research/scholarly-communication/open-access/) venues whenever possible, noting there can be different requrements from each funder.
 * Deposit all publications and technical reports on a preprint server such as [bioRxiv](https://www.biorxiv.org/), [EarthArXiv](https://eartharxiv.org/), [ESSOAr](https://www.essoar.org/), etc.
+* All data must be organized and stored on the group's [GitHub repository](https://github.com/biogeochem) with the metadata template completed.
 * Make available all data and code for each publication via a service like [GitHub+Zenodo](https://guides.github.com/activities/citable-code/), [Pangaea](https://pangaea.de/), etc.
 * Have fun.
 
@@ -28,5 +29,5 @@ There are any number of reasons to establish lab rules incuding safety, philosop
 
 * It is important to interact with others in the group and although our work hours can be very flexible. it is important to be around between 9:30--14:00.
 * We have routine lab meetings except during the middle of field season and attendance is expceted. It is an opportunity to present ideas and plans for new research, to show and discuss new data, and to practice presentations. People spend their attention and time to help so please respect this and come prepared.
-* Everyone should attend at least one conference per year is funds are available and time permits. All are expected to apply for additional funds to support attending conferences. Please send your abstract to all the coauthors at least one week in advance so no one is suprised and people can provide feedback.
+* Everyone should attend at least one conference or workshop per year if funds are available and time permits. All are expected to apply for additional funds to support attending conferences and workshops. Please send your abstract to all the coauthors at least one week in advance so no one is suprised and people can provide feedback.
 * Everyone needs to complete WHMIS training. Everyone doing field work needs to complete standard first aid is working close to populated areas and wildness first aid in all other cases. Everyone using a board needs to obtain a pleasure craft operators card. Everyone needs to complete a set of risk assessment forms and provide emergency contact information to be kept on file in the department. No one does field work alone.
