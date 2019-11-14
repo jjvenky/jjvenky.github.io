@@ -64,9 +64,9 @@ Jeremy completed his Bachelor of Science degree in biology and geography at the 
 
 ### Heather Jovanovic, BSc student
 
-Heather is a fourth year Applied Water Science student at Wilfrid Laurier University. She is looking forward to completing an honours thesis working on the [FORMBLOOM](https://gwf.usask.ca/formbloom/) project, where she will research the impacts of differing nitrogen species on the toxicity of Cyanobacteria blooms in the Grand River watershed.
-
 ![image-left](/assets/images/heather_jovanovic-photo.jpg){: .img-bio}
+
+Heather is a fourth year Applied Water Science student at Wilfrid Laurier University. She is looking forward to completing an honours thesis working on the [FORMBLOOM](https://gwf.usask.ca/formbloom/) project, where she will research the impacts of differing nitrogen species on the toxicity of Cyanobacteria blooms in the Grand River watershed.
 
 # Former Members
 
