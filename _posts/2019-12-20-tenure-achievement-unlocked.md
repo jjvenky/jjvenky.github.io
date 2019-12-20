@@ -20,7 +20,7 @@ So why not collate all the things that went into the tenure and prommotion appli
 
 Before the end-of-year lab lunch, the current cohort gave me this:
 
-![In case of emergency, ask Jason.](../assets/images/in_case_of_emergency.jpg) 
+![In case of emergency, ask Jason.](/assets/images/in_case_of_emergency.jpg) 
 
 It takes a lot of people to be successful.
 
