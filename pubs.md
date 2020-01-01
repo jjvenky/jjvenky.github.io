@@ -25,6 +25,8 @@ header:
 
 ## Peer-Reviewed
 
+33. Sokolov VK, VanderZaag A, Habtewold J, Dunsfield K, Wagner-Riddle C, Venkiteswaran JJ, Gordon R. 2019. Greenhouse Gas Emissions from Gradually-Filled Liquid Dairy Manure Storages with Different Levels of Inoculant. Nutrient Cycling in Agroecosystems 115(3): 455-467, <https://doi.org/10.1007/s10705-019-10023-2>.
+
 32.	Venkiteswaran JJ, Boeckx P, Goody D. 2019. Towards a global interpretation of dual nitrate isotopes in surface waters. Journal of Hydrology X 4: 100037, <https://doi.org/10.1016/j.hydroa.2019.100037>.
 
 31.	Venkiteswaran JJ, Schiff SL, Ingals BP. 2019. Quantifying the Fate of Wastewater Nitrogen Discharged to a Canadian River. FACETS: 4 315-335, <https://dx.doi.org/10.1139/facets-2018-0028>.
