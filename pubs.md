@@ -25,6 +25,8 @@ header:
 
 ## Peer-Reviewed
 
+34. Sokolov VK, VanderZaag A, Habtewold J, Dunsfield K, Wagner-Riddle C, Venkiteswaran JJ, Gordon R. Dairy manure acidification reduces CH4 emissions over short and long-term. Environmental Technology, <https://doi.org/10.1080/09593330.2020.1714744>.
+
 33. Sokolov VK, VanderZaag A, Habtewold J, Dunsfield K, Wagner-Riddle C, Venkiteswaran JJ, Gordon R. 2019. Greenhouse Gas Emissions from Gradually-Filled Liquid Dairy Manure Storages with Different Levels of Inoculant. Nutrient Cycling in Agroecosystems 115(3): 455-467, <https://doi.org/10.1007/s10705-019-10023-2>.
 
 32.	Venkiteswaran JJ, Boeckx P, Goody D. 2019. Towards a global interpretation of dual nitrate isotopes in surface waters. Journal of Hydrology X 4: 100037, <https://doi.org/10.1016/j.hydroa.2019.100037>.
