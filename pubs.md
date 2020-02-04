@@ -25,15 +25,17 @@ header:
 
 ## Peer-Reviewed
 
-34. Sokolov VK, VanderZaag A, Habtewold J, Dunsfield K, Wagner-Riddle C, Venkiteswaran JJ, Gordon R. 2020. Dairy manure acidification reduces CH4 emissions over short and long-term. Environmental Technology, <https://doi.org/10.1080/09593330.2020.1714744>.
+35. Sokolov VK, VanderZaag A, Habtewold J, Dunsfield K, Wagner-Riddle C, Venkiteswaran JJ, Gordon R. 2020. Dairy manure acidification reduces CH4 emissions over short and long-term. Environmental Technology, <https://doi.org/10.1080/09593330.2020.1714744>.
 
-33. Sokolov VK, VanderZaag A, Habtewold J, Dunsfield K, Wagner-Riddle C, Venkiteswaran JJ, Gordon R. 2019. Greenhouse Gas Emissions from Gradually-Filled Liquid Dairy Manure Storages with Different Levels of Inoculant. Nutrient Cycling in Agroecosystems 115(3): 455-467, <https://doi.org/10.1007/s10705-019-10023-2>.
+34. Sokolov VK, VanderZaag A, Habtewold J, Dunsfield K, Wagner-Riddle C, Venkiteswaran JJ, Gordon R. 2019. Greenhouse Gas Emissions from Gradually-Filled Liquid Dairy Manure Storages with Different Levels of Inoculant. Nutrient Cycling in Agroecosystems 115(3): 455-467, <https://doi.org/10.1007/s10705-019-10023-2>.
 
-32.	Venkiteswaran JJ, Boeckx P, Goody D. 2019. Towards a global interpretation of dual nitrate isotopes in surface waters. Journal of Hydrology X 4: 100037, <https://doi.org/10.1016/j.hydroa.2019.100037>.
+33.	Venkiteswaran JJ, Boeckx P, Goody D. 2019. Towards a global interpretation of dual nitrate isotopes in surface waters. Journal of Hydrology X 4: 100037, <https://doi.org/10.1016/j.hydroa.2019.100037>.
 
-31.	Venkiteswaran JJ, Schiff SL, Ingals BP. 2019. Quantifying the Fate of Wastewater Nitrogen Discharged to a Canadian River. FACETS: 4 315-335, <https://dx.doi.org/10.1139/facets-2018-0028>.
+32.	Venkiteswaran JJ, Schiff SL, Ingals BP. 2019. Quantifying the Fate of Wastewater Nitrogen Discharged to a Canadian River. FACETS: 4 315-335, <https://dx.doi.org/10.1139/facets-2018-0028>.
 
-30. Whitfield CJ, Casson NJ, North RL, Venkiteswaran JJ, Ahmed O, Leathers J, Nugent K, Prentice T, Baulch HM. 2019. The effect of freeze-thaw cycles on phosphorus release from riparian macrophytes in cold regions. Canadian Water Resources Journal 44(2): 160-173, <https://doi.org/10.1080/07011784.2018.1558115>.
+31. Whitfield CJ, Casson NJ, North RL, Venkiteswaran JJ, Ahmed O, Leathers J, Nugent K, Prentice T, Baulch HM. 2019. The effect of freeze-thaw cycles on phosphorus release from riparian macrophytes in cold regions. Canadian Water Resources Journal 44(2): 160-173, <https://doi.org/10.1080/07011784.2018.1558115>.
+
+30. Sokolov V, VanderZaag A, Habtewold J, Dunfield K, Wagner-Riddle C, Venkiteswaran JJ, Gordon R. Greenhouse Gas Mitigation through Dairy Manure Acidification. Journal of Environmental Quality 48(5): 1435-1443, <https://doi.org/10.2134/jeq2018.10.0355>.
 
 29.	Paterson MJ, Beaty KG, Findlay DL, Findlay WJ, Schiff SL, St.Louis VL, Venkiteswaran JJ. 2019. Long-term changes in nutrient dynamics and plankton communities in a new reservoir. Canadian Journal of Fisheries and Aquatic Sciences 76(8): 1459-1469, <https://doi.org/10.1139/cjfas-2018-0197>.
 
@@ -107,4 +109,3 @@ header:
 [Google Scholar](https://scholar.google.ca/citations?user=4FQ_rQsAAAAJ)
 
 [orcid](https://orcid.org/0000-0002-6574-7071)
-
