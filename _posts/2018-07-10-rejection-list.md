@@ -7,7 +7,7 @@ tags: [research]
 share: true
 ---
 
-How many journals have rejected my work? Do I make the list alphabetically? Chronologically? Can I remember them all?
+How many journals have rejected my work? Do I make the list alphabetical? Chronological? Can I remember them all?
 
 * Biogeochemistry
 * Canadian Journal of Fisheries and Aquatic Sciences (desk reject)
@@ -16,6 +16,7 @@ How many journals have rejected my work? Do I make the list alphabetically? Chro
 * Environmental Science and Technology (desk reject)
 * Freshwater Biology
 * Geophysical Research Letters
+* Journal of Applied Ecology (desk reject)
 * Journal of Hydrology
 * Limnology and Oceanography
 * Nature Geoscience (desk reject)
