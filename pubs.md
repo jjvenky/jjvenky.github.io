@@ -4,7 +4,7 @@ title: Pubs
 excerpt: "Research publications"
 excerpt:
 permalink: /pubs/
-modified: 2019-09-27
+modified: 2020-03-27
 header:
   overlay_image: assets/images/cornus_feature.jpg
 #  credit: Jason Venkiteswaran
@@ -24,6 +24,8 @@ header:
 
 
 ## Peer-Reviewed
+
+36. Pearce NJT, Thomas KE,, Venkiteswaran JJ, Chambers PA, Yates AG. 2020. Metabolic regimes of three mid-order streams in southern Ontario, Canada exposed to contrasting sources of nutrients. Hydrobiologia, <https://doi.org/10.1007/s10750-020-04222-0>.
 
 35. Sokolov VK, VanderZaag A, Habtewold J, Dunsfield K, Wagner-Riddle C, Venkiteswaran JJ, Gordon R. 2020. Dairy manure acidification reduces CH4 emissions over short and long-term. Environmental Technology, <https://doi.org/10.1080/09593330.2020.1714744>.
 
