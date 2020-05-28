@@ -20,4 +20,5 @@ How many journals have rejected my work? Do I make the list alphabetical? Chrono
 * Journal of Hydrology
 * Limnology and Oceanography
 * Nature Geoscience (desk reject)
+* Science of the Total Environment (desk reject)
 * Water Research (desk reject)
