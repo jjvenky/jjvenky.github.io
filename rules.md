@@ -52,3 +52,5 @@ Here is the list of onboarding things to do to help integrate new people into th
 	* Jenny Bryan's [Happy Git and GitHub for the useR](http://happygitwithr.com/) is an excellent reference and learning manual and everyone should walk through many of its chapters when setting up their system
 	* Karl Bromwn's [git/github guide: a minimal tutorial](http://kbroman.org/github_tutorial/) is also very useful
 	* The [Data Analysis and Visualization in R for Ecologists](http://datacarpentry.org/R-ecology-lesson/) lessons are an excellent way to learn how to employ R and RStudio to aggregate, analyse, and visualise data
+* We use [Slack](https://slack.com/intl/en-ca/) to chat and organise meetings: [lab workspace](https://biogeochemlab.slack.com/), [formbloom](http://formbloom.slack.com/), [lugnuts](https://lugnuts.slack.com/), and [samms](https://sammsgwf.slack.com/).
+
