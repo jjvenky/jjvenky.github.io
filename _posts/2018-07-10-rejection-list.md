@@ -19,6 +19,9 @@ How many journals have rejected my work? Do I make the list alphabetical? Chrono
 * Journal of Applied Ecology (desk reject)
 * Journal of Hydrology
 * Limnology and Oceanography
+* Nature Communications (desk reject)
 * Nature Geoscience (desk reject)
 * Science of the Total Environment (desk reject)
 * Water Research (desk reject)
+
+*last updated: 2020-07-03*
