@@ -4,7 +4,7 @@ title: Pubs
 excerpt: "Research publications"
 excerpt:
 permalink: /pubs/
-modified: 2020-03-27
+modified: 2020-09-29
 header:
   overlay_image: assets/images/cornus_feature.jpg
 #  credit: Jason Venkiteswaran
@@ -13,19 +13,18 @@ header:
 
 ## Preprints
 
-5.	Aukes PAK, Schiff SL, Venkiteswaran JJ, Elgood RJ, Spoelstra J. Hydrologic Compartments are More Important than Ecozone in Size-Based Characterization of Freshwater Dissolved Organic Matter across Canada. bioRxiv <https://doi.org/10.1101/2020.04.03.024174>.
+3.	Aukes PAK, Schiff SL, Venkiteswaran JJ, Elgood RJ, Spoelstra J. Hydrologic Compartments are More Important than Ecozone in Size-Based Characterization of Freshwater Dissolved Organic Matter across Canada. bioRxiv <https://doi.org/10.1101/2020.04.03.024174>.
 
-4.	Kehoe MJ, Ingalls BP, Venkiteswaran JJ, Baulch HM. Successful forecasting of harmful cyanobacteria blooms with high frequency lake data. bioRxiv <https://doi.org/10.1101/674325>.
+2.	Kehoe MJ, Ingalls BP, Venkiteswaran JJ, Baulch HM. Successful forecasting of harmful cyanobacteria blooms with high frequency lake data. bioRxiv <https://doi.org/10.1101/674325>.
 
-3.	Salk KR, Venkiteswaran JJ, Couture R-M, Higgins SN, Paterson MJ, Schiff SL. Long-term influence of climate and experimental eutrophication regimes on phytoplankton blooms. bioRxiv <https://doi.org/10.1101/658799>.
-
-2.	Tsuji JM, Tran N, Schiff SL, Venkiteswaran JJ, Molot LA, Neufeld JD. Genomic potential for photoferrotrophy in a seasonally anoxic Boreal Shield lake. bioRxiv <https://doi.org/10.1101/653014>.
-
-1.	Larsen ML, Baulch HM, Schiff SL,. Simon DF, Sauvé S, Venkiteswaran JJ. Extreme midsummer rainfall event drives early onset cyanobacterial bloom. bioRxiv <https://doi.org/10.1101/570275>.
-{: reversed="reversed"}
+1.	Salk KR, Venkiteswaran JJ, Couture R-M, Higgins SN, Paterson MJ, Schiff SL. Long-term influence of climate and experimental eutrophication regimes on phytoplankton blooms. bioRxiv <https://doi.org/10.1101/658799>.
 
 
 ## Peer-Reviewed
+
+38. Larsen ML, Baulch HM, Schiff SL, Simon D, Sauvé S, Venkiteswaran JJ. Extreme rainfall drives early onset cyanobacterial bloom. FACETS, <https://doi.org/10.1139/facets-2020-0022>.
+
+37. Tsuji JM, Tran N, Schiff SL, Venkiteswaran JJ, Molot LA, Neufeld JD. 2020. Genomic potential for photoferrotrophy in a seasonally anoxic Boreal Shield lake. ISME J, <https://doi.org/10.1038/s41396-020-0725-0>.
 
 36. Pearce NJT, Thomas KE,, Venkiteswaran JJ, Chambers PA, Yates AG. 2020. Metabolic regimes of three mid-order streams in southern Ontario, Canada exposed to contrasting sources of nutrients. Hydrobiologia 847: 1925-1942, <https://doi.org/10.1007/s10750-020-04222-0>.
 
