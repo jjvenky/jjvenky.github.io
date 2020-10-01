@@ -64,6 +64,10 @@ Mackenzie completed her undergraduate degree at Wilfrid Laurier University study
 
 Jeremy completed his Bachelor of Science degree in biology and geography at the University of Winnipeg.  He is looking forward to starting an MSc as a part of [SAMMS](http://samms.ca), where he will help to determine the total organic carbon and arsenic stored within soil and peat within catchments affected by mining activities in the Northwest Territories.
 
+### Catherine Goltz, MSc student
+
+### Matthew Roberts, MSc student
+
 ### Heather Jovanovic, BSc student
 
 ![image-left](/assets/images/heather_jovanovic-photo.jpg){: .img-bio}
