@@ -68,12 +68,6 @@ Jeremy completed his Bachelor of Science degree in biology and geography at the 
 
 ### Matthew Roberts, MSc student
 
-### Heather Jovanovic, BSc student
-
-![image-left](/assets/images/heather_jovanovic-photo.jpg){: .img-bio}
-
-Heather is a fourth year Applied Water Science student at Wilfrid Laurier University. She is looking forward to completing an honours thesis working on the [FORMBLOOM](https://gwf.usask.ca/formbloom/) project, where she will research the impacts of differing nitrogen species on the toxicity of Cyanobacteria blooms in the Grand River watershed.
-
 # Former Members
 
 ### Jared Wolfe, Research associate
@@ -81,6 +75,12 @@ Heather is a fourth year Applied Water Science student at Wilfrid Laurier Univer
 ![image-left](/assets/images/jared_wolfe-photo.jpg){: .img-bio}
 
 Jared completed his MSc at the University of Regina studying the impacts of Oil Sands industrial development on historical algal communities in northern Saskatchewan. He is currently investigating harmful algal bloom formation and decline in the [Experimental Lakes Area](https://www.iisd.org/ela/) as part of the [FORMBLOOM](https://gwf.usask.ca/formbloom/) project. His interests are in studying relationships between ecosystem components, particularly the relationship between humans and the environment.
+
+### Heather Jovanovic, BSc student
+
+![image-left](/assets/images/heather_jovanovic-photo.jpg){: .img-bio}
+
+Heather completed her honours undergraduate thesis on nitrogen affecting cyanobacteria bloom toxicity as part of the [FORMBLOOM](https://gwf.usask.ca/formbloom/) and LUGNuts programs in 2020. She has gone on to pursue an MSc at the University of Manitoba where she will continue to study contaminants in freshwater ecosystems.
 
 ### Eric McQuay, MSc student
 
