@@ -34,23 +34,37 @@ There are any number of reasons to establish lab rules incuding safety, philosop
 
 ## Onboarding
 
-Here is the list of onboarding things to do to help integrate new people into the research group:
+Here is the list of onboarding things to do to help integrate new people into the research group.
 
-* Get a OneCard and email for access to CCRWS and SRC buildings
-* Arrange for Standard First Aid or Wilderness First Aid, typically in May
-* Arrange for firearms safety course, if appropriate
-* Take the WHMIS and compressed gas training, available online
-* Get and make a copy of your Pleasure Craft Operator Card
-* We use git and GitHub to keep track and control of our data, code, and papers:
-	* Make a [GitHub](https://github.com/) account and get it added to the appropriate [teams](https://github.com/orgs/biogeochem/teams)
-	* Discuss the importance of and use of databases for dealing with the variety of data we generate
-* We use R and RStudio for organising, analysing, modelling, plotting, etc. our data. Sometimes we use Matlab, and others as needed
-	* Download and install [R](https://cloud.r-project.org/)
-	* Then [RStudio ](https://rstudio.com/products/rstudio/download/)
-	* Windows users will likely need `Rtools` and Mac users will likely need `Xcode` from the App Store
-	* Install the `tidyverse` and `here` packages since they will be very handy
-	* Jenny Bryan's [Happy Git and GitHub for the useR](http://happygitwithr.com/) is an excellent reference and learning manual and everyone should walk through many of its chapters when setting up their system
-	* Karl Bromwn's [git/github guide: a minimal tutorial](http://kbroman.org/github_tutorial/) is also very useful
-	* The [Data Analysis and Visualization in R for Ecologists](http://datacarpentry.org/R-ecology-lesson/) lessons are an excellent way to learn how to employ R and RStudio to aggregate, analyse, and visualise data
-* We use [Slack](https://slack.com/intl/en-ca/) to chat and organise meetings: [lab workspace](https://biogeochemlab.slack.com/), [formbloom](http://formbloom.slack.com/), [lugnuts](https://lugnuts.slack.com/), and [samms](https://sammsgwf.slack.com/).
+### Safety
+
+* [ ] Get a OneCard, remind Jason to email for you to have access to CCRWS and SRC buildings
+* [ ] Take for Standard First Aid or Wilderness First Aid (typically by May and recently coordinated with Dean of Science office), email Jason a copy to be kept on
+* [ ] Take Canadian Firearm Safety Course, if working in the north, email Jason a copy to be kept on file
+* [ ] Take WHMIS and Compressed Gas Training, [available online](https://mylearningspace.wlu.ca/d2l/lms/legacy/selfregistration.d2l?ou=6605), email Jason a copy to be kept on file
+* [ ] Obtain a Pleasure Craft Operator Card, email Jason a copy to be kept on file
+
+### Data
+
+We use git and GitHub to keep track and control of our data, code, and papers:
+
+* [ ] Make a [GitHub](https://github.com/) account, ask Jason to be added to the appropriate [teams](https://github.com/orgs/biogeochem/teams)
+* [ ] [Create a repo on GitHub](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/create-a-repo) and commit a change
+
+We use R and RStudio for organising, analysing, modelling, plotting, etc. our data, sometimes we use [Matlab](https://www.mathworks.com/products/matlab.html) and other softwares like [Jupyter](https://jupyter.org/) and [Python](https://www.python.org/) as needed:
+
+* [ ] Download and install [R](https://cloud.r-project.org/)
+* [ ] Download and install [RStudio Desktop](https://rstudio.com/products/rstudio/download/#download)
+* [ ] Open RStudio to check that it works and there are no errors
+* [ ] Note that Windows users may need [`Rtools`](https://cran.r-project.org/bin/windows/Rtools/) and Mac users may need [`Xcode`](https://developer.apple.com/xcode/) in order to compile R packages that are not available as pre-compiled binaries
+* [ ] Install the `tidyverse` and `here` packages since they will be very handy (in RStudio, Tools -> Install Packages, type the names of the packages separated by a comma)
+
+### Useful Resources
+* Jenny Bryan's [Happy Git and GitHub for the useR](http://happygitwithr.com/) is an excellent reference and learning manual and everyone should walk through many of its chapters when setting up their system
+* Karl Bromwn's [git/github guide: a minimal tutorial](http://kbroman.org/github_tutorial/) is also very useful
+* The [Data Analysis and Visualization in R for Ecologists](http://datacarpentry.org/R-ecology-lesson/) lessons are an excellent way to learn how to employ R and RStudio to aggregate, analyse, and visualise data
+
+### Finally
+
+- [ ] We use [Slack](https://slack.com/intl/en-ca/) to chat and organise meetings, please ask to be added to the appropriate workspaces: [lab workspace](https://biogeochemlab.slack.com/), [formbloom](http://formbloom.slack.com/), [lugnuts](https://lugnuts.slack.com/), and [samms](https://sammsgwf.slack.com/).
 
