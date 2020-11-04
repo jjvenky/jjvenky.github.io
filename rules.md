@@ -66,7 +66,7 @@ We use R and RStudio for organising, analysing, modelling, plotting, etc. our da
 
 * The [Tidyverse style guide](https://style.tidyverse.org/) is a great resource and following its general recommedations will make your code easier for you to write and easier for other people to follow what you have done.
 * Jenny Bryan's [Happy Git and GitHub for the useR](http://happygitwithr.com/) is an excellent reference and learning manual and everyone should walk through many of its chapters when setting up their system
-* Karl Bromwn's [git/github guide: a minimal tutorial](http://kbroman.org/github_tutorial/) is also very useful
+* Karl Broman's [git/github guide: a minimal tutorial](http://kbroman.org/github_tutorial/) is also very useful
 * The [Data Analysis and Visualization in R for Ecologists](http://datacarpentry.org/R-ecology-lesson/) lessons are an excellent way to learn how to employ R and RStudio to aggregate, analyse, and visualise data
 
 ### Finally
