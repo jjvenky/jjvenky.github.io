@@ -39,14 +39,14 @@ Here is the list of onboarding things to do to help integrate new people into th
 ### Safety
 
 * [ ] Get a OneCard, remind Jason to email for you to have access to CCRWS and SRC buildings
-* [ ] Take for Standard First Aid or Wilderness First Aid (typically by May and recently coordinated with Dean of Science office), email Jason a copy to be kept on
+* [ ] Take for Standard First Aid or Wilderness First Aid (typically by May and recently coordinated with Dean of Science office), email Jason a copy to be kept on file
 * [ ] Take Canadian Firearm Safety Course, if working in the north, email Jason a copy to be kept on file
 * [ ] Take WHMIS and Compressed Gas Training, [available online](https://mylearningspace.wlu.ca/d2l/lms/legacy/selfregistration.d2l?ou=6605), email Jason a copy to be kept on file
 * [ ] Obtain a Pleasure Craft Operator Card, email Jason a copy to be kept on file
 
 ### Data
 
-We use git and GitHub to keep track and control of our data, code, and papers:
+We use git and GitHub to keep track and control of our data, metadata, code, and papers:
 
 * [ ] Make a [GitHub](https://github.com/) account, ask Jason to be added to the appropriate [teams](https://github.com/orgs/biogeochem/teams)
 * [ ] [Create a repo on GitHub](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/create-a-repo) and commit a change
@@ -58,8 +58,13 @@ We use R and RStudio for organising, analysing, modelling, plotting, etc. our da
 * [ ] Open RStudio to check that it works and there are no errors
 * [ ] Note that Windows users may need [`Rtools`](https://cran.r-project.org/bin/windows/Rtools/) and Mac users may need [`Xcode`](https://developer.apple.com/xcode/) in order to compile R packages that are not available as pre-compiled binaries
 * [ ] Install the `tidyverse` and `here` packages since they will be very handy (in RStudio, Tools -> Install Packages, type the names of the packages separated by a comma)
+* [ ] New students should work through this [Introduction to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html) lesson and [Stating with data](https://datacarpentry.org/R-ecology-lesson/02-starting-with-data.html) lesson
+* [ ] Often small files will sneak into your repos even if you don't want them to, so *vaccinate your global gitignore* with [usethis::git_vaccinate](https://usethis.r-lib.org/reference/git_vaccinate.html)
+* [ ] [Test out creating a repo on GitHub from our template](https://github.com/biogeochem/project_template), enter appropriate metadata that makes sense for your research, commit the change, and push it to GitHub
 
 ### Useful Resources
+
+* The [Tidyverse style guide](https://style.tidyverse.org/) is a great resource and following its general recommedations will make your code easier for you to write and easier for other people to follow what you have done.
 * Jenny Bryan's [Happy Git and GitHub for the useR](http://happygitwithr.com/) is an excellent reference and learning manual and everyone should walk through many of its chapters when setting up their system
 * Karl Bromwn's [git/github guide: a minimal tutorial](http://kbroman.org/github_tutorial/) is also very useful
 * The [Data Analysis and Visualization in R for Ecologists](http://datacarpentry.org/R-ecology-lesson/) lessons are an excellent way to learn how to employ R and RStudio to aggregate, analyse, and visualise data
