@@ -48,8 +48,9 @@ Here is the list of onboarding things to do to help integrate new people into th
 
 We use git and GitHub to keep track and control of our data, metadata, code, and papers:
 
-* [ ] Make a [GitHub](https://github.com/) account, ask Jason to be added to the appropriate [teams](https://github.com/orgs/biogeochem/teams)
-* [ ] [Create a repo on GitHub](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/create-a-repo) and commit a change
+* [ ] Make a [GitHub](https://github.com/) account, add an avatar so it's easier to find you, and ask Jason to be added to the appropriate [teams](https://github.com/orgs/biogeochem/teams)
+* [ ] [Create a repo on GitHub](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/create-a-repo) with a README file
+* [ ] Edit the README with and do some formatting with [Markdown](https://guides.github.com/features/mastering-markdown/)
 
 We use R and RStudio for organising, analysing, modelling, plotting, etc. our data, sometimes we use [Matlab](https://www.mathworks.com/products/matlab.html) and other softwares like [Jupyter](https://jupyter.org/) and [Python](https://www.python.org/) as needed:
 
@@ -57,7 +58,7 @@ We use R and RStudio for organising, analysing, modelling, plotting, etc. our da
 * [ ] Download and install [RStudio Desktop](https://rstudio.com/products/rstudio/download/#download)
 * [ ] Open RStudio to check that it works and there are no errors
 * [ ] Note that Windows users may need [`Rtools`](https://cran.r-project.org/bin/windows/Rtools/) and Mac users may need [`Xcode`](https://developer.apple.com/xcode/) in order to compile R packages that are not available as pre-compiled binaries
-* [ ] Install the `tidyverse` and `here` packages since they will be very handy (in RStudio, Tools -> Install Packages, type the names of the packages separated by a comma)
+* [ ] Install the `tidyverse`, `usethis`, and `here` packages since they will be very handy (in RStudio, Tools -> Install Packages, type the names of the packages separated by a comma)
 * [ ] New students should work through this [Introduction to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html) lesson and [Starting with data](https://datacarpentry.org/R-ecology-lesson/02-starting-with-data.html) lesson
 * [ ] Often small files will sneak into your repos even if you don't want them to, so *vaccinate your global gitignore* with [usethis::git_vaccinate](https://usethis.r-lib.org/reference/git_vaccinate.html)
 * [ ] [Test out creating a repo on GitHub from our template](https://github.com/biogeochem/project_template), enter appropriate metadata that makes sense for your research, commit the change, and push it to GitHub
