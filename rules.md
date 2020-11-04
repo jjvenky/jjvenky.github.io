@@ -58,7 +58,7 @@ We use R and RStudio for organising, analysing, modelling, plotting, etc. our da
 * [ ] Open RStudio to check that it works and there are no errors
 * [ ] Note that Windows users may need [`Rtools`](https://cran.r-project.org/bin/windows/Rtools/) and Mac users may need [`Xcode`](https://developer.apple.com/xcode/) in order to compile R packages that are not available as pre-compiled binaries
 * [ ] Install the `tidyverse` and `here` packages since they will be very handy (in RStudio, Tools -> Install Packages, type the names of the packages separated by a comma)
-* [ ] New students should work through this [Introduction to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html) lesson and [Stating with data](https://datacarpentry.org/R-ecology-lesson/02-starting-with-data.html) lesson
+* [ ] New students should work through this [Introduction to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html) lesson and [Starting with data](https://datacarpentry.org/R-ecology-lesson/02-starting-with-data.html) lesson
 * [ ] Often small files will sneak into your repos even if you don't want them to, so *vaccinate your global gitignore* with [usethis::git_vaccinate](https://usethis.r-lib.org/reference/git_vaccinate.html)
 * [ ] [Test out creating a repo on GitHub from our template](https://github.com/biogeochem/project_template), enter appropriate metadata that makes sense for your research, commit the change, and push it to GitHub
 
