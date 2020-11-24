@@ -2,7 +2,7 @@
 layout: single
 title: Rules
 excerpt: "How we work"
-modified: 2019-11-07
+modified: 2020-11-04
 permalink: /rules/
 header:
   overlay_image: assets/images/L305_feature.jpg
@@ -46,13 +46,14 @@ Here is the list of onboarding things to do to help integrate new people into th
 
 ### Data
 
-We use git and GitHub to keep track and control of our data, metadata, code, and papers:
+#### We use git and GitHub to keep track and control of our data, metadata, code, and papers:
 
 * [ ] Make a [GitHub](https://github.com/) account, add an avatar so it's easier to find you, and ask Jason to be added to the appropriate [teams](https://github.com/orgs/biogeochem/teams)
 * [ ] [Create a repo on GitHub](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/create-a-repo) with a README file
 * [ ] Edit the README with and do some formatting with [Markdown](https://guides.github.com/features/mastering-markdown/)
+* [ ] Install [git](https://git-scm.com/downloads) to make it easier to integrate GitHub with your workflow
 
-We use R and RStudio for organising, analysing, modelling, plotting, etc. our data, sometimes we use [Matlab](https://www.mathworks.com/products/matlab.html) and other softwares like [Jupyter](https://jupyter.org/) and [Python](https://www.python.org/) as needed:
+#### We use R and RStudio for organising, analysing, modelling, plotting, etc. our data, sometimes we use [Matlab](https://www.mathworks.com/products/matlab.html) and other softwares like [Jupyter](https://jupyter.org/) and [Python](https://www.python.org/) as needed:
 
 * [ ] Download and install [R](https://cloud.r-project.org/)
 * [ ] Download and install [RStudio Desktop](https://rstudio.com/products/rstudio/download/#download)
