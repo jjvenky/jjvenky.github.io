@@ -24,7 +24,7 @@ header:
 
 38. Larsen ML, Baulch HM, Schiff SL, Simon D, Sauvé S, Venkiteswaran JJ. Extreme rainfall drives early onset cyanobacterial bloom. FACETS 5(1): 899-920, <https://doi.org/10.1139/facets-2020-0022>.
 
-37. Tsuji JM, Tran N, Schiff SL, Venkiteswaran JJ, Molot LA, Neufeld JD. 2020. Genomic potential for photoferrotrophy in a seasonally anoxic Boreal Shield lake. ISME J 14: 2732-2747, <https://doi.org/10.1038/s41396-020-0725-0>.
+37. Tsuji JM, Tran N, Schiff SL, Venkiteswaran JJ, Molot LA, Neufeld JD. 2020. Genomic potential for photoferrotrophy in a seasonally anoxic Boreal Shield lake. The ISME Journal 14: 2732-2747, <https://doi.org/10.1038/s41396-020-0725-0>.
 
 36. Pearce NJT, Thomas KE,, Venkiteswaran JJ, Chambers PA, Yates AG. 2020. Metabolic regimes of three mid-order streams in southern Ontario, Canada exposed to contrasting sources of nutrients. Hydrobiologia 847: 1925-1942, <https://doi.org/10.1007/s10750-020-04222-0>.
 
