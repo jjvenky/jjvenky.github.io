@@ -114,4 +114,3 @@ header:
 [Google Scholar](https://scholar.google.ca/citations?user=4FQ_rQsAAAAJ)
 
 [orcid](https://orcid.org/0000-0002-6574-7071)
-Size-Based Characterization of Freshwater Dissolved Organic Matter finds Similarities within a Water Body Type across Different Canadian Ecozones
