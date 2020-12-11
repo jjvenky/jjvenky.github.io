@@ -4,7 +4,7 @@ title: Pubs
 excerpt: "Research publications"
 excerpt:
 permalink: /pubs/
-modified: 2020-11-23
+modified: 2020-12-11
 header:
   overlay_image: assets/images/cornus_feature.jpg
 #  credit: Jason Venkiteswaran
@@ -13,7 +13,9 @@ header:
 
 ## Preprints
 
-3.	Aukes PAK, Schiff SL, Venkiteswaran JJ, Elgood RJ, Spoelstra J. Hydrologic Compartments are More Important than Ecozone in Size-Based Characterization of Freshwater Dissolved Organic Matter across Canada. bioRxiv <https://doi.org/10.1101/2020.04.03.024174>.
+4.	Aukes PAK, Schiff SL, Venkiteswaran JJ, Elgood RJ, Spoelstra J. Size-Based Characterization of Freshwater Dissolved Organic Matter finds Similarities within a Water Body Type across Different Canadian Ecozones. bioRxiv <https://doi.org/10.1101/2020.04.03.024174>.
+
+3. Tsuji JM, Shaw NA, Nagashima S, Venkiteswaran JJ, Schiff SL, Hanada S, Tank M, Neufeld DJ. Anoxygenic phototrophic *Chloroflexota* member uses a Type I reaction center. bioRxiv <https://doi.org/10.1101/2020.07.07.190934>.
 
 2.	Kehoe MJ, Ingalls BP, Venkiteswaran JJ, Baulch HM. Successful forecasting of harmful cyanobacteria blooms with high frequency lake data. bioRxiv <https://doi.org/10.1101/674325>.
 
@@ -112,3 +114,4 @@ header:
 [Google Scholar](https://scholar.google.ca/citations?user=4FQ_rQsAAAAJ)
 
 [orcid](https://orcid.org/0000-0002-6574-7071)
+Size-Based Characterization of Freshwater Dissolved Organic Matter finds Similarities within a Water Body Type across Different Canadian Ecozones
