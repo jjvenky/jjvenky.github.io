@@ -72,7 +72,7 @@ Jared completed his MSc at the University of Regina studying the impacts of Oil 
 
 ![image-left](/assets/images/rachel_henderson-photo.jpg){: .img-bio}
 
-In September 2020, Rachel defended her [MSc thesis](https://scholars.wlu.ca/etd/2338) on the variability of dissolved and particulate stable carbon isotope values in a eutrophic boreal lake at the [Experimental Lakes Area](https://www.iisd.org/ela/). She is interested in the applications of geochemistry to solving environmental problems, and how science can better inform public policy.
+In September 2020, Rachel defended her [MSc thesis](https://scholars.wlu.ca/etd/2338) on the variability of dissolved and particulate stable carbon isotope values in a eutrophic boreal lake at the [Experimental Lakes Area](https://www.iisd.org/ela/). She is interested in the applications of geochemistry to solving environmental problems and how science can better inform public policy.
 
 ### Eric McQuay, MSc student
 
