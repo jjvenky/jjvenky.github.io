@@ -24,12 +24,6 @@ Aukes looks at the variability in natural dissolved organic matter (DOM), with t
 
 You can find more information on Aukes' research interests and projects on his [personal website](https://www.pieteraukes.ca).
 
-### Rachel Henderson, MSc student
-
-![image-left](/assets/images/rachel_henderson-photo.jpg){: .img-bio}
-
-Rachel completed her BSc in Environmental Science at the University of Waterloo. She is currently studying the role of particulate organic matter in iron uptake and fractionation by cyanobacteria at the Experimental Lakes Area, and how this may differ between eutrophic and oligotrophic lakes. She is interested in the applications of geochemistry to solving environmental problems, and how science can better inform public policy.
-
 ### Puru Shah, MSc student
 
 ![image-left](/assets/images/puru_shah-photo.jpg){: .img-bio} 
@@ -74,15 +68,21 @@ Read more about Larsen's research, professional development for students, and sc
 
 Jared completed his MSc at the University of Regina studying the impacts of Oil Sands industrial development on historical algal communities in northern Saskatchewan. He is currently investigating harmful algal bloom formation and decline in the [Experimental Lakes Area](https://www.iisd.org/ela/) as part of the [FORMBLOOM](https://gwf.usask.ca/formbloom/) project. His interests are in studying relationships between ecosystem components, particularly the relationship between humans and the environment.
 
+### Rachel Henderson, MSc student
+
+![image-left](/assets/images/rachel_henderson-photo.jpg){: .img-bio}
+
+In September 2020, Rachel defended her [MSc thesis](https://scholars.wlu.ca/etd/2338) on the variability of dissolved and particulate stable carbon isotope values in a eutrophic boreal lake at the [Experimental Lakes Area](https://www.iisd.org/ela/). She is interested in the applications of geochemistry to solving environmental problems, and how science can better inform public policy.
+
+### Eric McQuay, MSc student
+
+Eric defended his [MSc thesis](http://hdl.handle.net/10012/12867) in Earth Science in October 2017. His research focussed on the redox preconditions required for cyanobacteria dominance of phytoplankton blooms along the embayments of [Georgian Bay](https://doi.org/10.1139/cjfas-2016-0377).
+
 ### Heather Jovanovic, BSc student
 
 ![image-left](/assets/images/heather_jovanovic-photo.jpg){: .img-bio}
 
 Heather completed her honours undergraduate thesis on nitrogen affecting cyanobacteria bloom toxicity as part of the [FORMBLOOM](https://gwf.usask.ca/formbloom/) and LUGNuts programs in 2020. She has gone on to pursue an MSc at the University of Manitoba where she will continue to study contaminants in freshwater ecosystems.
-
-### Eric McQuay, MSc student
-
-Eric defended his [MSc thesis](http://hdl.handle.net/10012/12867) in Earth Science in October 2017. His research focussed on the redox preconditions required for cyanobacteria dominance of phytoplankton blooms along the embayments of [Georgian Bay](https://doi.org/10.1139/cjfas-2016-0377).
 
 ### Ben Bell, BSc student
 
