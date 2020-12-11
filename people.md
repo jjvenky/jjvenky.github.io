@@ -16,16 +16,6 @@ header:
 
 My research is currently focused on the biogeochemical cycling of nutrients and related elements, and human and climate related disruptions of these cycles. For more than a decade,  I have conducted whole-ecosystem research at the world-renowned [Experimental Lakes Area](https://www.iisd.org/ela/) studying reservoir creation, ecosystem metabolism and eutrophication. To study the fate of biogeochemical elements, I often use stable isotope measurements with process-based ecological models. I am a co-founder of the [Coalition to Save ELA](https://saveela.org).
 
-### Megan L. Larsen, Postdoctoral fellow
-
-![image-left](/assets/images/megan_larsen-photo.jpg){: .img-bio}
-
-Megan Larsen is a microbial evolutionary ecologist with a focus in eco-evolutionary feedbacks in microbial communities induced by nutrient stoichiometry. At present, she is investigating predictive models for cyanobacterial bloom formation as part of the cross-institutional [FORMBLOOM](https://gwf.usask.ca/formbloom/)) project. 
-
-Larsen recently completed a one-year postdoctoral position at the University of Nebraska-Lincoln [Water Sciences Laboratory](http://watersciences.unl.edu/) (WSL) where she provided expertise in specialized methods for water quality analysis and oversaw technical training within the facility. Her research at the WSL focused on emerging and persistent contaminants in groundwater and surface waters such as pesticides, nitrates, and cyanobacterial toxins across Nebraska and in the Ganges River ecosystem in India. Larsen received her PhD from Indiana University in 2016. Her dissertation work focused on how ratios of elements such as nitrogen and phosphorus shape the ecological, evolutionary, and molecular interactions between bacteria and phage.
-
-Read more about Larsen's research, professional development for students, and scientific outreach on her [personal webpage](https://meganllarsen.wordpress.com).
-
 ### Pieter Aukes, Postdoctoral fellow
 
 ![image-left](/assets/images/pieter_aukes-photo.jpg){: .img-bio}
@@ -69,6 +59,14 @@ Jeremy completed his Bachelor of Science degree in biology and geography at the 
 ### Matthew Roberts, MSc student
 
 # Former Members
+
+### Megan L. Larsen, Postdoctoral fellow
+
+![image-left](/assets/images/megan_larsen-photo.jpg){: .img-bio}
+
+Megan Larsen is a microbial evolutionary ecologist who has focused on eco-evolutionary feedbacks in microbial communities induced by nutrient stoichiometry. She investigated predictive models for cyanobacterial bloom formation as part of the cross-institutional [FORMBLOOM](https://gwf.usask.ca/formbloom/)) project. Currently, she works with environmental genomics data.
+
+Read more about Larsen's research, professional development for students, and scientific outreach on her [personal webpage](https://meganllarsen.wordpress.com).
 
 ### Jared Wolfe, Research associate
 
