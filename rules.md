@@ -17,7 +17,7 @@ There are any number of reasons to establish lab rules incuding safety, philosop
 
 * Do good science by asking questions early and often, planning ahead, and collaborating.
 * Give credit where credit is due.
-* Students should be the first author of papers coming from their thesis work. Authorship should be discussed early and generally follows the [ESA's Code](https://www.esa.org/about/code-of-ethics/) – see also the advice of [Schmidt 1987](https://www.jstor.org/stable/20166549), [Hunt 1991](https://10.1038/352187a0), and [Weltzin et al. 2006](https://doi.org/10.1890/1540-9295(2006)4[435:AIEAAA]2.0.CO;2)
+* Highly Qualified Personnel (HQP, such as students and post-docs) should be the first author of papers coming from their thesis work. Authorship should be discussed early and generally follows the [ESA's Code](https://www.esa.org/about/code-of-ethics/) – see also the advice of [Schmidt 1987](https://www.jstor.org/stable/20166549), [Hunt 1991](https://10.1038/352187a0), and [Weltzin et al. 2006](https://doi.org/10.1890/1540-9295(2006)4[435:AIEAAA]2.0.CO;2).
 * Be safe and help others be safe by thinking about what types of training are needed.
 * Publish in [Open Access](http://www.carl-abrc.ca/advancing-research/scholarly-communication/open-access/) venues whenever possible, noting there can be different requrements from each funder.
 * Deposit all publications and technical reports on a preprint server such as [bioRxiv](https://www.biorxiv.org/), [EarthArXiv](https://eartharxiv.org/), [ESSOAr](https://www.essoar.org/), etc.
