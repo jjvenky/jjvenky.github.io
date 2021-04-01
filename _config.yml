@@ -24,7 +24,7 @@ github_username:  jjvenky
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.21.0"
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
