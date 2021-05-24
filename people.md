@@ -24,12 +24,6 @@ Aukes looks at the variability in natural dissolved organic matter (DOM), with t
 
 You can find more information on Aukes' research interests and projects on his [personal website](https://www.pieteraukes.ca).
 
-### Puru Shah, MSc student
-
-![image-left](/assets/images/puru_shah-photo.jpg){: .img-bio} 
-
-Puru has just finished his undergrad from University of Waterloo in Biochemistry. Through the co-op program, he has worked at Environment and Climate Change Canada researching harmful algal blooms. His thesis work will be looking at algal and cyanobacterial cultures and how they interact with and take up iron to hopefully better understand the role of iron in harmful algal bloom formation.
-
 ### Jordyn Atkins, MSc student
 
 ![image-left](/assets/images/jordyn_atkins-photo.jpg){: .img-bio}
@@ -68,6 +62,12 @@ Read more about Larsen's research, professional development for students, and sc
 
 Jared completed his MSc at the University of Regina studying the impacts of Oil Sands industrial development on historical algal communities in northern Saskatchewan. He is currently investigating harmful algal bloom formation and decline in the [Experimental Lakes Area](https://www.iisd.org/ela/) as part of the [FORMBLOOM](https://gwf.usask.ca/formbloom/) project. His interests are in studying relationships between ecosystem components, particularly the relationship between humans and the environment.
 
+### Puru Shah, MSc student
+
+![image-left](/assets/images/puru_shah-photo.jpg){: .img-bio} 
+
+In March 2021, Puru defended his thesis on algal and cyanobacterial cultures and how they interact with and take up iron to hopefully better understand the role of iron in harmful algal bloom formation.
+
 ### Rachel Henderson, MSc student
 
 ![image-left](/assets/images/rachel_henderson-photo.jpg){: .img-bio}
@@ -102,4 +102,4 @@ Amber finished her undergraduate degree at Wilfrid Laurier University studying B
 
 # Friends
 
-Friends are our collaborators at a variety of organizations and institutions. In some cases they are co-supervisors, committee members, and/or co-applicants on grants. Often they are co-authors on our papers. In all cases, they are the extended group of people I like to work with. The model of a single professor with a lab full of students is antiquated and simply not how environmental and biogeochemical research is done. <!-- In alphatical order: Helen Baulch, Nora Casson, Scott Higgins, Lewis Molot, Josh Neufeld, Rebecca North, Michael Paterson, Sherry Schiff, and Colin Whitfield. -->
+Friends are our collaborators at a variety of organizations and institutions. In some cases they are co-supervisors, committee members, and/or co-applicants on grants. Often they are co-authors on our papers. In all cases, they are the extended group of people I like to work with. The model of a single professor with a lab full of students is antiquated and simply not how environmental and biogeochemical research is done. <!-- In alphatical order: Helen Baulch, Nora Casson, Raoul Couture, Scott Higgins, Lewis Molot, Josh Neufeld, Rebecca North, Michael Paterson, Sherry Schiff, and Colin Whitfield. -->
