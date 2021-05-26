@@ -4,7 +4,7 @@ title: Pubs
 excerpt: "Research publications"
 excerpt:
 permalink: /pubs/
-modified: 2020-12-11
+modified: 2021-05.26
 header:
   overlay_image: assets/images/cornus_feature.jpg
 #  credit: Jason Venkiteswaran
@@ -22,7 +22,9 @@ header:
 
 ## Peer-Reviewed
 
-42. Mesman JP, Ladwig R, Feldbauer J, Olsson F, Pilla RM, Shatwell T, Venkiteswaran JJ, Delany AD, Dugan H, Rose KC, Read JS. LakeEnsemblR: An R package that facilitates ensemble modelling of lakes. Environmental Modeling and Software. EarthArXiv <https://doi.org/10.31223/X55C8S>.
+43.	Molot LA, Higgins SN, Schiff SL, Venkiteswaran JJ, Paterson MJ, Baulch HM. In Press. Phosphorus-only fertilization rapidly initiates large nitrogen-fixing cyanobacteria blooms in two oligotrophic lakes. Environmental Research Letters. ERL-111151. 29pp.
+
+42.	Mesman JP, Ladwig R, Feldbauer J, Olsson F, Pilla RM, Shatwell T, Venkiteswaran JJ, Delany AD, Dugan H, Rose KC, Read JS. LakeEnsemblR: An R package that facilitates ensemble modelling of lakes. Environmental Modeling and Software. EarthArXiv <https://doi.org/10.31223/X55C8S>.
 
 41.	Matiatos I, Wassenaar LI, Monteiro LR, Venkiteswaran JJ, Gooddy CD, Boeckx P, Sacchi E, Yue FY, Michalski G, Alonso-Hernández C, Biasi C, Bouchaou L, Edirisinghe EANV, Fadhullah W, Fianko JR, Garcia-Moya A, Kazakis N, Li SL, Luu TNM, Priyadarshanee S, Re V, Rivera D, Romanelli A, Sanyal P, Tamooh F, Trinh AD, Walters W, and Welti N. 2021. Global Patterns of Nitrate Isotope Composition in Rivers and Adjacent Aquifers Reveal Reactive Nitrogen Cascading.  Communications Earth and Environment 2: 52,  <https://doi.org/10.1038/s43247-021-00121-x>.
 
@@ -109,6 +111,9 @@ header:
 
 
 ## Other
+
+4. Aukes PKA, Guo T, Atkins J, Venkiteswaran JJ, Elgood RJ, English MJ, Schiff SL. 2021. How do different species of Disinfection By-Products compare to water quality guidelines?. figshare. Poster. <https://doi.org/10.6084/m9.figshare.14582946.v1>.
+
 
 3.	Campbell LM, Venkiteswaran JJ, Bond AL. 2014. Common Mistakes in Stable Isotope Terminology and Phraseology. figshare, <https://doi.org/10.6084/m9.figshare.1150337>.
 
