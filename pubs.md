@@ -13,6 +13,8 @@ header:
 
 ## Preprints
 
+4.	Moore TN, Mesman JP, Ladwig R, Feldbauer J, Olsson F, Pilla RM, Shatwell T, Venkiteswaran JJ, Delany AD, Dugan H, Rose KC, Read JS. LakeEnsemblR: An R package that facilitates ensemble modelling of lakes. EarthArXiv <https://doi.org/10.31223/X55C8S>.
+
 3.	Tsuji JM, Shaw NA, Nagashima S, Venkiteswaran JJ, Schiff SL, Hanada S, Tank M, Neufeld DJ. Anoxygenic phototrophic *Chloroflexota* member uses a Type I reaction center. bioRxiv <https://doi.org/10.1101/2020.07.07.190934>.
 
 2.	Kehoe MJ, Ingalls BP, Venkiteswaran JJ, Baulch HM. Successful forecasting of harmful cyanobacteria blooms with high frequency lake data. bioRxiv <https://doi.org/10.1101/674325>.
