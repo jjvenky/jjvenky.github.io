@@ -11,9 +11,7 @@ header:
 ---
 
 
-## Preprints
-
-4.	Moore TN, Mesman JP, Ladwig R, Feldbauer J, Olsson F, Pilla RM, Shatwell T, Venkiteswaran JJ, Delany AD, Dugan H, Rose KC, Read JS. LakeEnsemblR: An R package that facilitates ensemble modelling of lakes. EarthArXiv <https://doi.org/10.31223/X55C8S>.
+## Preprints, not yet peer-reviewed
 
 3.	Tsuji JM, Shaw NA, Nagashima S, Venkiteswaran JJ, Schiff SL, Hanada S, Tank M, Neufeld DJ. Anoxygenic phototrophic *Chloroflexota* member uses a Type I reaction center. bioRxiv <https://doi.org/10.1101/2020.07.07.190934>.
 
@@ -26,7 +24,7 @@ header:
 
 43.	Molot LA, Higgins SN, Schiff SL, Venkiteswaran JJ, Paterson MJ, Baulch HM. In Press. Phosphorus-only fertilization rapidly initiates large nitrogen-fixing cyanobacteria blooms in two oligotrophic lakes. Environmental Research Letters. ERL-111151. 29pp.
 
-42.	Mesman JP, Ladwig R, Feldbauer J, Olsson F, Pilla RM, Shatwell T, Venkiteswaran JJ, Delany AD, Dugan H, Rose KC, Read JS. LakeEnsemblR: An R package that facilitates ensemble modelling of lakes. Environmental Modeling and Software. EarthArXiv <https://doi.org/10.31223/X55C8S>.
+42.	Moore TN, Mesman JP, Ladwig R, Feldbauer J, Olsson F, Pilla RM, Shatwell T, Venkiteswaran JJ, Delany AD, Dugan H, Rose KC, Read JS. LakeEnsemblR: An R package that facilitates ensemble modelling of lakes. Environmental Modeling and Software. EarthArXiv <https://doi.org/10.31223/X55C8S>.
 
 41.	Matiatos I, Wassenaar LI, Monteiro LR, Venkiteswaran JJ, Gooddy CD, Boeckx P, Sacchi E, Yue FY, Michalski G, Alonso-Hernández C, Biasi C, Bouchaou L, Edirisinghe EANV, Fadhullah W, Fianko JR, Garcia-Moya A, Kazakis N, Li SL, Luu TNM, Priyadarshanee S, Re V, Rivera D, Romanelli A, Sanyal P, Tamooh F, Trinh AD, Walters W, and Welti N. 2021. Global Patterns of Nitrate Isotope Composition in Rivers and Adjacent Aquifers Reveal Reactive Nitrogen Cascading.  Communications Earth and Environment 2: 52,  <https://doi.org/10.1038/s43247-021-00121-x>.
 
@@ -111,6 +109,15 @@ header:
 1.	Bodaly RA, Beaty KG, Hendzel LH, Majewski AR, Paterson MJ, Rolfhus KR, Penn AF, St.Louis VL, Hall BD, Matthews CJD, Cherewyk KA, Mailman M, Hurley JP, Schiff SL, Venkiteswaran JJ. 2004. The use of experimental reservoirs to explore the mercury and greenhouse gas impacts of hydro-electric developments: The FLUDEX experiment. Environmental Science and Technology 38(18): 337A–352A, <https://doi.org/10.1021/es040614u>.
 {: reversed="reversed"}
 
+
+## Data
+
+3.	Atkins J, Venkiteswaran JJ. 2020. Bathymetric and hypsographic data for IISD-ELA Lakes L438, L627, and L628. Scholars Portal Dataverse, <https://doi.org/10.5683/SP2/LBS5T6>.
+
+2.	Aukes PKA, Schiff SL, Venkiteswaran JJ, Elgood RJ, Spoelstra J, 2020. Data used in 'Size-Based Characterization of Freshwater Dissolved Organic Matter finds Similarities within a Water Body Type across Different Canadian Ecozones'. Scholars Portal Dataverse, <https://doi.org/10.5683/SP2/ZRGXQ5>.
+
+1.	Aukes PKA, Venkiteswaran JJ, Schiff SL, English MJ, Department of Municipal and Community Affairs, 2020. History of DOM & DBP in Drinking Water Sources across the Northwest Territories. Scholars Portal Dataverse, <https://doi.org/10.5683/SP2/4E6LGS>.
+{: reversed="reversed"}
 
 ## Other
 
