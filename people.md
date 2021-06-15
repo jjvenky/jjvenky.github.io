@@ -76,7 +76,7 @@ In September 2020, Rachel defended her [MSc thesis](https://scholars.wlu.ca/etd/
 
 ### Eric McQuay, MSc student
 
-Eric defended his [MSc thesis](http://hdl.handle.net/10012/12867) in Earth Science in October 2017. His research focussed on the redox preconditions required for cyanobacteria dominance of phytoplankton blooms along the embayments of [Georgian Bay](https://doi.org/10.1139/cjfas-2016-0377).
+Eric defended his [MSc thesis](http://hdl.handle.net/10012/12867) in Earth Science in October 2017. His research focussed on the redox preconditions required for cyanobacteria dominance of phytoplankton blooms along the embayments of [Georgian Bay](https://doi.org/10.1139/cjfas-2016-0377). ("The Role of Nitrate in Controlling Iron Release from Sediment during Anoxia in Dimictic, Fresh Water Lakes." (2018). UWSpace. [http://hdl.handle.net/10012/12867].)
 
 ### Heather Jovanovic, BSc student
 
