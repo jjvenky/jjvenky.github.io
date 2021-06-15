@@ -22,9 +22,9 @@ header:
 
 ## Peer-Reviewed
 
-43.	Molot LA, Higgins SN, Schiff SL, Venkiteswaran JJ, Paterson MJ, Baulch HM. In Press. Phosphorus-only fertilization rapidly initiates large nitrogen-fixing cyanobacteria blooms in two oligotrophic lakes. Environmental Research Letters 16:6, <https://doi.org/10.1088/1748-9326/ac0564>
+43.	Molot LA, Higgins SN, Schiff SL, Venkiteswaran JJ, Paterson MJ, Baulch HM. In Press. Phosphorus-only fertilization rapidly initiates large nitrogen-fixing cyanobacteria blooms in two oligotrophic lakes. Environmental Research Letters. ERL-111151. 29pp.
 
-42.	Moore TN, Mesman JP, Ladwig R, Feldbauer J, Olsson F, Pilla RM, Shatwell T, Venkiteswaran JJ, Delany AD, Dugan H, Rose KC, Read JS. LakeEnsemblR: An R package that facilitates ensemble modelling of lakes. Environmental Modeling and Software 143, <https://doi.org/10.1016/j.envsoft.2021.105101>.
+42.	Moore TN, Mesman JP, Ladwig R, Feldbauer J, Olsson F, Pilla RM, Shatwell T, Venkiteswaran JJ, Delany AD, Dugan H, Rose KC, Read JS. LakeEnsemblR: An R package that facilitates ensemble modelling of lakes. Environmental Modeling and Software. EarthArXiv <https://doi.org/10.31223/X55C8S>.
 
 41.	Matiatos I, Wassenaar LI, Monteiro LR, Venkiteswaran JJ, Gooddy CD, Boeckx P, Sacchi E, Yue FY, Michalski G, Alonso-Hernández C, Biasi C, Bouchaou L, Edirisinghe EANV, Fadhullah W, Fianko JR, Garcia-Moya A, Kazakis N, Li SL, Luu TNM, Priyadarshanee S, Re V, Rivera D, Romanelli A, Sanyal P, Tamooh F, Trinh AD, Walters W, and Welti N. 2021. Global Patterns of Nitrate Isotope Composition in Rivers and Adjacent Aquifers Reveal Reactive Nitrogen Cascading.  Communications Earth and Environment 2: 52,  <https://doi.org/10.1038/s43247-021-00121-x>.
 
@@ -88,7 +88,7 @@ header:
 
 11.	Baulch HM, Dillon PJ, Maranger R, Venkiteswaran JJ, Wilson HF, Schiff SL. 2011. Night and day: Short-term variation in nitrogen chemistry and N<sub>2</sub>O emissions and the implications of daytime sampling. Freshwater Biology 57(3): 509–525, <https://doi.org/10.1111/j.1365-2427.2011.02720.x>.
 
-10.	Snider DM, Spoelstra J, Schiff, SL, Venkiteswaran JJ. 2010. Stable oxygen isotope ratios of nitrate produced from nitrification: <sup>18</sup>O-labelled water incubations of agricultural and temperate forest soils. Environmental Science and Technology 44(14): 5358–5364, <https://doi.org/10.1021/es1002567>.
+10.	Snider DM, Spoelstra J, Schiff, SL, Venkiteswaran JJ. 2010. Stable oxygen isotope ratios of nitrate produced from nitrification: <sup>18></sup>O-labelled water incubations of agricultural and temperate forest soils. Environmental Science and Technology 44(14): 5358–5364, <https://doi.org/10.1021/es1002567>.
 
 9.	Wassenaar LI, Venkiteswaran JJ, Koehler G, Schiff SL. 2010. Riverine aquatic community metabolism response to point-source sewage inputs quantified using diel δ<sup>18</sup>O values of dissolved oxygen. Canadian Journal of Fisheries and Aquatic Sciences 67(7): 1232–1246, <https://doi.org/10.1139/F10-057>.
 
@@ -111,8 +111,6 @@ header:
 
 
 ## Data
-
-4. Molot LA, Higgins SN, Schiff SL, Venkiteswaran JJ, Paterson MJ, Baulch HM. 2021, Phosphorus-only fertilization rapidly initiates large nitrogen-fixing cyanobacteria blooms in two oligotrophic lakes. Scholars Portal Dataverse, <https://doi.org/10.5683/SP2/Q7FYSI>.
 
 3.	Atkins J, Venkiteswaran JJ. 2020. Bathymetric and hypsographic data for IISD-ELA Lakes L438, L627, and L628. Scholars Portal Dataverse, <https://doi.org/10.5683/SP2/LBS5T6>.
 
