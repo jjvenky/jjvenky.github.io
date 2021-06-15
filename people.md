@@ -66,13 +66,13 @@ Jared completed his MSc at the University of Regina studying the impacts of Oil 
 
 ![image-left](/assets/images/puru_shah-photo.jpg){: .img-bio} 
 
-In March 2021, Puru defended his thesis on algal and cyanobacterial cultures and how they interact with and take up iron to hopefully better understand the role of iron in harmful algal bloom formation.
+In March 2021, Puru defended his thesis on algal and cyanobacterial cultures and how they interact with and take up iron to hopefully better understand the role of iron in harmful algal bloom formation. ("Characterization of Micronutrient Dependent Growth by Several Temperate Freshwater Phytoplankton" (2021). Theses and Dissertations (Comprehensive). 2374. [https://scholars.wlu.ca/etd/2374]).
 
 ### Rachel Henderson, MSc student
 
 ![image-left](/assets/images/rachel_henderson-photo.jpg){: .img-bio}
 
-In September 2020, Rachel defended her [MSc thesis](https://scholars.wlu.ca/etd/2338) on the variability of dissolved and particulate stable carbon isotope values in a eutrophic boreal lake at the [Experimental Lakes Area](https://www.iisd.org/ela/). She is interested in the applications of geochemistry to solving environmental problems and how science can better inform public policy.
+In September 2020, Rachel defended her [MSc thesis](https://scholars.wlu.ca/etd/2338) on the variability of dissolved and particulate stable carbon isotope values in a eutrophic boreal lake at the [Experimental Lakes Area](https://www.iisd.org/ela/). She is interested in the applications of geochemistry to solving environmental problems and how science can better inform public policy. ("Investigating diel, seasonal, and interannual variability of dissolved and particulate stable carbon isotope values in a eutrophic boreal lake" (2020). Theses and Dissertations (Comprehensive). 2338. [https://scholars.wlu.ca/etd/2338]).
 
 ### Eric McQuay, MSc student
 
