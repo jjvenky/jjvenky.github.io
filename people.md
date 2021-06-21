@@ -44,6 +44,10 @@ Jeremy completed his Bachelor of Science degree in biology and geography at the 
 
 ### Catherine Goltz, MSc student
 
+![image-left](/assets/images/catherine_goltz-photo.jpg){: .img-bio}
+
+Catherine completed her BSc (Honours) at the University of Winnipeg looking at how nitrogen influences cyanobacterial blooms and toxins. Her interest in blooms continues in her MSc where she will look at how iron release from sediment can be suppressed to shift algal communities in lakes.
+
 ### Matthew Roberts, MSc student
 
 # Former Members
