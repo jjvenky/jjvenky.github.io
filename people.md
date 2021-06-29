@@ -24,6 +24,12 @@ Aukes looks at the variability in natural dissolved organic matter (DOM), with t
 
 You can find more information on Aukes' research interests and projects on his [personal website](https://www.pieteraukes.ca).
 
+### Kristin Painter, Postdoctoral fellow
+
+![image-left](/assets/images/kristin_painter-photo.jpg){: .img-bio}
+
+Kristin Painter is a freshwater ecologist and biogeochemist. Her research has focused on land-to-lake transport, fate, and impact of anthropogenic nutrients and contaminants. She is currently investigating ecological and biogeochemical drivers of cyanobacterial bloom phenology as part of the [FORMBLOOM](http://formbloom.ca) project.
+
 ### Jordyn Atkins, MSc student
 
 ![image-left](/assets/images/jordyn_atkins-photo.jpg){: .img-bio}
