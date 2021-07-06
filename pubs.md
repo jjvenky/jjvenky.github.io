@@ -34,7 +34,7 @@ header:
 
 40.	Molot LA, Schiff SL, Venkiteswaran JJ, Baulch HM, Higgins SN, Zastepa A, Verschoor M, Walters D. 2021. Low sediment redox promotes cyanobacteria across a trophic range: implications for bloom management. Lake and Reservoir Management 37(2): 120-142, <https://doi.org/10.1080/10402381.2020.1854400>.
 
-39.	Aukes PAK, Schiff SL, Venkiteswaran JJ, Elgood RJ, Spoelstra J. 2021. Size-Based Characterization of Freshwater Dissolved Organic Matter finds Similarities within a Water Body Type across Different Canadian Ecozones. Limnology and Oceanopgrahy Letters, <https://doi.org/10.1002/lol2.10180>.
+39.	Aukes PAK, Schiff SL, Venkiteswaran JJ, Elgood RJ, Spoelstra J. 2021. Size-Based Characterization of Freshwater Dissolved Organic Matter finds Similarities within a Water Body Type across Different Canadian Ecozones. Limnology and Oceanopgrahy Letters 6(2): 85-95, <https://doi.org/10.1002/lol2.10180>.
 
 38. Larsen ML, Baulch HM, Schiff SL, Simon D, Sauvé S, Venkiteswaran JJ. 2020. Extreme rainfall drives early onset cyanobacterial bloom. FACETS 5(1): 899-920, <https://doi.org/10.1139/facets-2020-0022>.
 
