@@ -22,9 +22,11 @@ header:
 
 ## Peer-Reviewed
 
-43.	Molot LA, Higgins SN, Schiff SL, Venkiteswaran JJ, Paterson MJ, Baulch HM. In Press. Phosphorus-only fertilization rapidly initiates large nitrogen-fixing cyanobacteria blooms in two oligotrophic lakes. Environmental Research Letters 16:6, <https://doi.org/10.1088/1748-9326/ac0564>
+44.	Leclerc É, Venkiteswaran JJ, Jasiak I, Telford JV, Wolfe BB, Hall RI, Schultz MDJ, Couture R-M. 2021. Quantifying arsenic post-depositional mobility in lake sediments impacted by gold ore roasting in sub-arctic Canada using inverse diagenetic modelling. Environmental Pollution. <https://doi.org/10.1016/j.envpol.2021.117723>.
 
-42.	Moore TN, Mesman JP, Ladwig R, Feldbauer J, Olsson F, Pilla RM, Shatwell T, Venkiteswaran JJ, Delany AD, Dugan H, Rose KC, Read JS. LakeEnsemblR: An R package that facilitates ensemble modelling of lakes. Environmental Modeling and Software 143, <https://doi.org/10.1016/j.envsoft.2021.105101>.
+43.	Molot LA, Higgins SN, Schiff SL, Venkiteswaran JJ, Paterson MJ, Baulch HM. 2021. Phosphorus-only fertilization rapidly initiates large nitrogen-fixing cyanobacteria blooms in two oligotrophic lakes. Environmental Research Letters 16:6, <https://doi.org/10.1088/1748-9326/ac0564>.
+
+42.	Moore TN, Mesman JP, Ladwig R, Feldbauer J, Olsson F, Pilla RM, Shatwell T, Venkiteswaran JJ, Delany AD, Dugan H, Rose KC, Read JS. 2021. LakeEnsemblR: An R package that facilitates ensemble modelling of lakes. Environmental Modeling and Software 143: 105101, <https://doi.org/10.1016/j.envsoft.2021.105101>.
 
 41.	Matiatos I, Wassenaar LI, Monteiro LR, Venkiteswaran JJ, Gooddy CD, Boeckx P, Sacchi E, Yue FY, Michalski G, Alonso-Hernández C, Biasi C, Bouchaou L, Edirisinghe EANV, Fadhullah W, Fianko JR, Garcia-Moya A, Kazakis N, Li SL, Luu TNM, Priyadarshanee S, Re V, Rivera D, Romanelli A, Sanyal P, Tamooh F, Trinh AD, Walters W, and Welti N. 2021. Global Patterns of Nitrate Isotope Composition in Rivers and Adjacent Aquifers Reveal Reactive Nitrogen Cascading.  Communications Earth and Environment 2: 52,  <https://doi.org/10.1038/s43247-021-00121-x>.
 
