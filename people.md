@@ -30,12 +30,6 @@ You can find more information on Aukes' research interests and projects on his [
 
 Kristin Painter is a freshwater ecologist and biogeochemist. Her research has focused on land-to-lake transport, fate, and impact of anthropogenic nutrients and contaminants. She is currently investigating ecological and biogeochemical drivers of cyanobacterial bloom phenology as part of the [FORMBLOOM](http://formbloom.ca) project.
 
-### Jordyn Atkins, MSc student
-
-![image-left](/assets/images/jordyn_atkins-photo.jpg){: .img-bio}
-
-Jordyn completed her Honours BSc in Earth and Environmental Sciences with a GIS minor at McMaster University. Her MSc research will focus on understanding the relationship between catchment land cover characteristics, dissolved organic carbon, and disinfection by-products. GIS will be used to create a model to predict which waters will produce less disinfection by-products and therefore are better suited to drinking water.
-
 ### Mackenzie Schultz, MSc student
 
 ![image-left](/assets/images/mackenzie_schultz-photo.jpg){: .img-bio}
@@ -72,11 +66,17 @@ Read more about Larsen's research, professional development for students, and sc
 
 Jared completed his MSc at the University of Regina studying the impacts of Oil Sands industrial development on historical algal communities in northern Saskatchewan. He is currently investigating harmful algal bloom formation and decline in the [Experimental Lakes Area](https://www.iisd.org/ela/) as part of the [FORMBLOOM](https://gwf.usask.ca/formbloom/) project. His interests are in studying relationships between ecosystem components, particularly the relationship between humans and the environment.
 
+### Jordyn Atkins, MSc student
+
+![image-left](/assets/images/jordyn_atkins-photo.jpg){: .img-bio}
+
+In June 2021, Jordyn defended her [MSc thesis](https://scholars.wlu.ca/etd/2383) on how forested catchments and lake residence times control dissolved organic carbon and disinfection by-products at the [Experimental Lakes Area](https://www.iisd.org/ela/). ("Characterizing Boreal Shield Lakes and Catchments to Predict Dissolved Organic Carbon Concentration and Composition in Relation to Safe Drinking Water Sources with Minimal Disinfection By-Products" (2021). Theses and Dissertations (Comprehensive). 2383. [https://scholars.wlu.ca/etd/2383]).
+
 ### Puru Shah, MSc student
 
 ![image-left](/assets/images/puru_shah-photo.jpg){: .img-bio} 
 
-In March 2021, Puru defended his thesis on algal and cyanobacterial cultures and how they interact with and take up iron to hopefully better understand the role of iron in harmful algal bloom formation. ("Characterization of Micronutrient Dependent Growth by Several Temperate Freshwater Phytoplankton" (2021). Theses and Dissertations (Comprehensive). 2374. [https://scholars.wlu.ca/etd/2374]).
+In March 2021, Puru defended his [MSc thesis](https://scholars.wlu.ca/etd/2374) on algal and cyanobacterial cultures and how they interact with and take up iron to hopefully better understand the role of iron in harmful algal bloom formation. ("Characterization of Micronutrient Dependent Growth by Several Temperate Freshwater Phytoplankton" (2021). Theses and Dissertations (Comprehensive). 2374. [https://scholars.wlu.ca/etd/2374]).
 
 ### Rachel Henderson, MSc student
 
