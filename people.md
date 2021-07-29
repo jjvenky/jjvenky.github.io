@@ -16,14 +16,6 @@ header:
 
 My research is currently focused on the biogeochemical cycling of nutrients and related elements, and human and climate related disruptions of these cycles. For more than a decade,  I have conducted whole-ecosystem research at the world-renowned [Experimental Lakes Area](https://www.iisd.org/ela/) studying reservoir creation, ecosystem metabolism and eutrophication. To study the fate of biogeochemical elements, I often use stable isotope measurements with process-based ecological models. I am a co-founder of the [Coalition to Save ELA](https://saveela.org).
 
-### Pieter Aukes, Postdoctoral fellow
-
-![image-left](/assets/images/pieter_aukes-photo.jpg){: .img-bio}
-
-Aukes looks at the variability in natural dissolved organic matter (DOM), with the objective of distinguishing indicators of labile DOM. Liquid Chromatography-Organic Carbon Detection (LC-OCD) uses a size-exclusion method to provide a highly detailed analysis of DOM composition. His research classifies a variety of surface and ground water environments, with the aim to observe differences in composition between environments, as well as to identify components which may indicate the overall lability of DOM in the [SAMMS](http://samms.ca) and [Northern Water Futures](https://researchcentres.wlu.ca/northern-water-futures/index.html) projects.
-
-You can find more information on Aukes' research interests and projects on his [personal website](https://www.pieteraukes.ca).
-
 ### Kristin Painter, Postdoctoral fellow
 
 ![image-left](/assets/images/kristin_painter-photo.jpg){: .img-bio}
@@ -59,6 +51,14 @@ Catherine completed her BSc (Honours) at the University of Winnipeg looking at h
 Megan Larsen is a microbial evolutionary ecologist who has focused on eco-evolutionary feedbacks in microbial communities induced by nutrient stoichiometry. She investigated predictive models for cyanobacterial bloom formation as part of the cross-institutional [FORMBLOOM](https://gwf.usask.ca/formbloom/)) project. Currently, she works with environmental genomics data.
 
 Read more about Larsen's research, professional development for students, and scientific outreach on her [personal webpage](https://meganllarsen.wordpress.com).
+
+### Pieter Aukes, Postdoctoral fellow
+
+![image-left](/assets/images/pieter_aukes-photo.jpg){: .img-bio}
+
+Pieter looked at the variability in natural dissolved organic matter (DOM), with the objective of distinguishing indicators of labile DOM. Liquid Chromatography-Organic Carbon Detection (LC-OCD) uses a size-exclusion method to provide a highly detailed analysis of DOM composition. His research classified a variety of arctic and sub-arctic surface and ground water environments, with the aim to observe differences in composition between environments, as well as to identify components which may indicate the overall lability of DOM in the [SAMMS](http://samms.ca) and [Northern Water Futures](https://researchcentres.wlu.ca/northern-water-futures/index.html) projects. He is now a water sciences instructor at the Southern Alberta Institute of Technology (SAIT) where he's teaching field techniques and data visualization.
+
+You can find more information on Aukes' projects on his [personal website](https://www.pieteraukes.ca).
 
 ### Jared Wolfe, Research associate
 
