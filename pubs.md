@@ -22,11 +22,15 @@ header:
 
 ## Peer-Reviewed
 
-46.	Reinl KL, Brookes JD, Carey CC, Harris TD, Ibelings BW, Morales-Williams AM, De Senerpont Domis LN, Atkins KS, Isles PDF, Mesman JP, North RL, Rudstam LG, Stelzer JAA, Venkiteswaran JJ, Yokota K, Zhan Q. 2021. Cyanobacterial Blooms in Oligotrophic Lakes: Shifting the High Nutrient Paradigm. Freshwater Biology. <http://doi.org/10.1111/fwb.13791>
+48.	Baron AAA, Dyck LT, Hamjad H, Bragg J, Kroft E, Newson J, Oleson K, Casson NJ, North RL, Venkiteswaran JJ, Whitfield CJ. 2022. Differences in ebullitive methane release from small, shallow ponds present challenges for scaling. Science of The Total Environment. 802: 149685, <https://doi.org/10.1016/j.scitotenv.2021.149685>.
 
-45.	Sokolov V, Habtewold J, VanderZaag A, Dunfield K, Gregorich E, Wagner-Riddle, Venkiteswaran JJ, Gordon R. 2021. Response Curves for Ammonia and Methane Emissions from Stored Liquid Manure Receiving Low Rates of Sulfuric Acid. Frontiers in Sustainable Food Systems. 5: 678992, <https://doi.org/10.3389/fsufs.2021.678992>.
+47.	Jasiak I, Wiklund JA, Leclerc É, Telford JV, Couture R-M, Venkiteswaran JJ, Hall RI, Wolfe BB. 2021. Evaluating spatiotemporal patterns of arsenic, antimony, and lead deposition from legacy gold mine emissions using lake sediment records. Applied Geochemistry, <https://doi.org/10.1016/j.apgeochem.2021.105053>.
 
-44.	Leclerc É, Venkiteswaran JJ, Jasiak I, Telford JV, Wolfe BB, Hall RI, Schultz MDJ, Couture R-M. 2021. Quantifying arsenic post-depositional mobility in lake sediments impacted by gold ore roasting in sub-arctic Canada using inverse diagenetic modelling. Environmental Pollution. <https://doi.org/10.1016/j.envpol.2021.117723>.
+46.	Reinl KL, Brookes JD, Carey CC, Harris TD, Ibelings BW, Morales-Williams AM, De Senerpont Domis LN, Atkins KS, Isles PDF, Mesman JP, North RL, Rudstam LG, Stelzer JAA, Venkiteswaran JJ, Yokota K, Zhan Q. 2021. Cyanobacterial Blooms in Oligotrophic Lakes: Shifting the High Nutrient Paradigm. Freshwater Biology 66, 1846-1859. <https://doi.org/10.1111/fwb.13791>
+
+45.	Sokolov V, Habtewold J, VanderZaag A, Dunfield K, Gregorich E, Wagner-Riddle, Venkiteswaran JJ, Gordon R. 2021. Response Curves for Ammonia and Methane Emissions from Stored Liquid Manure Receiving Low Rates of Sulfuric Acid. Frontiers in Sustainable Food Systems 5: 678992, <https://doi.org/10.3389/fsufs.2021.678992>.
+
+44.	Leclerc É, Venkiteswaran JJ, Jasiak I, Telford JV, Wolfe BB, Hall RI, Schultz MDJ, Couture R-M. 2021. Quantifying arsenic post-depositional mobility in lake sediments impacted by gold ore roasting in sub-arctic Canada using inverse diagenetic modelling. Environmental Pollution 228: 117723. <https://doi.org/10.1016/j.envpol.2021.117723>.
 
 43.	Molot LA, Higgins SN, Schiff SL, Venkiteswaran JJ, Paterson MJ, Baulch HM. 2021. Phosphorus-only fertilization rapidly initiates large nitrogen-fixing cyanobacteria blooms in two oligotrophic lakes. Environmental Research Letters 16: 6, <https://doi.org/10.1088/1748-9326/ac0564>.
 
