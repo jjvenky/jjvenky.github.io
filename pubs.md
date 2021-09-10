@@ -122,6 +122,10 @@ header:
 
 ## Data
 
+6.	Leclerc É, Couture R-M, Venkiteswaran JJ. 2021. Data for: Quantifying arsenic post-depositional mobility in lake sediments impacted by gold ore roasting in sub-arctic Canada using inverse diagenetic modelling. Scholars Portal Dataverse, <https://doi.org/10.5683/SP2/TW3LGO>.
+
+5.	Jasiak I, Wolfe BB, Hall RI, Venkiteswaran JJ. 2021. Data for: Evaluating spatiotemporal patterns of arsenic, antimony, and lead deposition from legacy gold mine emissions using lake sediment records. Scholars Portal Dataverse, <https://doi.org/10.5683/SP2/TNYTQL>
+
 4. Molot LA, Higgins SN, Schiff SL, Venkiteswaran JJ, Paterson MJ, Baulch HM. 2021, Phosphorus-only fertilization rapidly initiates large nitrogen-fixing cyanobacteria blooms in two oligotrophic lakes. Scholars Portal Dataverse, <https://doi.org/10.5683/SP2/Q7FYSI>.
 
 3.	Atkins J, Venkiteswaran JJ. 2020. Bathymetric and hypsographic data for IISD-ELA Lakes L438, L627, and L628. Scholars Portal Dataverse, <https://doi.org/10.5683/SP2/LBS5T6>.
