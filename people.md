@@ -22,6 +22,11 @@ My research is currently focused on the biogeochemical cycling of nutrients and 
 
 Kristin Painter is a freshwater ecologist and biogeochemist. Her research has focused on land-to-lake transport, fate, and impact of anthropogenic nutrients and contaminants. She is currently investigating ecological and biogeochemical drivers of cyanobacterial bloom phenology as part of the [FORMBLOOM](http://formbloom.ca) project.
 
+### Daniela Klicper, PhD student
+
+
+
+
 ### Mackenzie Schultz, MSc student
 
 ![image-left](/assets/images/mackenzie_schultz-photo.jpg){: .img-bio}
@@ -41,6 +46,8 @@ Jeremy completed his Bachelor of Science degree in biology and geography at the 
 Catherine completed her BSc (Honours) at the University of Winnipeg looking at how nitrogen influences cyanobacterial blooms and toxins. Her interest in blooms continues in her MSc where she will look at how iron release from sediment can be suppressed to shift algal communities in lakes.
 
 ### Matthew Roberts, MSc student
+
+### Alexia Marten, BSc student
 
 # Former Members
 
