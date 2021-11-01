@@ -49,6 +49,10 @@ Catherine completed her BSc (Honours) at the University of Winnipeg looking at h
 
 ### Alexia Marten, BSc student
 
+![image-left](/assets/images/alexia_marten-photo.jpg){: .img-bio}
+
+Alexia is an undergraduate student at Laurier who is in her final year studying Environmental Science. Her thesis is focusing on determining spatial distribution patterns of phosphorous deposition through out Muskoka, she is working with other students through out eastern North America through the Linked Undergraduate experiments on Nutrients network (LUGNuts).
+
 # Former Members
 
 ### Megan L. Larsen, Postdoctoral fellow
