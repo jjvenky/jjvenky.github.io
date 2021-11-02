@@ -24,7 +24,9 @@ Kristin Painter is a freshwater ecologist and biogeochemist. Her research has fo
 
 ### Daniela Klicper, PhD student
 
+![image-left](/assets/images/daniela_klicper-photo.png){: .img-bio}
 
+Daniela most recently completed her Master's degree in Water Security from the University of Saskatchewan, where she studied wetland drainage and its impacts on phosphorus loading into surface water. She also holds a Bachelor of Environmental and Resource Science from Trent University. Daniela is a part of the FORMBLOOM project, where she will help assess harmful algal bloom formation in Jackfish Lake, NWT.
 
 
 ### Mackenzie Schultz, MSc student
