@@ -49,6 +49,8 @@ Catherine completed her BSc (Honours) at the University of Winnipeg looking at h
 
 ### Matthew Roberts, MSc student
 
+Matthew completed his BSc in Biology and Chemistry at Wilfrid Laurier University. He returned to Laurier for his MSc, looking at shallow lake stratification and its impacts on phytoplankton communities.
+
 ### Alexia Marten, BSc student
 
 ![image-left](/assets/images/alexia_marten-photo.jpg){: .img-bio}
