@@ -13,40 +13,45 @@ header:
 
 ## Preprints, not yet peer-reviewed
 
-3.	Tsuji JM, Shaw NA, Nagashima S, Venkiteswaran JJ, Schiff SL, Hanada S, Tank M, Neufeld DJ. Anoxygenic phototrophic *Chloroflexota* member uses a Type I reaction center. bioRxiv <https://doi.org/10.1101/2020.07.07.190934>.
+2.	Tsuji JM, Shaw NA, Nagashima S, Venkiteswaran JJ, Schiff SL, Hanada S, Tank M, Neufeld DJ. Anoxygenic phototrophic *Chloroflexota* member uses a Type I reaction center. bioRxiv <https://doi.org/10.1101/2020.07.07.190934>.
 
-2.	Kehoe MJ, Ingalls BP, Venkiteswaran JJ, Baulch HM. Successful forecasting of harmful cyanobacteria blooms with high frequency lake data. bioRxiv <https://doi.org/10.1101/674325>.
-
-1.	Salk KR, Venkiteswaran JJ, Couture R-M, Higgins SN, Paterson MJ, Schiff SL. Long-term influence of climate and experimental eutrophication regimes on phytoplankton blooms. bioRxiv <https://doi.org/10.1101/658799>.
+1.	Kehoe MJ, Ingalls BP, Venkiteswaran JJ, Baulch HM. Successful forecasting of harmful cyanobacteria blooms with high frequency lake data. bioRxiv <https://doi.org/10.1101/674325>.
 
 
 ## Peer-Reviewed
 
-48.	Baron AAA, Dyck LT, Hamjad H, Bragg J, Kroft E, Newson J, Oleson K, Casson NJ, North RL, Venkiteswaran JJ, Whitfield CJ. 2022. Differences in ebullitive methane release from small, shallow ponds present challenges for scaling. Science of The Total Environment. 802: 149685, <https://doi.org/10.1016/j.scitotenv.2021.149685>.
+51.	Persaud BD, Dukacz KA, Saha GC, Peterson A, Moradi L, O'Hearn S, Clary E, Mai J, Steeleworthy M, Venkiteswaran JJ, Kheyrollah Pour H, Wolfe BB, Carey SK, Pomeroy JW, DeBeer CM, Waddington JM, Van Cappellen P, Lin J. 2021. Ten best practices to strengthen stewardship and sharing of water science data in Canada. Hydrological Processes, 35(11): e14385, <https://doi.org/10.1002/hyp.14385>.
 
-47.	Jasiak I, Wiklund JA, Leclerc É, Telford JV, Couture R-M, Venkiteswaran JJ, Hall RI, Wolfe BB. 2021. Evaluating spatiotemporal patterns of arsenic, antimony, and lead deposition from legacy gold mine emissions using lake sediment records. Applied Geochemistry, <https://doi.org/10.1016/j.apgeochem.2021.105053>.
+50.	Salk KR, Venkiteswaran JJ, Couture R-M, Higgins SN, Paterson MJ, Schiff SL. 2021. Warming combined with experimental eutrophication intensifies lake phytoplankton blooms. Limnology & Oceanography, <https://doi.org/10.1002/lno.11982>.
 
-46.	Reinl KL, Brookes JD, Carey CC, Harris TD, Ibelings BW, Morales-Williams AM, De Senerpont Domis LN, Atkins KS, Isles PDF, Mesman JP, North RL, Rudstam LG, Stelzer JAA, Venkiteswaran JJ, Yokota K, Zhan Q. 2021. Cyanobacterial Blooms in Oligotrophic Lakes: Shifting the High Nutrient Paradigm. Freshwater Biology 66, 1846-1859. <https://doi.org/10.1111/fwb.13791>
+49.	Baron AAA, Dyck LT, Hamjad H, Bragg J, Kroft E, Newson J, Oleson K, Casson NJ, North RL, Venkiteswaran JJ, Whitfield CJ. 2022. Differences in ebullitive methane release from small, shallow ponds present challenges for scaling. Science of The Total Environment. 802: 149685, <https://doi.org/10.1016/j.scitotenv.2021.149685>.
 
-45.	Sokolov V, Habtewold J, VanderZaag A, Dunfield K, Gregorich E, Wagner-Riddle, Venkiteswaran JJ, Gordon R. 2021. Response Curves for Ammonia and Methane Emissions from Stored Liquid Manure Receiving Low Rates of Sulfuric Acid. Frontiers in Sustainable Food Systems 5: 678992, <https://doi.org/10.3389/fsufs.2021.678992>.
+48.	Jasiak I, Wiklund JA, Leclerc É, Telford JV, Couture R-M, Venkiteswaran JJ, Hall RI, Wolfe BB. 2021. Evaluating spatiotemporal patterns of arsenic, antimony, and lead deposition from legacy gold mine emissions using lake sediment records. Applied Geochemistry, <https://doi.org/10.1016/j.apgeochem.2021.105053>.
 
-44.	Leclerc É, Venkiteswaran JJ, Jasiak I, Telford JV, Wolfe BB, Hall RI, Schultz MDJ, Couture R-M. 2021. Quantifying arsenic post-depositional mobility in lake sediments impacted by gold ore roasting in sub-arctic Canada using inverse diagenetic modelling. Environmental Pollution 228: 117723. <https://doi.org/10.1016/j.envpol.2021.117723>.
+47.	Reinl KL, Brookes JD, Carey CC, Harris TD, Ibelings BW, Morales-Williams AM, De Senerpont Domis LN, Atkins KS, Isles PDF, Mesman JP, North RL, Rudstam LG, Stelzer JAA, Venkiteswaran JJ, Yokota K, Zhan Q. 2021. Cyanobacterial Blooms in Oligotrophic Lakes: Shifting the High Nutrient Paradigm. Freshwater Biology 66, 1846-1859. <https://doi.org/10.1111/fwb.13791>
 
-43.	Molot LA, Higgins SN, Schiff SL, Venkiteswaran JJ, Paterson MJ, Baulch HM. 2021. Phosphorus-only fertilization rapidly initiates large nitrogen-fixing cyanobacteria blooms in two oligotrophic lakes. Environmental Research Letters 16: 6, <https://doi.org/10.1088/1748-9326/ac0564>.
+46.	Sokolov V, Habtewold J, VanderZaag A, Dunfield K, Gregorich E, Wagner-Riddle, Venkiteswaran JJ, Gordon R. 2021. Response Curves for Ammonia and Methane Emissions from Stored Liquid Manure Receiving Low Rates of Sulfuric Acid. Frontiers in Sustainable Food Systems 5: 678992, <https://doi.org/10.3389/fsufs.2021.678992>.
 
-42.	Moore TN, Mesman JP, Ladwig R, Feldbauer J, Olsson F, Pilla RM, Shatwell T, Venkiteswaran JJ, Delany AD, Dugan H, Rose KC, Read JS. 2021. LakeEnsemblR: An R package that facilitates ensemble modelling of lakes. Environmental Modeling and Software 143: 105101, <https://doi.org/10.1016/j.envsoft.2021.105101>.
+45.	Leclerc É, Venkiteswaran JJ, Jasiak I, Telford JV, Wolfe BB, Hall RI, Schultz MDJ, Couture R-M. 2021. Quantifying arsenic post-depositional mobility in lake sediments impacted by gold ore roasting in sub-arctic Canada using inverse diagenetic modelling. Environmental Pollution 228: 117723. <https://doi.org/10.1016/j.envpol.2021.117723>.
 
-41.	Matiatos I, Wassenaar LI, Monteiro LR, Venkiteswaran JJ, Gooddy CD, Boeckx P, Sacchi E, Yue FY, Michalski G, Alonso-Hernández C, Biasi C, Bouchaou L, Edirisinghe EANV, Fadhullah W, Fianko JR, Garcia-Moya A, Kazakis N, Li SL, Luu TNM, Priyadarshanee S, Re V, Rivera D, Romanelli A, Sanyal P, Tamooh F, Trinh AD, Walters W, and Welti N. 2021. Global Patterns of Nitrate Isotope Composition in Rivers and Adjacent Aquifers Reveal Reactive Nitrogen Cascading.  Communications Earth and Environment 2: 52,  <https://doi.org/10.1038/s43247-021-00121-x>.
+44.	Molot LA, Higgins SN, Schiff SL, Venkiteswaran JJ, Paterson MJ, Baulch HM. 2021. Phosphorus-only fertilization rapidly initiates large nitrogen-fixing cyanobacteria blooms in two oligotrophic lakes. Environmental Research Letters 16: 6, <https://doi.org/10.1088/1748-9326/ac0564>.
+
+43.	Moore TN, Mesman JP, Ladwig R, Feldbauer J, Olsson F, Pilla RM, Shatwell T, Venkiteswaran JJ, Delany AD, Dugan H, Rose KC, Read JS. 2021. LakeEnsemblR: An R package that facilitates ensemble modelling of lakes. Environmental Modeling and Software 143: 105101, <https://doi.org/10.1016/j.envsoft.2021.105101>.
+
+42.	Matiatos I, Wassenaar LI, Monteiro LR, Venkiteswaran JJ, Gooddy CD, Boeckx P, Sacchi E, Yue FY, Michalski G, Alonso-Hernández C, Biasi C, Bouchaou L, Edirisinghe EANV, Fadhullah W, Fianko JR, Garcia-Moya A, Kazakis N, Li SL, Luu TNM, Priyadarshanee S, Re V, Rivera D, Romanelli A, Sanyal P, Tamooh F, Trinh AD, Walters W, and Welti N. 2021. Global Patterns of Nitrate Isotope Composition in Rivers and Adjacent Aquifers Reveal Reactive Nitrogen Cascading.  Communications Earth and Environment 2: 52,  <https://doi.org/10.1038/s43247-021-00121-x>.
+
+41.	Aukes PAK, Schiff SL, Venkiteswaran JJ, Elgood RJ, Spoelstra J. 2021. Size-Based Characterization of Freshwater Dissolved Organic Matter finds Similarities within a Water Body Type across Different Canadian Ecozones. Limnology and Oceanopgrahy Letters 6(2): 85-95, <https://doi.org/10.1002/lol2.10180>.
 
 40.	Molot LA, Schiff SL, Venkiteswaran JJ, Baulch HM, Higgins SN, Zastepa A, Verschoor M, Walters D. 2021. Low sediment redox promotes cyanobacteria across a trophic range: implications for bloom management. Lake and Reservoir Management 37(2): 120-142, <https://doi.org/10.1080/10402381.2020.1854400>.
 
-39.	Aukes PAK, Schiff SL, Venkiteswaran JJ, Elgood RJ, Spoelstra J. 2021. Size-Based Characterization of Freshwater Dissolved Organic Matter finds Similarities within a Water Body Type across Different Canadian Ecozones. Limnology and Oceanopgrahy Letters 6(2): 85-95, <https://doi.org/10.1002/lol2.10180>.
 
-38. Larsen ML, Baulch HM, Schiff SL, Simon D, Sauvé S, Venkiteswaran JJ. 2020. Extreme rainfall drives early onset cyanobacterial bloom. FACETS 5(1): 899-920, <https://doi.org/10.1139/facets-2020-0022>.
+39. Larsen ML, Baulch HM, Schiff SL, Simon D, Sauvé S, Venkiteswaran JJ. 2020. Extreme rainfall drives early onset cyanobacterial bloom. FACETS 5(1): 899-920, <https://doi.org/10.1139/facets-2020-0022>.
 
-37. Tsuji JM, Tran N, Schiff SL, Venkiteswaran JJ, Molot LA, Neufeld JD. 2020. Genomic potential for photoferrotrophy in a seasonally anoxic Boreal Shield lake. The ISME Journal 14: 2732-2747, <https://doi.org/10.1038/s41396-020-0725-0>.
+38. Tsuji JM, Tran N, Schiff SL, Venkiteswaran JJ, Molot LA, Neufeld JD. 2020. Genomic potential for photoferrotrophy in a seasonally anoxic Boreal Shield lake. The ISME Journal 14: 2732-2747, <https://doi.org/10.1038/s41396-020-0725-0>.
 
-36. Pearce NJT, Thomas KE,, Venkiteswaran JJ, Chambers PA, Yates AG. 2020. Metabolic regimes of three mid-order streams in southern Ontario, Canada exposed to contrasting sources of nutrients. Hydrobiologia 847: 1925-1942, <https://doi.org/10.1007/s10750-020-04222-0>.
+37. Pearce NJT, Thomas KE,, Venkiteswaran JJ, Chambers PA, Yates AG. 2020. Metabolic regimes of three mid-order streams in southern Ontario, Canada exposed to contrasting sources of nutrients. Hydrobiologia 847: 1925-1942, <https://doi.org/10.1007/s10750-020-04222-0>.
+
+36. Sokolov V, VanderZaag A, Habtewold J, Dunfield K, Tambong J, Wagner-Riddle, Venkiteswaran JJ, Gordon R. 2020. Acidification of residual manure in liquid dairy manure storages and its effect on Greenhouse Gas emissions. Frontiers in Sustainable Food Systems 4: 568648. <https://doi.org/10.3389/fsufs.2020.568648>.
 
 35. Sokolov VK, VanderZaag A, Habtewold J, Dunsfield K, Wagner-Riddle C, Venkiteswaran JJ, Gordon R. 2020. Dairy manure acidification reduces CH4 emissions over short and long-term. Environmental Technology, <https://doi.org/10.1080/09593330.2020.1714744>.
 
