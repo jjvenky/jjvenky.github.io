@@ -13,6 +13,8 @@ header:
 
 ## Preprints, not yet peer-reviewed
 
+3.	Painter KJ, Venkiteswaran JJ, Simon DF, Vo Duy S, Sauvé S, Baulch HM. 2022. Early and late cyanobacterial bloomers in a shallow, eutrophic lake. ESSOAr <https://www.essoar.org/doi/10.1002/essoar.10510183.1>
+
 2.	Tsuji JM, Shaw NA, Nagashima S, Venkiteswaran JJ, Schiff SL, Hanada S, Tank M, Neufeld DJ. Anoxygenic phototrophic *Chloroflexota* member uses a Type I reaction center. bioRxiv <https://doi.org/10.1101/2020.07.07.190934>.
 
 1.	Kehoe MJ, Ingalls BP, Venkiteswaran JJ, Baulch HM. Successful forecasting of harmful cyanobacteria blooms with high frequency lake data. bioRxiv <https://doi.org/10.1101/674325>.
