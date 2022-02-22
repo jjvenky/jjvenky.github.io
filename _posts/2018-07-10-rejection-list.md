@@ -23,5 +23,6 @@ How many journals have rejected my work? Do I make the list alphabetical? Chrono
 * Nature Geoscience (desk reject)
 * Science of the Total Environment (desk reject)
 * Water Research (desk reject)
+* Water Resources Research (desk reject)
 
-*last updated: 2020-07-03*
+*last updated: 2022-02-22*
