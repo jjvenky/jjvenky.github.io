@@ -4,7 +4,7 @@ title: Pubs
 excerpt: "Research publications"
 excerpt:
 permalink: /pubs/
-modified: 2021-05.26
+modified: 2022-04-06
 header:
   overlay_image: assets/images/cornus_feature.jpg
 #  credit: Jason Venkiteswaran
@@ -22,11 +22,13 @@ header:
 
 ## Peer-Reviewed
 
-51.	Persaud BD, Dukacz KA, Saha GC, Peterson A, Moradi L, O'Hearn S, Clary E, Mai J, Steeleworthy M, Venkiteswaran JJ, Kheyrollah Pour H, Wolfe BB, Carey SK, Pomeroy JW, DeBeer CM, Waddington JM, Van Cappellen P, Lin J. 2021. Ten best practices to strengthen stewardship and sharing of water science data in Canada. Hydrological Processes, 35(11): e14385, <https://doi.org/10.1002/hyp.14385>.
+52.	Abbes S, Vo Duy S, Munoz G, Dinh QT, Simon DF, Husk B, Baulch HM, Vinçon-Leite B, Fortin N, Greer CW, Larsen ML, Venkiteswaran JJ, Martínez Jerónimo FF, Giani A, Lowe CD, Tromas N, Sauvé S. 2022. Occurrence of BMAA Isomers in Bloom-Impacted Lakes and Reservoirs of Brazil, Canada, France, Mexico, and the United Kingdom. Toxins. 14(4): 251, <http://doi.org/10.3390/toxins14040251>.
 
-50.	Salk KR, Venkiteswaran JJ, Couture R-M, Higgins SN, Paterson MJ, Schiff SL. 2021. Warming combined with experimental eutrophication intensifies lake phytoplankton blooms. Limnology & Oceanography, <https://doi.org/10.1002/lno.11982>.
+51.	Persaud BD, Dukacz KA, Saha GC, Peterson A, Moradi L, O'Hearn S, Clary E, Mai J, Steeleworthy M, Venkiteswaran JJ, Kheyrollah Pour H, Wolfe BB, Carey SK, Pomeroy JW, DeBeer CM, Waddington JM, Van Cappellen P, Lin J. 2022. Ten best practices to strengthen stewardship and sharing of water science data in Canada. Hydrological Processes, 35(11): e14385, <https://doi.org/10.1002/hyp.14385>.
 
-49.	Baron AAA, Dyck LT, Hamjad H, Bragg J, Kroft E, Newson J, Oleson K, Casson NJ, North RL, Venkiteswaran JJ, Whitfield CJ. 2022. Differences in ebullitive methane release from small, shallow ponds present challenges for scaling. Science of The Total Environment. 802: 149685, <https://doi.org/10.1016/j.scitotenv.2021.149685>.
+50.	Salk KR, Venkiteswaran JJ, Couture R-M, Higgins SN, Paterson MJ, Schiff SL. 2022. Warming combined with experimental eutrophication intensifies lake phytoplankton blooms. Limnology & Oceanography 67(1): 147-158, <https://doi.org/10.1002/lno.11982>.
+
+49.	Baron AAA, Dyck LT, Hamjad H, Bragg J, Kroft E, Newson J, Oleson K, Casson NJ, North RL, Venkiteswaran JJ, Whitfield CJ. 2022. Differences in ebullitive methane release from small, shallow ponds present challenges for scaling. Science of The Total Environment 802: 149685, <https://doi.org/10.1016/j.scitotenv.2021.149685>.
 
 48.	Jasiak I, Wiklund JA, Leclerc É, Telford JV, Couture R-M, Venkiteswaran JJ, Hall RI, Wolfe BB. 2021. Evaluating spatiotemporal patterns of arsenic, antimony, and lead deposition from legacy gold mine emissions using lake sediment records. Applied Geochemistry, <https://doi.org/10.1016/j.apgeochem.2021.105053>.
 
@@ -55,7 +57,7 @@ header:
 
 36. Sokolov V, VanderZaag A, Habtewold J, Dunfield K, Tambong J, Wagner-Riddle, Venkiteswaran JJ, Gordon R. 2020. Acidification of residual manure in liquid dairy manure storages and its effect on Greenhouse Gas emissions. Frontiers in Sustainable Food Systems 4: 568648. <https://doi.org/10.3389/fsufs.2020.568648>.
 
-35. Sokolov VK, VanderZaag A, Habtewold J, Dunsfield K, Wagner-Riddle C, Venkiteswaran JJ, Gordon R. 2020. Dairy manure acidification reduces CH4 emissions over short and long-term. Environmental Technology, <https://doi.org/10.1080/09593330.2020.1714744>.
+35. Sokolov VK, VanderZaag A, Habtewold J, Dunsfield K, Wagner-Riddle C, Venkiteswaran JJ, Gordon R. 2020. Dairy manure acidification reduces CH4 emissions over short and long-term. Environmental Technology 42(18): 2797-2804, <https://doi.org/10.1080/09593330.2020.1714744>.
 
 34. Sokolov VK, VanderZaag A, Habtewold J, Dunsfield K, Wagner-Riddle C, Venkiteswaran JJ, Gordon R. 2019. Greenhouse Gas Emissions from Gradually-Filled Liquid Dairy Manure Storages with Different Levels of Inoculant. Nutrient Cycling in Agroecosystems 115(3): 455-467, <https://doi.org/10.1007/s10705-019-10023-2>.
 
@@ -71,7 +73,7 @@ header:
 
 28.	Casson NJ, Whitfield CJ, Baulch HM, Mills S, North RL, Venkiteswaran JJ. 2018. A model for training undergraduate students in collaborative science. FACETS 3: 818-829, <https://doi.org/10.1139/facets-2017-0112>.
 
-27.	Higgins SN, Paterson MJ, Hecky RE, Schindler DW, Venkiteswaran JJ, Findlay DL. 2018. Biological Nitrogen Fixation Prevents the Response of a Eutrophic Lake to Reduced Loading of Nitrogen: Evidence from a 46-Year Whole-Lake Experiment. Ecosystems  21(6): 1088-1100, <https://doi.org/10.1007/s10021-017-0204-2>
+27.	Higgins SN, Paterson MJ, Hecky RE, Schindler DW, Venkiteswaran JJ, Findlay DL. 2018. Biological Nitrogen Fixation Prevents the Response of a Eutrophic Lake to Reduced Loading of Nitrogen: Evidence from a 46-Year Whole-Lake Experiment. Ecosystems  21(6): 1088-1100, <https://doi.org/10.1007/s10021-017-0204-2>.
 
 26.	Campeau A, Wallin MB, Giesler R, Löfgren S, Mörth C-R, Schiff SL, Venkiteswaran JJ, Bishop K. 2017. Multiple sources and sinks of dissolved inorganic carbon across Swedish streams, refocusing the lens of stable C isotopes. Scientific Reports 7: 9158, <https://doi.org/10.1038/s41598-017-09049-9>.
 
