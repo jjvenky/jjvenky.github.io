@@ -52,7 +52,7 @@ Here is the list of onboarding things to do to help integrate new people into th
 * [ ] [Create a repo on GitHub](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/create-a-repo) with a README file
 * [ ] Edit the README with and do some formatting with [Markdown](https://guides.github.com/features/mastering-markdown/)
 * [ ] Install [git](https://git-scm.com/downloads) to make it easier to integrate GitHub with your workflow
-* [] Install a GUI like [Sourcetree](https://www.sourcetreeapp.com/) or [GitKraken](https://www.gitkraken.com/) to help with common git tasks
+* [ ] Install a GUI like [Sourcetree](https://www.sourcetreeapp.com/) or [GitKraken](https://www.gitkraken.com/) to help with common git tasks
 
 #### We use R and RStudio for organising, analysing, modelling, plotting, etc. our data, sometimes we use [Matlab](https://www.mathworks.com/products/matlab.html) and other softwares like [Jupyter](https://jupyter.org/) and [Python](https://www.python.org/) as needed:
 
