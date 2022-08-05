@@ -22,6 +22,8 @@ header:
 
 ## Peer-Reviewed
 
+54. Painter KJ, Venkiteswaran JJ, Simon DF, Duy SV, Sauvé S, Balch HM. 2022. Early and late cyanobacterial bloomers in a shallow, eutrophic lake. Environmental Science: Processes & Impacts, <https://doi.org/10.1039/D2EM00078D>.
+
 53. Piatka DR, Venkiteswaran JJ, Uniyal B, Kaule R, Gelfedder, Barth JAC. 2022. Dissolved oxygen isotope modelling refines metabolic state estimates of stream ecosystems with different land use background. Scientific Reports 12: 10204, <https://doi.org/10.1038/s41598-022-13219-9>.
 
 52.	Abbes S, Vo Duy S, Munoz G, Dinh QT, Simon DF, Husk B, Baulch HM, Vinçon-Leite B, Fortin N, Greer CW, Larsen ML, Venkiteswaran JJ, Martínez Jerónimo FF, Giani A, Lowe CD, Tromas N, Sauvé S. 2022. Occurrence of BMAA Isomers in Bloom-Impacted Lakes and Reservoirs of Brazil, Canada, France, Mexico, and the United Kingdom. Toxins. 14(4): 251, <http://doi.org/10.3390/toxins14040251>.
