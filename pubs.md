@@ -22,6 +22,8 @@ header:
 
 ## Peer-Reviewed
 
+53. Piatka DR, Venkiteswaran JJ, Uniyal B, Kaule R, Gelfedder, Barth JAC. 2022. Dissolved oxygen isotope modelling refines metabolic state estimates of stream ecosystems with different land use background. Scientific Reports 12: 10204, <https://doi.org/10.1038/s41598-022-13219-9>.
+
 52.	Abbes S, Vo Duy S, Munoz G, Dinh QT, Simon DF, Husk B, Baulch HM, Vinçon-Leite B, Fortin N, Greer CW, Larsen ML, Venkiteswaran JJ, Martínez Jerónimo FF, Giani A, Lowe CD, Tromas N, Sauvé S. 2022. Occurrence of BMAA Isomers in Bloom-Impacted Lakes and Reservoirs of Brazil, Canada, France, Mexico, and the United Kingdom. Toxins. 14(4): 251, <http://doi.org/10.3390/toxins14040251>.
 
 51.	Persaud BD, Dukacz KA, Saha GC, Peterson A, Moradi L, O'Hearn S, Clary E, Mai J, Steeleworthy M, Venkiteswaran JJ, Kheyrollah Pour H, Wolfe BB, Carey SK, Pomeroy JW, DeBeer CM, Waddington JM, Van Cappellen P, Lin J. 2022. Ten best practices to strengthen stewardship and sharing of water science data in Canada. Hydrological Processes, 35(11): e14385, <https://doi.org/10.1002/hyp.14385>.
