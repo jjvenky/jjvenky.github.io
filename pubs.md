@@ -13,8 +13,6 @@ header:
 
 ## Preprints, not yet peer-reviewed
 
-3.	Painter KJ, Venkiteswaran JJ, Simon DF, Vo Duy S, Sauvé S, Baulch HM. 2022. Early and late cyanobacterial bloomers in a shallow, eutrophic lake. ESSOAr <https://www.essoar.org/doi/10.1002/essoar.10510183.1>
-
 2.	Tsuji JM, Shaw NA, Nagashima S, Venkiteswaran JJ, Schiff SL, Hanada S, Tank M, Neufeld DJ. Anoxygenic phototrophic *Chloroflexota* member uses a Type I reaction center. bioRxiv <https://doi.org/10.1101/2020.07.07.190934>.
 
 1.	Kehoe MJ, Ingalls BP, Venkiteswaran JJ, Baulch HM. Successful forecasting of harmful cyanobacteria blooms with high frequency lake data. bioRxiv <https://doi.org/10.1101/674325>.
@@ -22,7 +20,7 @@ header:
 
 ## Peer-Reviewed
 
-54. Painter KJ, Venkiteswaran JJ, Simon DF, Duy SV, Sauvé S, Balch HM. 2022. Early and late cyanobacterial bloomers in a shallow, eutrophic lake. Environmental Science: Processes & Impacts, <https://doi.org/10.1039/D2EM00078D>.
+54. Painter KJ, Venkiteswaran JJ, Simon DF, Duy SV, Sauvé S, Balch HM. 2022. Early and late cyanobacterial bloomers in a shallow, eutrophic lake. Environmental Science: Processes & Impacts 24: 1212-1227, <https://doi.org/10.1039/D2EM00078D>.
 
 53. Piatka DR, Venkiteswaran JJ, Uniyal B, Kaule R, Gelfedder, Barth JAC. 2022. Dissolved oxygen isotope modelling refines metabolic state estimates of stream ecosystems with different land use background. Scientific Reports 12: 10204, <https://doi.org/10.1038/s41598-022-13219-9>.
 
