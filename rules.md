@@ -2,7 +2,7 @@
 layout: single
 title: Rules
 excerpt: "How we work"
-modified: 2020-11-04
+modified: 2022-10-07
 permalink: /rules/
 header:
   overlay_image: assets/images/L305_feature.jpg
@@ -71,6 +71,8 @@ Here is the list of onboarding things to do to help integrate new people into th
 * Jenny Bryan's [Happy Git and GitHub for the useR](http://happygitwithr.com/) is an excellent reference and learning manual and everyone should walk through many of its chapters when setting up their system
 * Karl Broman's [git/github guide: a minimal tutorial](http://kbroman.org/github_tutorial/) is also very useful
 * The [Data Analysis and Visualization in R for Ecologists](http://datacarpentry.org/R-ecology-lesson/) lessons are an excellent way to learn how to employ R and RStudio to aggregate, analyse, and visualise data
+* The [R For Data Sciene](R for Data Science) is a great way to think about and apply ideas of wrangling, visualising, and exploring data
+* [Modern Statistics with R](https://www.modernstatisticswithr.com/) is a great way to think about and apply statistical ideas to our work
 
 ### Finally
 
