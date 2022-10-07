@@ -22,6 +22,8 @@ header:
 
 ## Peer-Reviewed
 
+55. Lui K, Schiff SL, Wu L, Molot LA, Venkiteswaran JJ, Paterson MJ, Elgood RJ, Neufeld JD. 2022. Large fractionation in iron isotopes implicates metabolic pathways for iron cycling in boreal shield lakes. Environmental Science & Technology, <https://doi.org/10.1021/acs.est.2c04247>.
+
 54. Painter KJ, Venkiteswaran JJ, Simon DF, Duy SV, Sauvé S, Balch HM. 2022. Early and late cyanobacterial bloomers in a shallow, eutrophic lake. Environmental Science: Processes & Impacts 24: 1212-1227, <https://doi.org/10.1039/D2EM00078D>.
 
 53. Piatka DR, Venkiteswaran JJ, Uniyal B, Kaule R, Gelfedder, Barth JAC. 2022. Dissolved oxygen isotope modelling refines metabolic state estimates of stream ecosystems with different land use background. Scientific Reports 12: 10204, <https://doi.org/10.1038/s41598-022-13219-9>.
