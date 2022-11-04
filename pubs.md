@@ -24,7 +24,7 @@ header:
 
 56.	Sharma S, Futter MN, Spence C, Venkiteswaran JJ, Whitfield CJ. 2022. Modeling subarctic watershed dissolved organic carbon response to hydroclimatic regime. Science of the Total Environment, <https://doi.org/10.1016/j.scitotenv.2022.159382>.
 
-55.	Lui K, Schiff SL, Wu L, Molot LA, Venkiteswaran JJ, Paterson MJ, Elgood RJ, Neufeld JD. 2022. Large fractionation in iron isotopes implicates metabolic pathways for iron cycling in boreal shield lakes. Environmental Science & Technology, <https://doi.org/10.1021/acs.est.2c04247>.
+55.	Lui K, Schiff SL, Wu L, Molot LA, Venkiteswaran JJ, Paterson MJ, Elgood RJ, Neufeld JD. 2022. Large fractionation in iron isotopes implicates metabolic pathways for iron cycling in boreal shield lakes. Environmental Science & Technology 56(20): 14840-14851, <https://doi.org/10.1021/acs.est.2c04247>.
 
 54.	Painter KJ, Venkiteswaran JJ, Simon DF, Duy SV, Sauvé S, Balch HM. 2022. Early and late cyanobacterial bloomers in a shallow, eutrophic lake. Environmental Science: Processes & Impacts 24: 1212-1227, <https://doi.org/10.1039/D2EM00078D>.
 
