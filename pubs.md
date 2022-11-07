@@ -12,6 +12,7 @@ header:
 
 
 ## Preprints, not yet peer-reviewed
+4.  Shah P, McCabe SK, Venkiteswaran JJ, Molot LA, Schiff SL. Monod parameterization and competition at low iron among freshwater cyanobacteria and chlorophytes. ESSOAr <https://doi.org/10.1002/essoar.10512773.1>.
 
 3.  Painter KJ, Venkiteswaran JJ, Baulch HM. Blooms and flows: Effects of variable hydrology and management on reservoir water quality. ESSOAr <https://doi.org/10.1002/essoar.10512334.2>.
 
