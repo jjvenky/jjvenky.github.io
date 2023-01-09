@@ -75,5 +75,5 @@ defaults:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "UA-103741192-1"
+    tracking_id: "314667925"
     anonymize_ip: false # default
