@@ -2,7 +2,7 @@
 layout: single
 title: Rules
 excerpt: "How we work"
-modified: 2022-10-07
+modified: 2023-02-10
 permalink: /rules/
 header:
   overlay_image: assets/images/L305_feature.jpg
@@ -39,7 +39,7 @@ Here is the list of onboarding things to do to help integrate new people into th
 ### Safety
 
 * [ ] Get a OneCard, remind Jason to email for you to have access to CCRWS and SRC buildings
-* [ ] Take for Standard First Aid or Wilderness First Aid (typically by May and recently coordinated with Dean of Science office), email Jason a copy to be kept on file
+* [ ] Take Standard First Aid or Wilderness First Aid (typically by May and recently coordinated with Dean of Science office), email Jason a copy to be kept on file
 * [ ] Take Canadian Firearm Safety Course, if working in the north, email Jason a copy to be kept on file
 * [ ] Take WHMIS and Compressed Gas Training, [available online](https://mylearningspace.wlu.ca/d2l/lms/legacy/selfregistration.d2l?ou=6605), email Jason a copy to be kept on file
 * [ ] Obtain a Pleasure Craft Operator Card, email Jason a copy to be kept on file
