@@ -4,7 +4,7 @@ title: Pubs
 excerpt: "Research publications"
 excerpt:
 permalink: /pubs/
-modified: 2022-04-06
+modified: 2023-02-10
 header:
   overlay_image: assets/images/cornus_feature.jpg
 #  credit: Jason Venkiteswaran
@@ -12,7 +12,6 @@ header:
 
 
 ## Preprints, not yet peer-reviewed
-4.  Shah P, McCabe SK, Venkiteswaran JJ, Molot LA, Schiff SL. Monod parameterization and competition at low iron among freshwater cyanobacteria and chlorophytes. ESSOAr <https://doi.org/10.1002/essoar.10512773.1>.
 
 3.  Painter KJ, Venkiteswaran JJ, Baulch HM. Blooms and flows: Effects of variable hydrology and management on reservoir water quality. ESSOAr <https://doi.org/10.1002/essoar.10512334.2>.
 
@@ -22,6 +21,12 @@ header:
 
 
 ## Peer-Reviewed
+
+59. Reinl KL, Harris TD, North RL, Almela P, Berger SA, Bizic M, Burnet SH, Urrutia-Cordero P, Grossart H-P, Ibelings BW, Jakobsson E, Knoll LB, Lafrancois BM, McElarney Y, Morales-Williams AM, Obertegger U, Ogashawara I, Paule-Mercado MC, Peierls BL, Rusak JA, Sarkar S, Sharma S, Trout-Haney JV, Venkiteswaran JJ, Wain DJ, Warner K, Weyhenmeyer GA, Yokota K. 2023. Blooms also like it cold. Limnology and Oceanography Letters, <https://doi.org/10.1002/lol2.10316>.
+
+58. Painter KJ, Venkiteswaran JJ, Baulch HM. 2023. Blooms and flows: Effects of variable hydrology and management on reservoir water quality. Ecosphere. ECS22-0506.
+
+57.  Shah P, McCabe SK, Venkiteswaran JJ, Molot LA, Schiff SL. 2023. Monod parameterization and competition at low iron among freshwater cyanobacteria and chlorophytes. Hydrobiologia, <https://doi.org/10.1007/s10750-023-05150-5>.
 
 56.	Sharma S, Futter MN, Spence C, Venkiteswaran JJ, Whitfield CJ. 2022. Modeling subarctic watershed dissolved organic carbon response to hydroclimatic regime. Science of the Total Environment, <https://doi.org/10.1016/j.scitotenv.2022.159382>.
 
