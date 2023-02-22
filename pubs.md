@@ -26,7 +26,7 @@ header:
 
 58. Painter KJ, Venkiteswaran JJ, Baulch HM. 2023. Blooms and flows: Effects of variable hydrology and management on reservoir water quality. Ecosphere. ECS22-0506.
 
-57.  Shah P, McCabe SK, Venkiteswaran JJ, Molot LA, Schiff SL. 2023. Monod parameterization and competition at low iron among freshwater cyanobacteria and chlorophytes. Hydrobiologia, <https://doi.org/10.1007/s10750-023-05150-5>.
+57. Shah P, McCabe SK, Venkiteswaran JJ, Molot LA, Schiff SL. 2023. Monod parameterization and competition at low iron among freshwater cyanobacteria and chlorophytes. Hydrobiologia 850: 1141-1157, <https://doi.org/10.1007/s10750-023-05150-5>.
 
 56.	Sharma S, Futter MN, Spence C, Venkiteswaran JJ, Whitfield CJ. 2022. Modeling subarctic watershed dissolved organic carbon response to hydroclimatic regime. Science of the Total Environment, <https://doi.org/10.1016/j.scitotenv.2022.159382>.
 
