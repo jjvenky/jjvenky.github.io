@@ -24,7 +24,7 @@ header:
 
 59. Reinl KL, Harris TD, North RL, Almela P, Berger SA, Bizic M, Burnet SH, Urrutia-Cordero P, Grossart H-P, Ibelings BW, Jakobsson E, Knoll LB, Lafrancois BM, McElarney Y, Morales-Williams AM, Obertegger U, Ogashawara I, Paule-Mercado MC, Peierls BL, Rusak JA, Sarkar S, Sharma S, Trout-Haney JV, Venkiteswaran JJ, Wain DJ, Warner K, Weyhenmeyer GA, Yokota K. 2023. Blooms also like it cold. Limnology and Oceanography Letters, <https://doi.org/10.1002/lol2.10316>.
 
-58. Painter KJ, Venkiteswaran JJ, Baulch HM. 2023. Blooms and flows: Effects of variable hydrology and management on reservoir water quality. Ecosphere. ECS22-0506.
+58. Painter KJ, Venkiteswaran JJ, Baulch HM. 2023. Blooms and flows: Effects of variable hydrology and management on reservoir water quality. Ecosphere 14(3): e4472, <https://doi.org/10.1002/ecs2.4472>.
 
 57. Shah P, McCabe SK, Venkiteswaran JJ, Molot LA, Schiff SL. 2023. Monod parameterization and competition at low iron among freshwater cyanobacteria and chlorophytes. Hydrobiologia 850: 1141-1157, <https://doi.org/10.1007/s10750-023-05150-5>.
 
