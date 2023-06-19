@@ -22,24 +22,11 @@ My research is currently focused on the biogeochemical cycling of nutrients and 
 
 Leyden Fernandez is a bioinformatician with expertise in biochemistry and microbiology. Her main research line has focused on multi-omics data analysis, from environmental microbiomes to clinically relevant bacteria. During her PhD studies at Uppsala University, Sweden, she investigated adaptation strategies of non-cyanobacterial diazotrophs in boreal lakes and ponds. She is currently analyzing cyanobacterial genomes to investigate their diversity and evaluate drivers of cyanotoxin production as part of a cross-institutional collaborative [FORMBLOOM](http://formbloom.ca) project.
 
-### Kristin Painter, Postdoctoral fellow
-
-![image-left](/assets/images/kristin_painter-photo.jpg){: .img-bio}
-
-Kristin Painter is a freshwater ecologist and biogeochemist. Her research has focused on land-to-lake transport, fate, and impact of anthropogenic nutrients and contaminants. She is currently investigating ecological and biogeochemical drivers of cyanobacterial bloom phenology as part of the [FORMBLOOM](http://formbloom.ca) project.
-
 ### Daniela Klicper, PhD student
 
 ![image-left](/assets/images/daniela_klicper-photo.png){: .img-bio}
 
 Daniela most recently completed her Master's degree in Water Security from the University of Saskatchewan, where she studied wetland drainage and its impacts on phosphorus loading into surface water. She also holds a Bachelor of Environmental and Resource Science from Trent University. Daniela is a part of the FORMBLOOM project, where she will help assess harmful algal bloom formation in Jackfish Lake, NWT.
-
-
-### Mackenzie Schultz, MSc student
-
-![image-left](/assets/images/mackenzie_schultz-photo.jpg){: .img-bio}
-
-Mackenzie completed her undergraduate degree at Wilfrid Laurier University studying Biology and Geography. She is excited to return for her MSc, as part of [SAMMS](http://samms.ca), where she will help characterize both terrestrial and aquatic metal deposition histories, stores, and pathways as a result of the mining industry.
 
 ### Jeremy Leathers, MSc student
 
@@ -65,6 +52,12 @@ Alexia is an undergraduate student at Laurier who is in her final year studying 
 
 # Former Members
 
+### Kristin Painter, Postdoctoral fellow
+
+![image-left](/assets/images/kristin_painter-photo.jpg){: .img-bio}
+
+Kristin Painter is a freshwater ecologist and biogeochemist. Her research has focused on land-to-lake transport, fate, and impact of anthropogenic nutrients and contaminants. She is currently investigating ecological and biogeochemical drivers of cyanobacterial bloom phenology as part of the [FORMBLOOM](http://formbloom.ca) project.
+
 ### Megan L. Larsen, Postdoctoral fellow
 
 ![image-left](/assets/images/megan_larsen-photo.jpg){: .img-bio}
@@ -86,6 +79,12 @@ You can find more information on Aukes' projects on his [personal website](https
 ![image-left](/assets/images/jared_wolfe-photo.jpg){: .img-bio}
 
 Jared completed his MSc at the University of Regina studying the impacts of Oil Sands industrial development on historical algal communities in northern Saskatchewan. He is currently investigating harmful algal bloom formation and decline in the [Experimental Lakes Area](https://www.iisd.org/ela/) as part of the [FORMBLOOM](https://gwf.usask.ca/formbloom/) project. His interests are in studying relationships between ecosystem components, particularly the relationship between humans and the environment.
+
+### Mackenzie Schultz, MSc student
+
+![image-left](/assets/images/mackenzie_schultz-photo.jpg){: .img-bio}
+
+Mackenzie completed her undergraduate degree at Wilfrid Laurier University studying Biology and Geography. She is excited to return for her MSc, as part of [SAMMS](http://samms.ca), where she will help characterize both terrestrial and aquatic metal deposition histories, stores, and pathways as a result of the mining industry.
 
 ### Jordyn Atkins, MSc student
 
