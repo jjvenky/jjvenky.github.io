@@ -4,7 +4,7 @@ title: Pubs
 excerpt: "Research publications"
 excerpt:
 permalink: /pubs/
-modified: 2023-02-10
+modified: 2023-06-19
 header:
   overlay_image: assets/images/cornus_feature.jpg
 #  credit: Jason Venkiteswaran
@@ -13,7 +13,7 @@ header:
 
 ## Preprints, not yet peer-reviewed
 
-3.  Painter KJ, Venkiteswaran JJ, Baulch HM. Blooms and flows: Effects of variable hydrology and management on reservoir water quality. ESSOAr <https://doi.org/10.1002/essoar.10512334.2>.
+3.  North RL, Venkiteswaran JJ, Silsbe G, Harrison JW, Hudson JJ, Smith REH, Dillon PJ, Pernica P, Guildford SJ, Kehoe M, Baulch HM. Winter matters: year-round metabolism in temperate water bodies. EarthArXiv <https://doi.org/10.31223/X5RQ1V>.
 
 2.	Tsuji JM, Shaw NA, Nagashima S, Venkiteswaran JJ, Schiff SL, Hanada S, Tank M, Neufeld DJ. Anoxygenic phototrophic *Chloroflexota* member uses a Type I reaction center. bioRxiv <https://doi.org/10.1101/2020.07.07.190934>.
 
