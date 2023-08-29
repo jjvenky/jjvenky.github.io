@@ -4,7 +4,7 @@ title: Pubs
 excerpt: "Research publications"
 excerpt:
 permalink: /pubs/
-modified: 2023-06-19
+modified: 2023-08-29
 header:
   overlay_image: assets/images/cornus_feature.jpg
 #  credit: Jason Venkiteswaran
@@ -12,6 +12,8 @@ header:
 
 
 ## Preprints, not yet peer-reviewed
+
+4.  Shah P, Venkiteswaran JJ, Molot LA, Higgins SN, Schiff SL, Baulch HM, RA Curry, Kidd KA, Korosi JB, Paterson AM, Pick FP, Walters D, Watson SB, Zastepa A. Low cobalt limits cyanobacteria heterocyst frequency in culture but potential for cobalt limitation of frequency in nitrogen-limited surface waters is unclear. ESSOAr <https://10.22541/essoar.169143854.47061989/v1>.
 
 3.  North RL, Venkiteswaran JJ, Silsbe G, Harrison JW, Hudson JJ, Smith REH, Dillon PJ, Pernica P, Guildford SJ, Kehoe M, Baulch HM. Winter matters: year-round metabolism in temperate water bodies. EarthArXiv <https://doi.org/10.31223/X5RQ1V>.
 
