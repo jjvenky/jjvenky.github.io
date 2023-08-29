@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   catchment and lake biogeochemistry
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://jjvenky.github.io
-twitter_username: jjvenky
+# twitter_username: jjvenky
 github_username:  jjvenky
 
 # Build settings
