@@ -40,21 +40,9 @@ Julia completed her Bachelor of Environmental Studies at the University of Manit
 
 Jeremy completed his Bachelor of Science degree in biology and geography at the University of Winnipeg.  He is looking forward to starting an MSc as a part of [SAMMS](http://samms.ca), where he will help to determine the total organic carbon and arsenic stored within soil and peat within catchments affected by mining activities in the Northwest Territories.
 
-### Catherine Goltz, MSc student
-
-![image-left](/assets/images/catherine_goltz-photo.jpg){: .img-bio}
-
-Catherine completed her BSc (Honours) at the University of Winnipeg looking at how nitrogen influences cyanobacterial blooms and toxins. Her interest in blooms continues in her MSc where she will look at how iron release from sediment can be suppressed to shift algal communities in lakes.
-
 ### Matthew Roberts, MSc student
 
 Matthew completed his BSc in Biology and Chemistry at Wilfrid Laurier University. He returned to Laurier for his MSc, looking at shallow lake stratification and its impacts on phytoplankton communities.
-
-### Alexia Marten, BSc student
-
-![image-left](/assets/images/alexia_marten-photo.jpg){: .img-bio}
-
-Alexia is an undergraduate student at Laurier who is in her final year studying Environmental Science. Her thesis is focusing on determining spatial distribution patterns of phosphorous deposition through out Muskoka, she is working with other students through out eastern North America through the Linked Undergraduate experiments on Nutrients network (LUGNuts).
 
 # Former Members
 
@@ -86,6 +74,12 @@ You can find more information on Aukes' projects on his [personal website](https
 
 Jared completed his MSc at the University of Regina studying the impacts of Oil Sands industrial development on historical algal communities in northern Saskatchewan. He is currently investigating harmful algal bloom formation and decline in the [Experimental Lakes Area](https://www.iisd.org/ela/) as part of the [FORMBLOOM](https://gwf.usask.ca/formbloom/) project. His interests are in studying relationships between ecosystem components, particularly the relationship between humans and the environment.
 
+### Catherine Goltz, MSc student
+
+![image-left](/assets/images/catherine_goltz-photo.jpg){: .img-bio}
+
+Catherine completed her BSc (Honours) at the University of Winnipeg looking at how nitrogen influences cyanobacterial blooms and toxins. Her interest in blooms continues in her MSc where she will look at how iron release from sediment can be suppressed to shift algal communities in lakes.
+
 ### Mackenzie Schultz, MSc student
 
 ![image-left](/assets/images/mackenzie_schultz-photo.jpg){: .img-bio}
@@ -113,6 +107,12 @@ In September 2020, Rachel defended her [MSc thesis](https://scholars.wlu.ca/etd/
 ### Eric McQuay, MSc student
 
 Eric defended his [MSc thesis](http://hdl.handle.net/10012/12867) in Earth Science in October 2017. His research focussed on the redox preconditions required for cyanobacteria dominance of phytoplankton blooms along the embayments of [Georgian Bay](https://doi.org/10.1139/cjfas-2016-0377). ("The Role of Nitrate in Controlling Iron Release from Sediment during Anoxia in Dimictic, Fresh Water Lakes." (2018). UWSpace. [http://hdl.handle.net/10012/12867].)
+
+### Alexia Marten, BSc student
+
+![image-left](/assets/images/alexia_marten-photo.jpg){: .img-bio}
+
+Alexia is an undergraduate student at Laurier who is in her final year studying Environmental Science. Her thesis is focusing on determining spatial distribution patterns of phosphorous deposition through out Muskoka, she is working with other students through out eastern North America through the Linked Undergraduate experiments on Nutrients network (LUGNuts).
 
 ### Heather Jovanovic, BSc student
 
