@@ -28,6 +28,12 @@ Leyden Fernandez is a bioinformatician with expertise in biochemistry and microb
 
 Daniela most recently completed her Master's degree in Water Security from the University of Saskatchewan, where she studied wetland drainage and its impacts on phosphorus loading into surface water. She also holds a Bachelor of Environmental and Resource Science from Trent University. Daniela is a part of the FORMBLOOM project, where she will help assess harmful algal bloom formation in Jackfish Lake, NWT.
 
+### Julia Kozak, MSc Student
+
+![image-left](/assets/images/julia_kozak-photo.jpg){: .img-bio}
+
+Julia completed her Bachelor of Environmental Studies at the University of Manitoba, focusing on how dissolved organic carbon affects phytoplankton community compositions in boreal lakes. She will continue to study algal community structures in cyanobacterial blooms by investigating the correlation between bloom composition and sediment iron release.  
+
 ### Jeremy Leathers, MSc student
 
 ![image-left](/assets/images/jeremy_leathers-photo.jpg){: .img-bio}
