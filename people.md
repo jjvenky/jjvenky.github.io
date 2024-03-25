@@ -16,12 +16,6 @@ header:
 
 My research is currently focused on the biogeochemical cycling of nutrients and related elements, and human and climate related disruptions of these cycles. For more than a decade,  I have conducted whole-ecosystem research at the world-renowned [Experimental Lakes Area](https://www.iisd.org/ela/) studying reservoir creation, ecosystem metabolism and eutrophication. To study the fate of biogeochemical elements, I often use stable isotope measurements with process-based ecological models. I am a co-founder of the [Coalition to Save ELA](https://saveela.org).
 
-### Leyden Fernandez, Postdoctoral fellow
-
-![image-left](/assets/images/leyden_fernandez-photo.png){: .img-bio}
-
-Leyden Fernandez is a bioinformatician with expertise in biochemistry and microbiology. Her main research line has focused on multi-omics data analysis, from environmental microbiomes to clinically relevant bacteria. During her PhD studies at Uppsala University, Sweden, she investigated adaptation strategies of non-cyanobacterial diazotrophs in boreal lakes and ponds. She is currently analyzing cyanobacterial genomes to investigate their diversity and evaluate drivers of cyanotoxin production as part of a cross-institutional collaborative [FORMBLOOM](http://formbloom.ca) project.
-
 ### Daniela Klicper, PhD student
 
 ![image-left](/assets/images/daniela_klicper-photo.png){: .img-bio}
@@ -45,6 +39,12 @@ Jeremy completed his Bachelor of Science degree in biology and geography at the 
 Matthew completed his BSc in Biology and Chemistry at Wilfrid Laurier University. He returned to Laurier for his MSc, looking at shallow lake stratification and its impacts on phytoplankton communities.
 
 # Former Members
+
+### Leyden Fernandez, Postdoctoral fellow
+
+![image-left](/assets/images/leyden_fernandez-photo.png){: .img-bio}
+
+Leyden Fernandez is a bioinformatician with expertise in biochemistry and microbiology. Her main research line has focused on multi-omics data analysis, from environmental microbiomes to clinically relevant bacteria. During her PhD studies at Uppsala University, Sweden, she investigated adaptation strategies of non-cyanobacterial diazotrophs in boreal lakes and ponds. She is currently analyzing cyanobacterial genomes to investigate their diversity and evaluate drivers of cyanotoxin production as part of a cross-institutional collaborative [FORMBLOOM](http://formbloom.ca) project.
 
 ### Kristin Painter, Postdoctoral fellow
 
