@@ -24,7 +24,9 @@ header:
 
 ## Peer-Reviewed
 
-60. Tsuji JM, Shaw NA, Nagashima S, Venkiteswaran JJ, Schiff SL, Watanabe T, Fukui M, Hanada S, Tank M, Neufeld JD. 2024. Anoxygenic phototroph of the Chloroflexota uses a type I reaction centre. Nature, <https://doi.org/10.1038/s41586-024-07180-y>.
+61. Virgin TL, Sonthiphand P, Coyotzi S, Hall MW, Venkiteswaran JJ, Cejudo E, Elgood RJ, Schiff SL, Neufeld JD. 2024. Microbial communities change along the 300-km length of a highly impacted river for both extreme high- and low-flow regimes. Canadian Journal of Microbiology, <https://doi.org/10.1139/cjm-2023-0092>.
+
+60. Tsuji JM, Shaw NA, Nagashima S, Venkiteswaran JJ, Schiff SL, Watanabe T, Fukui M, Hanada S, Tank M, Neufeld JD. 2024. Anoxygenic phototroph of the Chloroflexota uses a type I reaction centre. Nature 627: 915-922, <https://doi.org/10.1038/s41586-024-07180-y>.
 
 59. Reinl KL, Harris TD, North RL, Almela P, Berger SA, Bizic M, Burnet SH, Urrutia-Cordero P, Grossart H-P, Ibelings BW, Jakobsson E, Knoll LB, Lafrancois BM, McElarney Y, Morales-Williams AM, Obertegger U, Ogashawara I, Paule-Mercado MC, Peierls BL, Rusak JA, Sarkar S, Sharma S, Trout-Haney JV, Venkiteswaran JJ, Wain DJ, Warner K, Weyhenmeyer GA, Yokota K. 2023. Blooms also like it cold. Limnology and Oceanography Letters 8(4): 546-564, <https://doi.org/10.1002/lol2.10316>.
 
