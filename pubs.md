@@ -24,6 +24,8 @@ header:
 
 ## Peer-Reviewed
 
+62. Shah P, Venkiteswaran JJ, Molot LA, Higgins SN, Schiff SL, Baulch HM, Zastepa A. 2024. Cobalt as a potential limiting factor for heterocyst frequency in nitrogen-limited Aphanizomenon and Dolichospermum: Evidence from experimental and field studies. Freshwater Biology, <https://doi.org/10.1111/fwb.14290>.
+
 61. Virgin TL, Sonthiphand P, Coyotzi S, Hall MW, Venkiteswaran JJ, Cejudo E, Elgood RJ, Schiff SL, Neufeld JD. 2024. Microbial communities change along the 300-km length of a highly impacted river for both extreme high- and low-flow regimes. Canadian Journal of Microbiology, <https://doi.org/10.1139/cjm-2023-0092>.
 
 60. Tsuji JM, Shaw NA, Nagashima S, Venkiteswaran JJ, Schiff SL, Watanabe T, Fukui M, Hanada S, Tank M, Neufeld JD. 2024. Anoxygenic phototroph of the Chloroflexota uses a type I reaction centre. Nature 627: 915-922, <https://doi.org/10.1038/s41586-024-07180-y>.
