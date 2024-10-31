@@ -28,10 +28,6 @@ Daniela most recently completed her Master's degree in Water Security from the U
 
 Julia completed her Bachelor of Environmental Studies at the University of Manitoba, focusing on how dissolved organic carbon affects phytoplankton community compositions in boreal lakes. She will continue to study algal community structures in cyanobacterial blooms by investigating the correlation between bloom composition and sediment iron release.  
 
-### Matthew Roberts, MSc student
-
-Matthew completed his BSc in Biology and Chemistry at Wilfrid Laurier University. He returned to Laurier for his MSc, looking at shallow lake stratification and its impacts on phytoplankton communities.
-
 # Former Members
 
 ### Leyden Fernandez, Postdoctoral fellow
@@ -67,6 +63,11 @@ You can find more information on Aukes' projects on his [personal website](https
 ![image-left](/assets/images/jared_wolfe-photo.jpg){: .img-bio}
 
 Jared completed his MSc at the University of Regina studying the impacts of Oil Sands industrial development on historical algal communities in northern Saskatchewan. He is currently investigating harmful algal bloom formation and decline in the [Experimental Lakes Area](https://www.iisd.org/ela/) as part of the [FORMBLOOM](https://gwf.usask.ca/formbloom/) project. His interests are in studying relationships between ecosystem components, particularly the relationship between humans and the environment.
+
+### Matthew Roberts, MSc student
+
+Matthew completed his BSc in Biology and Chemistry at Wilfrid Laurier University. He did his MSc on shallow lake stratification. ("Investigating the Thermal Stratification Patterns of a Shallow Polymictic Boreal Shield Lake and the Effectiveness of Models in Predicting Shallow Lake Thermal Profiles" (2025). Theses and Dissertations (Comprehensive). 2723. 
+[https://scholars.wlu.ca/etd/2723]).
 
 ### Jeremy Leathers, MSc student
 
