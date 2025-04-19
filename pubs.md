@@ -13,16 +13,14 @@ header:
 
 ## Preprints, not yet peer-reviewed
 
-4.  Shah P, Venkiteswaran JJ, Molot LA, Higgins SN, Schiff SL, Baulch HM, RA Curry, Kidd KA, Korosi JB, Paterson AM, Pick FP, Walters D, Watson SB, Zastepa A. Low cobalt limits cyanobacteria heterocyst frequency in culture but potential for cobalt limitation of frequency in nitrogen-limited surface waters is unclear. ESSOAr <https://10.22541/essoar.169143854.47061989/v1>.
-
-3.  North RL, Venkiteswaran JJ, Silsbe G, Harrison JW, Hudson JJ, Smith REH, Dillon PJ, Pernica P, Guildford SJ, Kehoe M, Baulch HM. Winter matters: year-round metabolism in temperate water bodies. EarthArXiv <https://doi.org/10.31223/X5RQ1V>.
-
-2.	Tsuji JM, Shaw NA, Nagashima S, Venkiteswaran JJ, Schiff SL, Hanada S, Tank M, Neufeld DJ. Anoxygenic phototrophic *Chloroflexota* member uses a Type I reaction center. bioRxiv <https://doi.org/10.1101/2020.07.07.190934>.
+2.  North RL, Venkiteswaran JJ, Silsbe G, Harrison JW, Hudson JJ, Smith REH, Dillon PJ, Pernica P, Guildford SJ, Kehoe M, Baulch HM. Winter matters: year-round metabolism in temperate water bodies. EarthArXiv <https://doi.org/10.31223/X5RQ1V>.
 
 1.	Kehoe MJ, Ingalls BP, Venkiteswaran JJ, Baulch HM. Successful forecasting of harmful cyanobacteria blooms with high frequency lake data. bioRxiv <https://doi.org/10.1101/674325>.
 
 
 ## Peer-Reviewed
+
+63. 63.	Molot LA, Schiff SL, Baulch HM, Curry RA, Depew DC, Dove A, Higgins SN, Kidd KA, Korosi JB, Paterson AM, Pick FR, Venkiteswaran JJ, Watson SB, Zastepa A. 2025. Survey of metabolically essential trace metals in inland lakes and reservoirs across Canada: What constitutes a low metal system? Canadian Journal of Fisheries and Aquatic Sciences, <https://doi.org/10.1139/cjfas-2024-0078>.
 
 62. Shah P, Venkiteswaran JJ, Molot LA, Higgins SN, Schiff SL, Baulch HM, Zastepa A. 2024. Cobalt as a potential limiting factor for heterocyst frequency in nitrogen-limited Aphanizomenon and Dolichospermum: Evidence from experimental and field studies. Freshwater Biology, <https://doi.org/10.1111/fwb.14290>.
 
@@ -69,7 +67,6 @@ header:
 41.	Aukes PAK, Schiff SL, Venkiteswaran JJ, Elgood RJ, Spoelstra J. 2021. Size-Based Characterization of Freshwater Dissolved Organic Matter finds Similarities within a Water Body Type across Different Canadian Ecozones. Limnology and Oceanopgrahy Letters 6(2): 85-95, <https://doi.org/10.1002/lol2.10180>.
 
 40.	Molot LA, Schiff SL, Venkiteswaran JJ, Baulch HM, Higgins SN, Zastepa A, Verschoor M, Walters D. 2021. Low sediment redox promotes cyanobacteria across a trophic range: implications for bloom management. Lake and Reservoir Management 37(2): 120-142, <https://doi.org/10.1080/10402381.2020.1854400>.
-
 
 39. Larsen ML, Baulch HM, Schiff SL, Simon D, Sauvé S, Venkiteswaran JJ. 2020. Extreme rainfall drives early onset cyanobacterial bloom. FACETS 5(1): 899-920, <https://doi.org/10.1139/facets-2020-0022>.
 
@@ -153,11 +150,17 @@ header:
 
 ## Data
 
-6.	Leclerc É, Couture R-M, Venkiteswaran JJ. 2021. Data for: Quantifying arsenic post-depositional mobility in lake sediments impacted by gold ore roasting in sub-arctic Canada using inverse diagenetic modelling. Scholars Portal Dataverse, <https://doi.org/10.5683/SP2/TW3LGO>.
+9.	Molot LA, Schiff SL, Baulch HM, Curry RA, Depew DC, Dove A, Higgins SN, Kidd KA, Korosi JB, Paterson AM, Pick FR, Venkiteswaran JJ, Watson SB, Zastepa A. Survey of metabolically essential trace metals in inland lakes and reservoirs across Canada: What constitutes a low metal system? Borealis, <https://doi.org/10.5683/SP3/WV18W2>.
 
-5.	Jasiak I, Wolfe BB, Hall RI, Venkiteswaran JJ. 2021. Data for: Evaluating spatiotemporal patterns of arsenic, antimony, and lead deposition from legacy gold mine emissions using lake sediment records. Scholars Portal Dataverse, <https://doi.org/10.5683/SP2/TNYTQL>
+8.	Painter KJ, Venkiteswaran JJ, Baulch HM. 2023. Data for: Blooms and flows: effects of variable hydrology and management on reservoir water quality. Borealis <https://doi.org/10.5683/SP3/IP8JSZ>.
 
-4. Molot LA, Higgins SN, Schiff SL, Venkiteswaran JJ, Paterson MJ, Baulch HM. 2021, Phosphorus-only fertilization rapidly initiates large nitrogen-fixing cyanobacteria blooms in two oligotrophic lakes. Scholars Portal Dataverse, <https://doi.org/10.5683/SP2/Q7FYSI>.
+7.	Painter KJ, Venkiteswaran JJ, Simon DF, Duy SV, Sauvé S, Baulch HM. 2022. Data for: Early and late cyanobacterial bloomers in a shallow, eutrophic lake. Borealis, <https://doi.org/10.5683/SP3/MP6NXF>.
+
+6. Molot LA, Higgins SN, Schiff SL, Venkiteswaran JJ, Paterson MJ, Baulch HM. 2021, Phosphorus-only fertilization rapidly initiates large nitrogen-fixing cyanobacteria blooms in two oligotrophic lakes. Scholars Portal Dataverse, <https://doi.org/10.5683/SP2/Q7FYSI>.
+
+5.	Leclerc É, Couture R-M, Venkiteswaran JJ. 2021. Data for: Quantifying arsenic post-depositional mobility in lake sediments impacted by gold ore roasting in sub-arctic Canada using inverse diagenetic modelling. Scholars Portal Dataverse, <https://doi.org/10.5683/SP2/TW3LGO>.
+
+4.	Jasiak I, Wolfe BB, Hall RI, Venkiteswaran JJ. 2021. Data for: Evaluating spatiotemporal patterns of arsenic, antimony, and lead deposition from legacy gold mine emissions using lake sediment records. Scholars Portal Dataverse, <https://doi.org/10.5683/SP2/TNYTQL>
 
 3.	Atkins J, Venkiteswaran JJ. 2020. Bathymetric and hypsographic data for IISD-ELA Lakes L438, L627, and L628. Scholars Portal Dataverse, <https://doi.org/10.5683/SP2/LBS5T6>.
 
@@ -166,10 +169,10 @@ header:
 1.	Aukes PKA, Venkiteswaran JJ, Schiff SL, English MJ, Department of Municipal and Community Affairs, 2020. History of DOM & DBP in Drinking Water Sources across the Northwest Territories. Scholars Portal Dataverse, <https://doi.org/10.5683/SP2/4E6LGS>.
 {: reversed="reversed"}
 
+
 ## Other
 
 4. Aukes PKA, Guo T, Atkins J, Venkiteswaran JJ, Elgood RJ, English MJ, Schiff SL. 2021. How do different species of Disinfection By-Products compare to water quality guidelines?. figshare. Poster. <https://doi.org/10.6084/m9.figshare.14582946.v1>.
-
 
 3.	Campbell LM, Venkiteswaran JJ, Bond AL. 2014. Common Mistakes in Stable Isotope Terminology and Phraseology. figshare, <https://doi.org/10.6084/m9.figshare.1150337>.
 
