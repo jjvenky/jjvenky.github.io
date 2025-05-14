@@ -2,15 +2,14 @@
 title: "A (Not Really) New Graduate Program"
 layout: single
 date: "2025-05-01 12:00:00 -0500"
-output:
-  html_document:
-    df_print: paged
-tags: research
-share: yes
 categories: articles
+tags: [research]
+share: true
 ---
 
-After many decades, the Wool Gee Pig (Waterloo-Laurier Graduate Program in Geography, [W-LGPIG](https://uwaterloo.ca/waterloo-laurier-graduate-program-in-geography/)) is dead. In 2005, this was "now probably offer the largest graduate geography program in North America" (Martin 2005, All Possible Worlds, A History of Geographical Ideas). Both universities will revert to having their own stand-alone graduate programs (Laurier's starting in 1962 and Waterloo's staring in 1965), as before, and this means there is/was an opportunity to re-imagine what a good graduate program looks like.
+After many decades, the Wool Gee Pig (Waterloo-Laurier Graduate Program in Geography, [W-LGPIG](https://uwaterloo.ca/waterloo-laurier-graduate-program-in-geography/)) is dead.
+
+In 2005, this was "now probably offer the largest graduate geography program in North America" (Martin 2005, All Possible Worlds, A History of Geographical Ideas). Both universities will revert to having their own stand-alone graduate programs (Laurier's starting in 1962 and Waterloo's staring in 1965), as before, and this means there is/was an opportunity to re-imagine what a good graduate program looks like.
 
 The soon-to-be former requirements for a thesis-based masters (Master of Arts (MA), Master of Environmental Studies (MES), Master of Science (MSc)) were:
 
