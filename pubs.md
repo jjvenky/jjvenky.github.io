@@ -20,7 +20,9 @@ header:
 
 ## Peer-Reviewed
 
-63. 63.	Molot LA, Schiff SL, Baulch HM, Curry RA, Depew DC, Dove A, Higgins SN, Kidd KA, Korosi JB, Paterson AM, Pick FR, Venkiteswaran JJ, Watson SB, Zastepa A. 2025. Survey of metabolically essential trace metals in inland lakes and reservoirs across Canada: What constitutes a low metal system? Canadian Journal of Fisheries and Aquatic Sciences, <https://doi.org/10.1139/cjfas-2024-0078>.
+64. Stemkovski M, Bernhardt JR, Blonder BW, Bradford JB, Clark-Wolf K, Dee LE, Evans MEK, Iglesias V, Johnson LC, Lynch AJ, Malone SL, Osborne BB, Pastore MA, Paterson MJ, Pinsky ML, Rollinson CR, Selmoni O, Venkiteswaran JJ, Walker AP, Ward NK, Williams JW, Zarakas CM, Adler PB. 2025. Ecological acclimation: A framework to integrate fast and slow responses to climate change. Functional Ecology, <https://doi.org/10.1111/1365-2435.70079>.
+
+63. Molot LA, Schiff SL, Baulch HM, Curry RA, Depew DC, Dove A, Higgins SN, Kidd KA, Korosi JB, Paterson AM, Pick FR, Venkiteswaran JJ, Watson SB, Zastepa A. 2025. Survey of metabolically essential trace metals in inland lakes and reservoirs across Canada: What constitutes a low metal system? Canadian Journal of Fisheries and Aquatic Sciences, <https://doi.org/10.1139/cjfas-2024-0078>.
 
 62. Shah P, Venkiteswaran JJ, Molot LA, Higgins SN, Schiff SL, Baulch HM, Zastepa A. 2024. Cobalt as a potential limiting factor for heterocyst frequency in nitrogen-limited Aphanizomenon and Dolichospermum: Evidence from experimental and field studies. Freshwater Biology, <https://doi.org/10.1111/fwb.14290>.
 
