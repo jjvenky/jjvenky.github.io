@@ -4,7 +4,7 @@ title: Pubs
 excerpt: "Research publications"
 excerpt:
 permalink: /pubs/
-modified: 2023-08-29
+modified: 2025-11-10
 header:
   overlay_image: assets/images/cornus_feature.jpg
 #  credit: Jason Venkiteswaran
@@ -20,13 +20,17 @@ header:
 
 ## Peer-Reviewed
 
-64. Stemkovski M, Bernhardt JR, Blonder BW, Bradford JB, Clark-Wolf K, Dee LE, Evans MEK, Iglesias V, Johnson LC, Lynch AJ, Malone SL, Osborne BB, Pastore MA, Paterson MJ, Pinsky ML, Rollinson CR, Selmoni O, Venkiteswaran JJ, Walker AP, Ward NK, Williams JW, Zarakas CM, Adler PB. 2025. Ecological acclimation: A framework to integrate fast and slow responses to climate change. Functional Ecology, <https://doi.org/10.1111/1365-2435.70079>.
+66. Spence DS. Painter KJ, Nazemi A, Venkiteswaran JJ, Baulch HM. 2025. Climate variability and flow management impact phytoplankton biomass in a shallow reservoir. Environmental Science: Advances, <https://doi.org/10.1039/D5VA00094G>.
 
-63. Molot LA, Schiff SL, Baulch HM, Curry RA, Depew DC, Dove A, Higgins SN, Kidd KA, Korosi JB, Paterson AM, Pick FR, Venkiteswaran JJ, Watson SB, Zastepa A. 2025. Survey of metabolically essential trace metals in inland lakes and reservoirs across Canada: What constitutes a low metal system? Canadian Journal of Fisheries and Aquatic Sciences, <https://doi.org/10.1139/cjfas-2024-0078>.
+65. Spence DS. Painter KJ, Nazemi A, Venkiteswaran JJ, Baulch HM. 2025. Climate variability is an important driver of water treatability in a shallow reservoir. Science of the Total Environment 1004: 180786, <https://doi.org/10.1016/j.scitotenv.2025.180786>.
 
-62. Shah P, Venkiteswaran JJ, Molot LA, Higgins SN, Schiff SL, Baulch HM, Zastepa A. 2024. Cobalt as a potential limiting factor for heterocyst frequency in nitrogen-limited Aphanizomenon and Dolichospermum: Evidence from experimental and field studies. Freshwater Biology, <https://doi.org/10.1111/fwb.14290>.
+64. Stemkovski M, Bernhardt JR, Blonder BW, Bradford JB, Clark-Wolf K, Dee LE, Evans MEK, Iglesias V, Johnson LC, Lynch AJ, Malone SL, Osborne BB, Pastore MA, Paterson MJ, Pinsky ML, Rollinson CR, Selmoni O, Venkiteswaran JJ, Walker AP, Ward NK, Williams JW, Zarakas CM, Adler PB. 2025. Ecological acclimation: A framework to integrate fast and slow responses to climate change. Functional Ecology 39(8): 1923-1939, <https://doi.org/10.1111/1365-2435.70079>.
 
-61. Virgin TL, Sonthiphand P, Coyotzi S, Hall MW, Venkiteswaran JJ, Cejudo E, Elgood RJ, Schiff SL, Neufeld JD. 2024. Microbial communities change along the 300-km length of a highly impacted river for both extreme high- and low-flow regimes. Canadian Journal of Microbiology, <https://doi.org/10.1139/cjm-2023-0092>.
+63. Molot LA, Schiff SL, Baulch HM, Curry RA, Depew DC, Dove A, Higgins SN, Kidd KA, Korosi JB, Paterson AM, Pick FR, Venkiteswaran JJ, Watson SB, Zastepa A. 2025. Survey of metabolically essential trace metals in inland lakes and reservoirs across Canada: What constitutes a low metal system? Canadian Journal of Fisheries and Aquatic Sciences 82: 1-21, <https://doi.org/10.1139/cjfas-2024-0078>.
+
+62. Shah P, Venkiteswaran JJ, Molot LA, Higgins SN, Schiff SL, Baulch HM, Zastepa A. 2024. Cobalt as a potential limiting factor for heterocyst frequency in nitrogen-limited Aphanizomenon and Dolichospermum: Evidence from experimental and field studies. Freshwater Biology 69(8): 1069-1083, <https://doi.org/10.1111/fwb.14290>.
+
+61. Virgin TL, Sonthiphand P, Coyotzi S, Hall MW, Venkiteswaran JJ, Cejudo E, Elgood RJ, Schiff SL, Neufeld JD. 2024. Microbial communities change along the 300-km length of a highly impacted river for both extreme high- and low-flow regimes. Canadian Journal of Microbiology 70(7): 289-302, <https://doi.org/10.1139/cjm-2023-0092>.
 
 60. Tsuji JM, Shaw NA, Nagashima S, Venkiteswaran JJ, Schiff SL, Watanabe T, Fukui M, Hanada S, Tank M, Neufeld JD. 2024. Anoxygenic phototroph of the Chloroflexota uses a type I reaction centre. Nature 627: 915-922, <https://doi.org/10.1038/s41586-024-07180-y>.
 
