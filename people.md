@@ -22,6 +22,12 @@ My research is currently focused on the biogeochemical cycling of nutrients and 
 
 Daniela most recently completed her Master's degree in Water Security from the University of Saskatchewan, where she studied wetland drainage and its impacts on phosphorus loading into surface water. She also holds a Bachelor of Environmental and Resource Science from Trent University. Daniela is a part of the FORMBLOOM project, where she will help assess harmful algal bloom formation in Jackfish Lake, NWT.
 
+### Jeremy Leathers, MSc student
+
+![image-left](/assets/images/jeremy_leathers-photo.jpg){: .img-bio}
+
+Jeremy completed his Bachelor of Science degree in biology and geography at the University of Winnipeg.  He did his MSc as a part of [SAMMS](http://samms.ca), where he helped to determine the total organic carbon and arsenic stored within soil and peat within catchments affected by mining activities in the Northwest Territories. Now he is back to work harmful algal blooms at the [Experimental Lakes Area](https://www.iisd.org/ela/).
+
 ### Julia Kozak, MSc Student
 
 ![image-left](/assets/images/julia_kozak-photo.jpg){: .img-bio}
