@@ -30,7 +30,7 @@ Jeremy completed his Bachelor of Science degree in biology and geography at the 
 
 ### Julia Kozak, MSc Student
 
-![image-left](/assets/images/julia_kozak-photo.jpg){: .img-bio}
+![image-left](/assets/images/julia_kozak-photo.png){: .img-bio}
 
 Julia completed her Bachelor of Environmental Studies at the University of Manitoba, focusing on how dissolved organic carbon affects phytoplankton community compositions in boreal lakes. She will continue to study algal community structures in cyanobacterial blooms by investigating the correlation between bloom composition and sediment iron release.  
 
@@ -73,19 +73,19 @@ Jared completed his MSc at the University of Regina studying the impacts of Oil 
 ### Matthew Roberts, MSc student
 
 Matthew completed his BSc in Biology and Chemistry at Wilfrid Laurier University. He did his MSc on shallow lake stratification. ("Investigating the Thermal Stratification Patterns of a Shallow Polymictic Boreal Shield Lake and the Effectiveness of Models in Predicting Shallow Lake Thermal Profiles" (2025). Theses and Dissertations (Comprehensive). 2723. 
-[https://scholars.wlu.ca/etd/2723]).
+<https://scholars.wlu.ca/etd/2723>).
 
 ### Jeremy Leathers, MSc student
 
 ![image-left](/assets/images/jeremy_leathers-photo.jpg){: .img-bio}
 
-Jeremy completed his Bachelor of Science degree in biology and geography at the University of Winnipeg.  He did his MSc as a part of [SAMMS](http://samms.ca), where he helped to determine the total organic carbon and arsenic stored within soil and peat within catchments affected by mining activities in the Northwest Territories. ("Investigating the mobility of arsenic in subarctic mining pollution-affected peatlands near Yellowknife, Northwest Territories" (2024). Theses and Dissertations (Comprehensive). 2647. [https://scholars.wlu.ca/etd/2647]).
+Jeremy completed his Bachelor of Science degree in biology and geography at the University of Winnipeg.  He did his MSc as a part of [SAMMS](http://samms.ca), where he helped to determine the total organic carbon and arsenic stored within soil and peat within catchments affected by mining activities in the Northwest Territories. ("Investigating the mobility of arsenic in subarctic mining pollution-affected peatlands near Yellowknife, Northwest Territories" (2024). Theses and Dissertations (Comprehensive). 2647. <https://scholars.wlu.ca/etd/2647>).
 
 ### Catherine Goltz, MSc student
 
 ![image-left](/assets/images/catherine_goltz-photo.jpg){: .img-bio}
 
-Catherine completed her BSc (Honours) at the University of Winnipeg looking at how nitrogen influences cyanobacterial blooms and toxins. Her interest in blooms continues in her MSc where she will look at how iron release from sediment can be suppressed to shift algal communities in lakes. ("Nitrogen: Both a potential stimulator and suppressor of cyanobacterial blooms in temperate lakes" (2023). Theses and Dissertations (Comprehensive). 2589. [https://scholars.wlu.ca/etd/2589]).
+Catherine completed her BSc (Honours) at the University of Winnipeg looking at how nitrogen influences cyanobacterial blooms and toxins. Her interest in blooms continues in her MSc where she will look at how iron release from sediment can be suppressed to shift algal communities in lakes. ("Nitrogen: Both a potential stimulator and suppressor of cyanobacterial blooms in temperate lakes" (2023). Theses and Dissertations (Comprehensive). 2589. <https://scholars.wlu.ca/etd/2589>).
 
 ### Mackenzie Schultz, MSc student
 
@@ -97,23 +97,23 @@ Mackenzie completed her undergraduate degree at Wilfrid Laurier University study
 
 ![image-left](/assets/images/jordyn_atkins-photo.jpg){: .img-bio}
 
-In June 2021, Jordyn defended her [MSc thesis](https://scholars.wlu.ca/etd/2383) on how forested catchments and lake residence times control dissolved organic carbon and disinfection by-products at the [Experimental Lakes Area](https://www.iisd.org/ela/). ("Characterizing Boreal Shield Lakes and Catchments to Predict Dissolved Organic Carbon Concentration and Composition in Relation to Safe Drinking Water Sources with Minimal Disinfection By-Products" (2021). Theses and Dissertations (Comprehensive). 2383. [https://scholars.wlu.ca/etd/2383]).
+In June 2021, Jordyn defended her [MSc thesis](https://scholars.wlu.ca/etd/2383) on how forested catchments and lake residence times control dissolved organic carbon and disinfection by-products at the [Experimental Lakes Area](https://www.iisd.org/ela/). ("Characterizing Boreal Shield Lakes and Catchments to Predict Dissolved Organic Carbon Concentration and Composition in Relation to Safe Drinking Water Sources with Minimal Disinfection By-Products" (2021). Theses and Dissertations (Comprehensive). 2383. <https://scholars.wlu.ca/etd/2383>).
 
 ### Puru Shah, MSc student
 
 ![image-left](/assets/images/puru_shah-photo.jpg){: .img-bio} 
 
-In March 2021, Puru defended his [MSc thesis](https://scholars.wlu.ca/etd/2374) on algal and cyanobacterial cultures and how they interact with and take up iron to hopefully better understand the role of iron in harmful algal bloom formation. ("Characterization of Micronutrient Dependent Growth by Several Temperate Freshwater Phytoplankton" (2021). Theses and Dissertations (Comprehensive). 2374. [https://scholars.wlu.ca/etd/2374]).
+In March 2021, Puru defended his [MSc thesis](https://scholars.wlu.ca/etd/2374) on algal and cyanobacterial cultures and how they interact with and take up iron to hopefully better understand the role of iron in harmful algal bloom formation. ("Characterization of Micronutrient Dependent Growth by Several Temperate Freshwater Phytoplankton" (2021). Theses and Dissertations (Comprehensive). 2374. <https://scholars.wlu.ca/etd/2374>).
 
 ### Rachel Henderson, MSc student
 
 ![image-left](/assets/images/rachel_henderson-photo.jpg){: .img-bio}
 
-In September 2020, Rachel defended her [MSc thesis](https://scholars.wlu.ca/etd/2338) on the variability of dissolved and particulate stable carbon isotope values in a eutrophic boreal lake at the [Experimental Lakes Area](https://www.iisd.org/ela/). She is interested in the applications of geochemistry to solving environmental problems and how science can better inform public policy. ("Investigating diel, seasonal, and interannual variability of dissolved and particulate stable carbon isotope values in a eutrophic boreal lake" (2020). Theses and Dissertations (Comprehensive). 2338. [https://scholars.wlu.ca/etd/2338]).
+In September 2020, Rachel defended her [MSc thesis](https://scholars.wlu.ca/etd/2338) on the variability of dissolved and particulate stable carbon isotope values in a eutrophic boreal lake at the [Experimental Lakes Area](https://www.iisd.org/ela/). She is interested in the applications of geochemistry to solving environmental problems and how science can better inform public policy. ("Investigating diel, seasonal, and interannual variability of dissolved and particulate stable carbon isotope values in a eutrophic boreal lake" (2020). Theses and Dissertations (Comprehensive). 2338. <https://scholars.wlu.ca/etd/2338>).
 
 ### Eric McQuay, MSc student
 
-Eric defended his [MSc thesis](http://hdl.handle.net/10012/12867) in Earth Science in October 2017. His research focussed on the redox preconditions required for cyanobacteria dominance of phytoplankton blooms along the embayments of [Georgian Bay](https://doi.org/10.1139/cjfas-2016-0377). ("The Role of Nitrate in Controlling Iron Release from Sediment during Anoxia in Dimictic, Fresh Water Lakes." (2018). UWSpace. [http://hdl.handle.net/10012/12867].)
+Eric defended his [MSc thesis](http://hdl.handle.net/10012/12867) in Earth Science in October 2017. His research focussed on the redox preconditions required for cyanobacteria dominance of phytoplankton blooms along the embayments of [Georgian Bay](https://doi.org/10.1139/cjfas-2016-0377). ("The Role of Nitrate in Controlling Iron Release from Sediment during Anoxia in Dimictic, Fresh Water Lakes." (2018). UWSpace. <http://hdl.handle.net/10012/12867>.)
 
 ### Alexia Marten, BSc student
 
