@@ -13,6 +13,9 @@ header:
 
 ## Preprints, not yet peer-reviewed
 
+3.  Hutchins RHS, Leathers JG,Schiff SL,English MC,Schultz M,JJ,Tank S, Elgood RJ,Aukes PJK. Terrestrial inputs and in-lake processes shape dissolved organic matter along a permafrost gradient. ESS Open Archive <https://doi.org/10.22541/essoar.176642407.72032619/v1>.
+
+
 2.  North RL, Venkiteswaran JJ, Silsbe G, Harrison JW, Hudson JJ, Smith REH, Dillon PJ, Pernica P, Guildford SJ, Kehoe M, Baulch HM. Winter matters: year-round metabolism in temperate water bodies. EarthArXiv <https://doi.org/10.31223/X5RQ1V>.
 
 1.	Kehoe MJ, Ingalls BP, Venkiteswaran JJ, Baulch HM. Successful forecasting of harmful cyanobacteria blooms with high frequency lake data. bioRxiv <https://doi.org/10.1101/674325>.
