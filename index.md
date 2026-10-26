@@ -5,6 +5,8 @@ title: "Home"
 author_profile: true
 ---
 
-![](/assets/images/L239_sunset_sky.png)
+![Sunset sky over Lake 239 field site]](/assets/images/L239_sunset_sky.png)
 
-We bring together fieldwork, lab studies, and biogeochemical calculations to explore how catchment and climate factors shape the chemistry of headwater lakes. These lakes make great study systems because they are highly sensitive to changes in their surroundings. Working with students and colleagues, we develop and apply biogeochemical ideas using field data, new sensor-based measurements, and geospatial information. This helps us ask and answer big questions about how and why lakes change over time. Ultimately, our research tackles real-world challenges like the risk of low-oxygen events, harmful algal blooms (HABs), lake brownification (caused by increased dissolved organic matter from catchments), and ensuring safe drinking water under different climate scenarios.
+We combine fieldwork, laboratory experiments, and biogeochemical modeling to understand how catchment and climate drivers shape the chemistry of headwater lakes. Because these systems are exceptionally sensitive to environmental change, they serve as ideal sentinels for broader ecological shifts. 
+
+Collaborating with students and colleagues, we integrate field data, high-frequency sensor measurements, and geospatial analysis to investigate how and why lakes change over time. Ultimately, our research addresses critical real-world challenges—including oxygen depletion, harmful algal blooms (HABs), lake brownification from rising dissolved organic carbon, and safeguarding drinking water under a changing climate.
