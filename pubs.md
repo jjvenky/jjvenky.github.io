@@ -4,7 +4,7 @@ title: Pubs
 excerpt: "Research publications"
 excerpt:
 permalink: /pubs/
-modified: 2025-11-10
+modified: 2026-10-26
 header:
   overlay_image: assets/images/cornus_feature.jpg
 #  credit: Jason Venkiteswaran
@@ -13,7 +13,7 @@ header:
 
 ## Preprints, not yet peer-reviewed
 
-3.  Hutchins RHS, Leathers JG,Schiff SL,English MC,Schultz M,JJ,Tank S, Elgood RJ,Aukes PJK. Terrestrial inputs and in-lake processes shape dissolved organic matter along a permafrost gradient. ESS Open Archive <https://doi.org/10.22541/essoar.176642407.72032619/v1>.
+3.  Hutchins RHS, Leathers JG,Schiff SL,English MC,Schultz M,JJ,Tank S, Elgood RJ,Aukes PJK. Terrestrial inputs and in-lake processes shape dissolved organic matter along a permafrost gradient. ESS Open Archive <https://doi.org/10.22541/essoar.176642407.72032619/v3>.
 
 
 2.  North RL, Venkiteswaran JJ, Silsbe G, Harrison JW, Hudson JJ, Smith REH, Dillon PJ, Pernica P, Guildford SJ, Kehoe M, Baulch HM. Winter matters: year-round metabolism in temperate water bodies. EarthArXiv <https://doi.org/10.31223/X5RQ1V>.
