@@ -5,7 +5,7 @@ title: "Home"
 author_profile: true
 ---
 
-![Sunset sky over Lake 239 field site]](/assets/images/L239_sunset_sky.png)
+![Sunset sky over Lake 239 field site](/assets/images/L239_sunset_sky.png)
 
 We combine fieldwork, laboratory experiments, and biogeochemical modeling to understand how catchment and climate drivers shape the chemistry of headwater lakes. Because these systems are exceptionally sensitive to environmental change, they serve as ideal sentinels for broader ecological shifts. 
 
