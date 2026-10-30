@@ -12,8 +12,6 @@ header:
 
 ## Preprints, not yet peer-reviewed
 
-3. Hutchins RHS, Leathers JG, Schiff SL, English MC, Schultz M, Venkiteswaran JJ, Tank S, Elgood RJ, Aukes PJK. Terrestrial inputs and in-lake processes shape dissolved organic matter along a permafrost gradient. ESS Open Archive <https://doi.org/10.22541/essoar.176642407.72032619/v3>.
-
 2. North RL, Venkiteswaran JJ, Silsbe G, Harrison JW, Hudson JJ, Smith REH, Dillon PJ, Pernica P, Guildford SJ, Kehoe M, Baulch HM. Winter matters: year-round metabolism in temperate water bodies. EarthArXiv <https://doi.org/10.31223/X5RQ1V>.
 
 1. Kehoe MJ, Ingalls BP, Venkiteswaran JJ, Baulch HM. Successful forecasting of harmful cyanobacteria blooms with high frequency lake data. bioRxiv <https://doi.org/10.1101/674325>.
@@ -21,9 +19,11 @@ header:
 
 ## Peer-Reviewed
 
+68. Hutchins RHS, Leathers JG, Schiff SL, English MC, Schultz M, Venkiteswaran JJ, Tank S, Elgood RJ, Aukes PJK. 2026. Terrestrial inputs and in-lake processes shape dissolved organic matter along a permafrost gradient. Limnology and Oceanography 71(11): e70535, <https://doi.org/10.1002/lno.70535>.
+
 67. Baulch HM, Bauer J, Boyer L, Nugent K, Painter KJ, Venkiteswaran JJ, Vuleta L, Whitfield CJ. 2025. Dataset of high-frequency water quality and meteorological variables in Buffalo Pound Lake, Saskatchewan, Canada, 2014 – 2021. Data in Brief 112290, <https://doi.org/10.1016/j.dib.2025.112290>.
 
-66. Spence DS, Painter KJ, Nazemi A, Venkiteswaran JJ, Baulch HM. 2025. Climate variability and flow management impact phytoplankton biomass in a shallow reservoir. Environmental Science: Advances, <https://doi.org/10.1039/D5VA00094G>.
+66. Spence DS, Painter KJ, Nazemi A, Venkiteswaran JJ, Baulch HM. 2025. Climate variability and flow management impact phytoplankton biomass in a shallow reservoir. Environmental Science: Advances 4(12): 2138-2153, <https://doi.org/10.1039/D5VA00094G>.
 
 65. Spence DS, Painter KJ, Nazemi A, Venkiteswaran JJ, Baulch HM. 2025. Climate variability is an important driver of water treatability in a shallow reservoir. Science of the Total Environment 1004: 180786, <https://doi.org/10.1016/j.scitotenv.2025.180786>.
 
