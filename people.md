@@ -1,15 +1,17 @@
 ---
 layout: single
-title: People
+title: "People"
 excerpt: "People in the research group"
 modified: 2026-10-26
 permalink: /people/
 header:
   overlay_image: assets/images/L322_feature.jpg
-#  credit: Jason Venkiteswaran
+toc: true
+toc_sticky: true
+toc_label: "Lab Directory"
 ---
 
-# Current Members
+## Current Members
 
 ### Jason Venkiteswaran
 
@@ -27,9 +29,13 @@ Daniela most recently completed her Master's degree in Water Security from the U
 
 ![image-left](/assets/images/jeremy_leathers-photo.jpg){: .img-bio}
 
-Jeremy completed his Bachelor of Science degree in biology and geography at the University of Winnipeg. He did his MSc as a part of [SAMMS](http://samms.ca), where he helped to determine the total organic carbon and arsenic stored within soil and peat within catchments affected by mining activities in the Northwest Territories. Now he is back to work on harmful algal blooms at the [Experimental Lakes Area](https://www.iisd.org/ela/).
+Jeremy completed his Bachelor of Science degree in biology and geography at the University of Winnipeg and his M.Sc. with the lab. He is now back as a Ph.D. student to work on harmful algal blooms at the [Experimental Lakes Area](https://www.iisd.org/ela/).
 
-# Former Members
+### Isabel Baranoski, MSc student
+
+---
+
+## Former Members & Postdoctoral Fellows
 
 ### Leyden Fernandez, Postdoctoral fellow
 
@@ -65,6 +71,16 @@ You can find more information on Aukes' projects on his [personal website](https
 
 Jared completed his MSc at the University of Regina studying the impacts of Oil Sands industrial development on historical algal communities in northern Saskatchewan. He is currently investigating harmful algal bloom formation and decline in the [Experimental Lakes Area](https://www.iisd.org/ela/) as part of the [FORMBLOOM](https://gwf.usask.ca/formbloom/) project. His interests are in studying relationships between ecosystem components, particularly the relationship between humans and the environment.
 
+---
+
+## Graduate Alumni
+
+### Jeremy Leathers, MSc graduate
+
+![image-left](/assets/images/jeremy_leathers-photo.jpg){: .img-bio}
+
+Jeremy completed his Bachelor of Science degree in biology and geography at the University of Winnipeg. He did his MSc as a part of [SAMMS](http://samms.ca), where he helped to determine the total organic carbon and arsenic stored within soil and peat within catchments affected by mining activities in the Northwest Territories ("Investigating the mobility of arsenic in subarctic mining pollution-affected peatlands near Yellowknife, Northwest Territories" (2024). Theses and Dissertations (Comprehensive), 2647. <https://scholars.wlu.ca/etd/2647>).
+
 ### Julia Kozak, MSc graduate
 
 ![image-left](/assets/images/julia_kozak-photo.png){: .img-bio}
@@ -74,12 +90,6 @@ Julia completed her Bachelor of Environmental Studies at the University of Manit
 ### Matthew Roberts, MSc student
 
 Matthew completed his BSc in Biology and Chemistry at Wilfrid Laurier University. He did his MSc on shallow lake stratification ("Investigating the Thermal Stratification Patterns of a Shallow Polymictic Boreal Shield Lake and the Effectiveness of Models in Predicting Shallow Lake Thermal Profiles" (2025). Theses and Dissertations (Comprehensive), 2723. <https://scholars.wlu.ca/etd/2723>).
-
-### Jeremy Leathers, MSc student
-
-![image-left](/assets/images/jeremy_leathers-photo.jpg){: .img-bio}
-
-Jeremy completed his Bachelor of Science degree in biology and geography at the University of Winnipeg. He did his MSc as a part of [SAMMS](http://samms.ca), where he helped to determine the total organic carbon and arsenic stored within soil and peat within catchments affected by mining activities in the Northwest Territories ("Investigating the mobility of arsenic in subarctic mining pollution-affected peatlands near Yellowknife, Northwest Territories" (2024). Theses and Dissertations (Comprehensive), 2647. <https://scholars.wlu.ca/etd/2647>).
 
 ### Catherine Goltz, MSc student
 
@@ -115,6 +125,10 @@ In September 2020, Rachel defended her [MSc thesis](https://scholars.wlu.ca/etd/
 
 Eric defended his [MSc thesis](http://hdl.handle.net/10012/12867) in Earth Science in October 2017. His research focused on the redox preconditions required for cyanobacteria dominance of phytoplankton blooms along the embayments of [Georgian Bay](https://doi.org/10.1139/cjfas-2016-0377) ("The Role of Nitrate in Controlling Iron Release from Sediment during Anoxia in Dimictic, Fresh Water Lakes" (2018). UWSpace. <http://hdl.handle.net/10012/12867>).
 
+---
+
+## Undergraduate Alumni
+
 ### Alexia Marten, BSc student
 
 ![image-left](/assets/images/alexia_marten-photo.jpg){: .img-bio}
@@ -143,6 +157,8 @@ Tyler quantified the impacts of freeze-thaw cycles on nutrient release by ripari
 
 Amber finished her undergraduate degree at Wilfrid Laurier University studying Biology and Environmental Studies. She studied the relationship between temperature and rates of ebullition.
 
-# Friends
+---
 
-Friends are our collaborators at a variety of organisations and institutions. In some cases, they are co-supervisors, committee members, and/or co-applicants on grants. Often they are co-authors on our papers. In all cases, they are the extended group of people I like to work with. The model of a single professor with a lab full of students is antiquated and simply not how environmental and biogeochemical research is done. <!-- In alphabetical order: Helen Baulch, Nora Casson, Raoul Couture, Scott Higgins, Lewis Molot, Josh Neufeld, Rebecca North, Michael Paterson, Sherry Schiff, and Colin Whitfield. -->
+## Friends
+
+Friends are our collaborators at a variety of organisations and institutions. In some cases, they are co-supervisors, committee members, and/or co-applicants on grants. Often they are co-authors on our papers. In all cases, they are the extended group of people I like to work with. The model of a single professor with a lab full of students is antiquated and simply not how environmental and biogeochemical research is done.
