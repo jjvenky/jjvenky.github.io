@@ -7,5 +7,14 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'air' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.img-bio { /* Responsive images (ensure images don't scale beyond their parents) */max-width: 250px; /* part 1: Set a maximum relative to the parent*/width: auto\9; /* IE7-8 need help adjusting responsive images*/height: auto; /* part 2: Scale the height according to the width, otherwise you get stretching*/vertical-align: middle;border: 0;-ms-interpolation-mode: bicubic;}
-
+.img-bio {
+  max-width: 220px;          /* Slightly tighter maximum width for mobile/desktop harmony */
+  width: 100%;               /* Ensures it scales fluidly down on smaller screens */
+  height: auto;              /* Preserves exact aspect ratio without stretching */
+  object-fit: cover;         /* Safely crops images if dimensions aren't perfectly square */
+  border-radius: 8px;        /* Softens the hard corners for a modern aesthetic */
+  vertical-align: middle;
+  border: 0;
+  margin-right: 1.5rem;      /* Keeps text from hugging the right side of the image */
+  margin-bottom: 1rem;       /* Adds breathing room below on mobile viewports */
+}
