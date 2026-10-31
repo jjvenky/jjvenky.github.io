@@ -15,6 +15,7 @@ header:
 2. North RL, Venkiteswaran JJ, Silsbe G, Harrison JW, Hudson JJ, Smith REH, Dillon PJ, Pernica P, Guildford SJ, Kehoe M, Baulch HM. Winter matters: year-round metabolism in temperate water bodies. EarthArXiv <https://doi.org/10.31223/X5RQ1V>.
 
 1. Kehoe MJ, Ingalls BP, Venkiteswaran JJ, Baulch HM. Successful forecasting of harmful cyanobacteria blooms with high frequency lake data. bioRxiv <https://doi.org/10.1101/674325>.
+{: reversed="reversed"}
 
 
 ## Peer-Reviewed
