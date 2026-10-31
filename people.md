@@ -9,6 +9,7 @@ header:
 toc: true
 toc_sticky: true
 toc_label: "Lab Directory"
+toc_levels: 2
 ---
 
 ## Current Members
