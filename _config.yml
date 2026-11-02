@@ -9,9 +9,6 @@ github_username:  jjvenky
 sticky: true
 
 # Build settings
-markdown: kramdown
-kramdown:
-  toc_levels: 1..2
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 plugins:
   - jekyll-paginate

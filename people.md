@@ -14,43 +14,43 @@ toc_levels: 2
 
 ## Current Members
 
-### Jason Venkiteswaran
+**Jason Venkiteswaran**
 
 ![image-left](/assets/images/bio-photo.jpg){: .img-bio}
 
 My research is currently focused on the biogeochemical cycling of nutrients and related elements, and human and climate-related disruptions of these cycles. For more than a decade, I have conducted whole-ecosystem research at the world-renowned [Experimental Lakes Area](https://www.iisd.org/ela/) studying reservoir creation, ecosystem metabolism, and eutrophication. To study the fate of biogeochemical elements, I often use stable isotope measurements with process-based ecological models. I am a co-founder of the [Coalition to Save ELA](https://saveela.org).
 
-### Daniela Klicper, PhD student
+**Daniela Klicper, PhD student**
 
 ![image-left](/assets/images/daniela_klicper-photo.png){: .img-bio}
 
 Daniela most recently completed her Master's degree in Water Security from the University of Saskatchewan, where she studied wetland drainage and its impacts on phosphorus loading into surface water. She also holds a Bachelor of Environmental and Resource Science from Trent University. Daniela is a part of the FORMBLOOM project, where she will help assess harmful algal bloom formation in Jackfish Lake, NWT.
 
-### Jeremy Leathers, PhD student
+**Jeremy Leathers, PhD student**
 
 ![image-left](/assets/images/jeremy_leathers-photo.jpg){: .img-bio}
 
 Jeremy completed his Bachelor of Science degree in biology and geography at the University of Winnipeg and his M.Sc. with the lab. He is now back as a Ph.D. student to work on harmful algal blooms at the [Experimental Lakes Area](https://www.iisd.org/ela/).
 
-### Isabel Baranoski, MSc student
+**Isabel Baranoski, MSc student**
 
 ---
 
 ## Former Members & Postdoctoral Fellows
 
-### Leyden Fernandez, Postdoctoral fellow
+**Leyden Fernandez, Postdoctoral fellow**
 
 ![image-left](/assets/images/leyden_fernandez-photo.png){: .img-bio}
 
 Leyden Fernandez is a bioinformatician with expertise in biochemistry and microbiology. Her main research line has focused on multi-omics data analysis, from environmental microbiomes to clinically relevant bacteria. During her PhD studies at Uppsala University, Sweden, she investigated adaptation strategies of non-cyanobacterial diazotrophs in boreal lakes and ponds. She is currently analysing cyanobacterial genomes to investigate their diversity and evaluate drivers of cyanotoxin production as part of a cross-institutional collaborative [FORMBLOOM](http://formbloom.ca) project.
 
-### Kristin Painter, Postdoctoral fellow
+**Kristin Painter, Postdoctoral fellow**
 
 ![image-left](/assets/images/kristin_painter-photo.jpg){: .img-bio}
 
 Kristin Painter is a freshwater ecologist and biogeochemist. Her research has focused on land-to-lake transport, fate, and impact of anthropogenic nutrients and contaminants. She is currently investigating ecological and biogeochemical drivers of cyanobacterial bloom phenology as part of the [FORMBLOOM](http://formbloom.ca) project.
 
-### Megan L. Larsen, Postdoctoral fellow
+**Megan L. Larsen, Postdoctoral fellow**
 
 ![image-left](/assets/images/megan_larsen-photo.jpg){: .img-bio}
 
@@ -58,7 +58,7 @@ Megan Larsen is a microbial evolutionary ecologist who has focused on eco-evolut
 
 Read more about Larsen's research, professional development for students, and scientific outreach on her [personal webpage](https://meganllarsen.wordpress.com).
 
-### Pieter Aukes, Postdoctoral fellow
+**Pieter Aukes, Postdoctoral fellow**
 
 ![image-left](/assets/images/pieter_aukes-photo.jpg){: .img-bio}
 
@@ -66,7 +66,7 @@ Pieter looked at the variability in natural dissolved organic matter (DOM), with
 
 You can find more information on Aukes' projects on his [personal website](https://www.pieteraukes.ca).
 
-### Jared Wolfe, Research associate
+**Jared Wolfe, Research associate**
 
 ![image-left](/assets/images/jared_wolfe-photo.jpg){: .img-bio}
 
@@ -76,53 +76,53 @@ Jared completed his MSc at the University of Regina studying the impacts of Oil 
 
 ## Graduate Alumni
 
-### Jeremy Leathers, MSc graduate
+**Jeremy Leathers, MSc graduate**
 
 ![image-left](/assets/images/jeremy_leathers-photo.jpg){: .img-bio}
 
 Jeremy completed his Bachelor of Science degree in biology and geography at the University of Winnipeg. He did his MSc as a part of [SAMMS](http://samms.ca), where he helped to determine the total organic carbon and arsenic stored within soil and peat within catchments affected by mining activities in the Northwest Territories ("Investigating the mobility of arsenic in subarctic mining pollution-affected peatlands near Yellowknife, Northwest Territories" (2024). Theses and Dissertations (Comprehensive), 2647. <https://scholars.wlu.ca/etd/2647>).
 
-### Julia Kozak, MSc graduate
+**Julia Kozak, MSc graduate**
 
 ![image-left](/assets/images/julia_kozak-photo.png){: .img-bio}
 
 Julia completed her Bachelor of Environmental Studies at the University of Manitoba, focusing on how dissolved organic carbon affects phytoplankton community compositions in boreal lakes. She continued to study algal community structures in cyanobacterial blooms by investigating the correlation between bloom composition and sediment iron release ("Sediment Redox-Driven Iron Flux and Phytoplankton Community Responses: Implications for Cyanobacterial Suppression and Functional Stability Across Boreal Lakes" (2027). Theses and Dissertations (Comprehensive), 3000. <https://scholars.wlu.ca/etd/3000>).
 
-### Matthew Roberts, MSc student
+**Matthew Roberts, MSc student**
 
 Matthew completed his BSc in Biology and Chemistry at Wilfrid Laurier University. He did his MSc on shallow lake stratification ("Investigating the Thermal Stratification Patterns of a Shallow Polymictic Boreal Shield Lake and the Effectiveness of Models in Predicting Shallow Lake Thermal Profiles" (2025). Theses and Dissertations (Comprehensive), 2723. <https://scholars.wlu.ca/etd/2723>).
 
-### Catherine Goltz, MSc student
+**Catherine Goltz, MSc student**
 
 ![image-left](/assets/images/catherine_goltz-photo.jpg){: .img-bio}
 
 Catherine completed her BSc (Honours) at the University of Winnipeg looking at how nitrogen influences cyanobacterial blooms and toxins. Her interest in blooms continues in her MSc where she will look at how iron release from sediment can be suppressed to shift algal communities in lakes ("Nitrogen: Both a potential stimulator and suppressor of cyanobacterial blooms in temperate lakes" (2023). Theses and Dissertations (Comprehensive), 2589. <https://scholars.wlu.ca/etd/2589>).
 
-### Mackenzie Schultz, MSc student
+**Mackenzie Schultz, MSc student**
 
 ![image-left](/assets/images/mackenzie_schultz-photo.jpg){: .img-bio}
 
 Mackenzie completed her undergraduate degree at Wilfrid Laurier University studying Biology and Geography. She is excited to return for her MSc, as part of [SAMMS](http://samms.ca), where she will help characterize both terrestrial and aquatic metal deposition histories, stores, and pathways as a result of the mining industry.
 
-### Jordyn Atkins, MSc student
+**Jordyn Atkins, MSc student**
 
 ![image-left](/assets/images/jordyn_atkins-photo.jpg){: .img-bio}
 
 In June 2021, Jordyn defended her [MSc thesis](https://scholars.wlu.ca/etd/2383) on how forested catchments and lake residence times control dissolved organic carbon and disinfection by-products at the [Experimental Lakes Area](https://www.iisd.org/ela/) ("Characterizing Boreal Shield Lakes and Catchments to Predict Dissolved Organic Carbon Concentration and Composition in Relation to Safe Drinking Water Sources with Minimal Disinfection By-Products" (2021). Theses and Dissertations (Comprehensive), 2383. <https://scholars.wlu.ca/etd/2383>).
 
-### Puru Shah, MSc student
+**Puru Shah, MSc student**
 
 ![image-left](/assets/images/puru_shah-photo.jpg){: .img-bio}
 
 In March 2021, Puru defended his [MSc thesis](https://scholars.wlu.ca/etd/2374) on algal and cyanobacterial cultures and how they interact with and take up iron to better understand the role of iron in harmful algal bloom formation ("Characterization of Micronutrient Dependent Growth by Several Temperate Freshwater Phytoplankton" (2021). Theses and Dissertations (Comprehensive), 2374. <https://scholars.wlu.ca/etd/2374>).
 
-### Rachel Henderson, MSc student
+**Rachel Henderson, MSc student**
 
 ![image-left](/assets/images/rachel_henderson-photo.jpg){: .img-bio}
 
 In September 2020, Rachel defended her [MSc thesis](https://scholars.wlu.ca/etd/2338) on the variability of dissolved and particulate stable carbon isotope values in a eutrophic boreal lake at the [Experimental Lakes Area](https://www.iisd.org/ela/). She is interested in the applications of geochemistry to solving environmental problems and how science can better inform public policy ("Investigating diel, seasonal, and interannual variability of dissolved and particulate stable carbon isotope values in a eutrophic boreal lake" (2020). Theses and Dissertations (Comprehensive), 2338. <https://scholars.wlu.ca/etd/2338>).
 
-### Eric McQuay, MSc student
+**Eric McQuay, MSc student**
 
 Eric defended his [MSc thesis](http://hdl.handle.net/10012/12867) in Earth Science in October 2017. His research focused on the redox preconditions required for cyanobacteria dominance of phytoplankton blooms along the embayments of [Georgian Bay](https://doi.org/10.1139/cjfas-2016-0377) ("The Role of Nitrate in Controlling Iron Release from Sediment during Anoxia in Dimictic, Fresh Water Lakes" (2018). UWSpace. <http://hdl.handle.net/10012/12867>).
 
@@ -130,29 +130,29 @@ Eric defended his [MSc thesis](http://hdl.handle.net/10012/12867) in Earth Scien
 
 ## Undergraduate Alumni
 
-### Alexia Marten, BSc student
+**Alexia Marten, BSc student**
 
 ![image-left](/assets/images/alexia_marten-photo.jpg){: .img-bio}
 
 Alexia is an undergraduate student at Laurier who is in her final year studying Environmental Science. Her thesis focuses on determining spatial distribution patterns of phosphorus deposition throughout Muskoka; she is working with other students across eastern North America through the Linked Undergraduate Experiments on Nutrients network (LUGNuts).
 
-### Heather Jovanovic, BSc student
+**Heather Jovanovic, BSc student**
 
 ![image-left](/assets/images/heather_jovanovic-photo.jpg){: .img-bio}
 
 Heather completed her honours undergraduate thesis on nitrogen affecting cyanobacteria bloom toxicity as part of the [FORMBLOOM](https://gwf.usask.ca/formbloom/) and LUGNuts programs in 2020. She has gone on to pursue an MSc at the University of Manitoba where she will continue to study contaminants in freshwater ecosystems.
 
-### Ben Bell, BSc student
+**Ben Bell, BSc student**
 
 Ben assessed the patterns of land cover diversity at the [IISD Experimental Lakes Area](https://www.iisd.org/ela/).
 
-### Tyler Prentice, BSc student
+**Tyler Prentice, BSc student**
 
 ![image-left](/assets/images/tyler_prentice-photo.jpg){: .img-bio}
 
 Tyler quantified the impacts of freeze-thaw cycles on nutrient release by riparian vegetation. This was a contribution to the multi-university [lugnuts](https://biogeochem.github.io/lugnuts/) linked undergraduate research in nutrients.
 
-### Amber Cottle, BSc student
+**Amber Cottle, BSc student**
 
 ![image-left](/assets/images/amber_cottle-photo.jpg){: .img-bio}
 
