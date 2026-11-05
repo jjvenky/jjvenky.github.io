@@ -34,6 +34,10 @@ Jeremy completed his Bachelor of Science degree in biology and geography at the 
 
 **Isabel Baranoski, MSc student**
 
+Isabel completed her Bachelor of Science degree in biochemistry at the University of Winnipeg. She is currently assessing the factors that influence, and quantifying iron release from sediment in eutrophic lakes at the Experimental Lakes Area as part of the REMEdiation project.
+
+![image-left](/assets/images/isabel_baranoski-photo.jpg){: .img-bio}
+
 ---
 
 ## Former Members & Postdoctoral Fellows
