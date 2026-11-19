@@ -15,9 +15,9 @@ There are probably norms, expectations, and practices common within each discipl
 
 But with respect to GenAI/LLM/whatever use, this could vary widely between universities.
 
-"Graduate students must have endorsement from their advisor(s) and committee for the utilization of generative AI in their research and/or writing." [Student Responsibilities](https://academic-calendar.wlu.ca/section.php?cal=3&s=1188&ss=4733&y=94){.uri}, Laurier
+"Graduate students must have endorsement from their advisor(s) and committee for the utilization of generative AI in their research and/or writing." [Student Responsibilities](https://academic-calendar.wlu.ca/section.php?cal=3&s=1188&ss=4733&y=94), Laurier
 
-"Advisors (and advisory committees) should provide clear guidance and expectations on what degree of engagement with generative AI in research and/or writing is acceptable (if any). Collectively, the advisor, advisory committee, and graduate student should develop processes by which a student can attest to their own contributions (e.g., during research updates provided at committee meetings), while also noting how the use of generative AI tools contributed to their work." [Advisor Responsibilities](https://academic-calendar.wlu.ca/section.php?cal=3&s=1188&ss=4732&y=94){.uri}, Laurier
+"Advisors (and advisory committees) should provide clear guidance and expectations on what degree of engagement with generative AI in research and/or writing is acceptable (if any). Collectively, the advisor, advisory committee, and graduate student should develop processes by which a student can attest to their own contributions (e.g., during research updates provided at committee meetings), while also noting how the use of generative AI tools contributed to their work." [Advisor Responsibilities](https://academic-calendar.wlu.ca/section.php?cal=3&s=1188&ss=4732&y=94), Laurier
 
 There is nothing on the committee forms for master's or PhD students that would remind the committee to have this discussion or to remind everyone that it's not up to the advisor alone. If one committee member disagrees do they get removed from the committee?
 
